@@ -8,25 +8,47 @@
         const getRelativeDistance = (userCoords, cameraCoords) => {
             return Math.pow((Math.abs(userCoords.latitude) - Math.abs(cameraCoords.latitude)), 2) + Math.pow((Math.abs(userCoords.longitude) - Math.abs(cameraCoords.longitude)), 2)
         }
+        let currentCamera = 0
+        let closestCameras = []
 
-        const findNearestCamera = (userCoords) => {
-            //probs not best practice
-            let nearestCamera = {camera : {}, relativeDistance : 100000}
-
-            allCameras.forEach(camera => {
-                let dist = getRelativeDistance(userCoords, camera)
-                if (dist < nearestCamera.relativeDistance) {
-                    console.log("new nearest camera:", camera)
-                    nearestCamera = {camera, relativeDistance : dist}
-                }
-            })
-            console.log("final nearest camera:", nearestCamera)
-            document.getElementById("buttonAsk").style.display = "none"
+        const updateAllInfo = (nearestCamera) => {
             document.getElementById("cameraName").innerHTML = nearestCamera.camera.name
-            document.getElementById("cameraImage").src = `https://webcams.nyctmc.org/api/cameras/${nearestCamera.camera.id}/image`
-            document.getElementById("cameraLink").href = `./imageDeliverTesting.html?cameraId=${nearestCamera.camera.id}`
+            document.getElementById("cameraImage").src = `https://webcams.nyctmc.org/api/cameras/${nearestCamera.camera.id}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
+            document.getElementById("cameraLink").href = `./photobooth.html?cameraId=${nearestCamera.camera.id}`
+            document.getElementById("mapsLink").href = `https://www.google.com/maps/search/?api=1&query=${nearestCamera.camera.latitude}%2C${nearestCamera.camera.longitude}`
             document.getElementById("result").style.display = "block"
         }
+
+
+        const findNearestCamera = (userCoords) => {
+            document.getElementById('mainHeaderText').innerHTML = "Searching... one sec :)"
+            console.log("in nearest camera")
+            allCameras.sort((cameraA, cameraB) => {
+                return getRelativeDistance(userCoords, cameraA) - getRelativeDistance(userCoords, cameraB)
+            })
+            console.log("past sort")
+            closestCameras = allCameras.map(cam => { 
+                return {"camera" : cam, relativeDistance : 1000 }
+            })
+            console.log("past map")
+            document.getElementById("buttonAsk").style.display = "none"
+            updateAllInfo(closestCameras[currentCamera])
+        }
+        // const findNearestCamera = (userCoords) => {
+        //     //probs not best practice
+        //     let nearestCamera = {camera : {}, relativeDistance : 100000}
+
+        //     allCameras.forEach(camera => {
+        //         let dist = getRelativeDistance(userCoords, camera)
+        //         if (dist < nearestCamera.relativeDistance) {
+        //             console.log("new nearest camera:", camera)
+        //             nearestCamera = {camera, relativeDistance : dist}
+        //         }
+        //     })
+        //     console.log("final nearest camera:", nearestCamera)
+        //     closestCameras.push(nearestCamera)
+        //     updateAllInfo(closestCameras[0])
+        // }
 
         const getUserLocation = () => {
             document.getElementById("button").innerHTML = ''
@@ -57,6 +79,16 @@
             },
             { timeout: 10000, maximumAge: 60000 }
             );
+        }
+        
+
+        const refreshImage = () => {
+            updateAllInfo(closestCameras[currentCamera])
+        }
+
+        const getNextClosestCamera = () => {
+            currentCamera++
+            updateAllInfo(closestCameras[currentCamera])
         }
     </script>
     <style>
@@ -94,7 +126,8 @@
         }
 
         img {
-            min-width: 100%;
+            width: 100%;
+            max-height: 40vh;
         }
         #errorDiv {
             display: none;
@@ -106,14 +139,17 @@
   <body>
     <div id="main">
         <div id="buttonAsk">
-            <h1>Click the button to find your nearest camera!!</h1>
+            <h1 id="mainHeaderText">Click the button to find your nearest camera!!</h1>
             <button id="button" onclick="getUserLocation()">🧐🔎📸</button>
             <!-- <div id="buttonDiv" onclick="getUserLocation()">🧐🔎📸</div> -->
         </div>
         <div id="result">
-            <h1>Your nearest camera is <span id="cameraName"></span></h1>
-            <img id="cameraImage" src="">
+            <h1>Your nearest camera is "<span id="cameraName"></span>"</h1>
+            <img id="cameraImage" src="./holderLoading.gif">
             <br/>
+            <h2><a href="#" onclick='refreshImage()' id="refreshLink">Refresh Image</a><br/><span style="font-size: small;">(most update every 2s)</span></h2>
+            <h2><a href="#" onclick='getNextClosestCamera()' id="nextClosestCameraLink">Next Closest Camera</a><br/><span style="font-size: small;">(refresh to go back to beginning)</span></h2>
+            <h2><a href='' id="mapsLink">Find in Google Maps</a><br/><span style="font-size: small;">(close but not always super accurate,<br/>trust the street names more)</span></h2>
             <h2><a href="" id="cameraLink">I'm here!</a></h2>
         </div>
         <div id="errorDiv">
@@ -122,7 +158,7 @@
             <ol>
                 <li>Turn on location in Settings > Location > [Your Browser]</li>
                 <li>Find a QR sticker near one in the wild and scan it</li>
-                <li>Go to the <a href="./listPage.html">List Page</a> and find a camera near you</li>
+                <li>Go to the <a href="./listPage.html">List Page</a> or the <a href="./map.html">Map</a> to find a camera near you</li>
             </ol>
         </div>
     </div>

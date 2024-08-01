@@ -81,7 +81,7 @@
         })
         allCameras.forEach(camera => {
             let el = document.createElement('li')
-            el.innerHTML = `<a href="./imageDeliverTesting.html?cameraId=${camera.id}">${camera.name}</a>`
+            el.innerHTML = `<a href="./photobooth.html?cameraId=${camera.id}">${camera.name}</a>`
             switch (camera.area) {
                 case 'Manhattan':
                     document.getElementById("manhattan").appendChild(el)

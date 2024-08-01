@@ -60,8 +60,8 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
         var myIcon = L.icon({
-            iconUrl: 'camera.svg',
-            iconSize: [38, 95],
+            iconUrl: 'cameraIcon.png',
+            // iconSize: [38, 95],
             iconAnchor: [22, 94],
             popupAnchor: [-3, -76],
             // shadowUrl: 'my-icon-shadow.png',
@@ -75,13 +75,18 @@
                 this.name = name;
                 this.id = id;
                 this.marker = L.marker([this.lat, this.long], {icon : myIcon})
-                    .bindPopup(`Camera Name:${this.name}\n
-                    Camera Image:<img style="max-width: 100%" id='${this.id}' src='https://webcams.nyctmc.org/api/cameras/${this.id}/image'> 
-                    <a href='null'> Take Picture Here</a> 
-                    <button id='button_${this.id}' onclick='updateImage(${this.id}.toString())'>Refresh Image</button>`).addTo(map)
-                    // <button id='button_${this.id}' onclick='updateImage(${this.id})'>Refresh Image</button>`).addTo(map)
+                    .bindPopup(`<h2>Camera Name:<br/>${this.name}</h2>
+                    <img style="max-width: 100%" id='${this.name}' src='https://webcams.nyctmc.org/api/cameras/${this.id}/image'> 
+                    <h2><a href='./photobooth.html?cameraId=${this.id}'>Take Picture Here</a></h2>
+                    <h2><a href='https://www.google.com/maps/search/?api=1&query=${this.lat}%2C${this.long}'>Find in Google Maps (not always super accurate)</a></h2>
+                    elihsldfhslkfhdfj
+                    <!-- <h2><a href='#' onclick='() => {document.getElementById("${this.name}").src="https://webcams.nyctmc.org/api/cameras/${this.id}/image?cacheAvoidance=${this.cacheAvoidanceNum()}"}'>Refresh Image</a></h2>
+                    // <button id='button_${this.id}' onclick='updateImage(${this.name})'>Refresh Image</button> -->`).addTo(map)
             }
-
+            cacheAvoidanceNum = () => {
+                console.log("in achaec avoideance")
+                return Math.floor(Math.random() * 100000)
+            }
         }
 
         // THE PROBLEM HERE IS PROBABLY JUST THE DASHES IN THE ID STRING

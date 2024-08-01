@@ -7,9 +7,13 @@ TODO:
     - [ ] Color options (brat green, others?)
     - [ ] Single Polaroid version
     - [ ] Smile Back / Be REal
-- google maps link w/caveat
-- 3 closest
+- [x] google maps link w/caveat
+- [x] 3 closest (fixed with ability to go through all by distance)
 - about?
 - [ ] Add refresh button AND google maps link to:
-    - [ ] Find Camera Page
-    - [ ] Camera Popup Image on map
+    - [x] Find Camera Page - Maps Link
+    - [x] Find Camera Page - Refresh Button
+    - [x] Camera Popup Image on map - Maps Link
+    - [ ] Camera Popup Image on map - Refresh Button
+- [x] Fix Camera icon on map
+- [x] Loading image for findCamera before image loads

@@ -23,13 +23,14 @@
             padding-top: 10%;
             font-size: x-large;
         }
-        .filmstrip {
-            width: 80vw;
+
+        /* .filmstrip {
+            width: 70vw;
             max-height: 80%;
             display : flex;
             flex-direction: column;
             gap: 0px;
-            --background: rgba(0, 0, 0, 0.9);
+            --background: black;
             --hole-color: white;
             --size: 30px;
             
@@ -39,33 +40,43 @@
             
             border: var(--size) solid var(--background);
             padding: calc(var(--size) * 2.5);
-        }
+            text-align: center;
+        } */
 
         img {
             max-height: 30%;
             min-width: 100%
         }
 
-        .imageGap {
+        .card { 
+            width: 80%; 
+            background-color: white; 
+            margin: 3%; 
+            border: 1px solid; 
+        } 
+  
+        .card-txt { 
+            text-align: center; 
+            padding: 10px; 
+        } 
+
+        /* .imageGap {
             color: #363636
-        }
+        } */
     </style>
   </head>
   <body>
     <!-- <main>
     </main> -->
-    <div class="filmstrip">
-        <h1 id="mainText" style="margin: 0px; padding: 0px;">Photo Mode: <span style="text-decoration: underline" onclick="startManualMode()">Manual</span> <span style="text-decoration: underline" onclick="startAutoMode()">Auto</span></h1>
+    <div class="card">
+        <h2 id="mainText" style="margin: 0px; padding: 0px;">Mode: <span style="text-decoration: underline" onclick="startManualMode()">Manual</span> <span style="text-decoration: underline" onclick="startAutoMode()">Auto</span> <span style="text-decoration: underline" onclick="openOptions()">Options</span> <span style="text-decoration: underline" onclick="bratGreenBG(true)">otherOption</span></h2>
         <!-- In manual mode, make these things be like "pose for 3s and tap" -->
         <!-- In auto mode, make it show a 4s timer with "pose", request image on 3s   -->
         <!-- <button onclick="startManualMode()">Manual Mode</button>
         <button onclick="startAutoMode()">Auto Mode</button> -->
         <img id="image1" src="./holder.png" onclick="updateImage('image1')">
-        <p class="imageGap">wttdotm.com/traffic_camera_photobooth</p>
-        <img id="image2" src="./holder.png" onclick="updateImage('image2')">
-        <p class="imageGap">all camera photos public NYC DoT data</p>
-        <img id="image3" src="./holder.png" onclick="updateImage('image3')">
-
+        <p class="imageGap">TrafficCamPhotobooth.com | By @WTTDOTM</p>
+        <p class="imageGap">All data publicly available from NYC DoT</p>
     </div>
     <script>
         const updateImage = (imageDivId) => {
@@ -96,13 +107,60 @@
             Array.from(document.getElementsByTagName('img')).forEach((el, i) => {
                 setTimeout(() => {
                     //start the loader
-                    el.setAttribute('src', './holderLoading.gif')
+                    el.setAttribute('src', './holderAuto.gif')
                     //s into loader loader, grab the image
                     setTimeout(() => {
                         updateImage(el.id)}, s * 1000)
                 }, i * (s + 1) * 1000)
             })
         }
+
+
+        // console.log(document.styleSheets)
+
+        // const globalStyleSheet = document.styleSheets[0]
+        // const localStyleSheet = document.styleSheets[1]
+        // console.log(localStyleSheet)
+        //Diff options you can set
+
+        const resetAllStyles = () => {
+
+        }
+        const bratGreenBG = (undo = false) => {
+            if (!undo) {
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', '#8ACE00')
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'black')
+                document.body.style.setProperty('background', '#8ACE00')
+                document.body.style.setProperty('color', 'black')
+            } else {
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', 'black')
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'white')
+                document.body.style.setProperty('background', 'black')
+                document.body.style.setProperty('color', 'white')
+
+            }
+        }
+
+        // const allEyesBG = (undo = false) => {
+        //     if (!undo) {
+        //         document.body.style.setProperty('background', 'url(eyeTile.png)')
+        //         document.body.style.setProperty('background-repeat', 'repeat')
+        //         document.body.style.setProperty('background-size', '100px 100px')
+        //         document.body.style.setProperty('color', 'white')
+        //         document.body.style.setProperty('-webkit-text-stroke', '3px black')
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('background', 'url(eyeTile.png)')
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('background-repeat', 'repeat')
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('background-size', '100px 100px')
+
+        //     } else {
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('background', '#8ACE00')
+        //     }
+        // }
+        const setOptions = () => {
+
+        }
+        
+        const openOptions = bratGreenBG
     </script>
   </body>
 </html>

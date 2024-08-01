@@ -1,0 +1,199 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css"></style>
+    <script>
+        const queryString = window.location.search;
+        console.log(queryString);
+        const urlParams = new URLSearchParams(queryString);
+        let cameraId = urlParams.get('cameraId')
+        let activeFrame = 'filmstrip'
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Kalam:wght@300;400;700&display=swap');
+        /* .imageHolder {
+            display : flex;
+            flex-direction: column;
+        } */
+
+        body {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            background-color: black;
+            color: white;
+            padding-top: 10%;
+            font-size: x-large;
+        }
+
+        .filmstrip {
+            width: 70vw;
+            max-height: 80%;
+            display : flex;
+            flex-direction: column;
+            gap: 0px;
+            --background: black;
+            --hole-color: white;
+            --size: 30px;
+            
+            background:
+            conic-gradient(at var(--size),var(--background) 75%, var(--hole-color) 0)
+            0 0/calc(100% - var(--size)) calc(2*var(--size)) padding-box;
+            
+            border: var(--size) solid var(--background);
+            padding: calc(var(--size) * 2.5);
+            text-align: center;
+        }
+
+        img {
+            max-height: 30%;
+            min-width: 100%
+        }
+
+        .polaroid {
+            margin-top: 20vh;
+            width: 70vw;
+            max-height: 80%;
+            display : none;
+            flex-direction: column;
+            background: url(polaroidTexture.png);
+            background-repeat: repeat;
+            padding: 20px;
+            color: black;
+            text-align: center;
+        }
+
+        .polaroid img {
+            max-height: 100%;
+        }
+
+        #polaroidBottom {
+            margin: 40px;
+            font-size: 40px;
+            font-family: Kalam, cursive;
+            /* background-color: green; */
+        }
+
+        .polaroidTextInput {
+            font-size: xx-large;
+            display: none;
+            margin-top: 50px;
+        }
+
+        /* .imageGap {
+            color: #363636
+        } */
+    </style>
+  </head>
+  <body>
+    <!-- <main>
+    </main> -->
+    <div id="header">
+        <h2 id="mainText" style="margin: 0px; padding: 0px;">Mode: <span style="text-decoration: underline" onclick="startManualMode()">Manual</span> <span style="text-decoration: underline" onclick="startAutoMode()">Auto</span></h2>
+        <h2 id="backgroundText" style="margin: 0px; padding: 0px;">Background: <span style="text-decoration: underline" onclick="resetAllStyles()">Regular</span> <span style="text-decoration: underline" onclick="() => console.log('make eyes func')">Eyes</span> <span style="text-decoration: underline" onclick="bratGreenBG()">Brat</span></h2>
+        <h2 id="imageFrameText" style="margin: 0px; padding: 0px;">Frame: <span style="text-decoration: underline" onclick="updateFrame('filmstrip')">Photobooth</span> <span style="text-decoration: underline" onclick="updateFrame('polaroid')">Polaroid</span> <span style="text-decoration: underline" onclick="openOptions()">PiP</span></h2>
+    </div>
+    <div class="polaroid">
+        <img id="image1" src="./holder.png" onclick="updateImage('image1')">
+        <div id="polaroidBottom">I'm being watched :)</div>
+        <div id="credits">TrafficCamPhotobooth.com</div>
+    </div>
+    <div class="polaroidTextInput">
+        <label for="name">Polaroid Text:</label>
+        <input type="text" id="name" name="name"/>
+    </div>
+    <div class="filmstrip">
+        <!-- In manual mode, make these things be like "pose for 3s and tap" -->
+        <!-- In auto mode, make it show a 4s timer with "pose", request image on 3s   -->
+        <!-- <button onclick="startManualMode()">Manual Mode</button>
+        <button onclick="startAutoMode()">Auto Mode</button> -->
+        <img id="image1" src="./holder.png" onclick="updateImage('image1')">
+        <p class="imageGap">TrafficCamPhotobooth.com | By @WTTDOTM</p>
+        <img id="image2" src="./holder.png" onclick="updateImage('image2')">
+        <p class="imageGap">All data publicly available from NYC DoT</p>
+        <img id="image3" src="./holder.png" onclick="updateImage('image3')">
+
+    </div>
+    <script>
+        document.querySelector('input').addEventListener('change', (e) => {
+            console.log("current input value", document.querySelector('input').value)
+            console.log("current event val", e)
+            document.getElementById('polaroidBottom').innerHTML = document.querySelector('input').value
+        })
+
+        //Image Frame
+        const updateFrame = (frame) => {
+            activeFrame = frame
+            switch (activeFrame) {
+                case 'polaroid':
+                    document.getElementsByClassName('filmstrip')[0].style.setProperty('display', 'none')
+                    document.getElementsByClassName('polaroidTextInput')[0].style.setProperty('display', 'block')
+                    document.getElementsByClassName('polaroid')[0].style.setProperty('display', 'flex')
+                    break
+                case 'filmstrip':
+                    document.getElementsByClassName('filmstrip')[0].style.setProperty('display', 'flex')
+                    document.getElementsByClassName('polaroidTextInput')[0].style.setProperty('display', 'none')
+                    document.getElementsByClassName('polaroid')[0].style.setProperty('display', 'none')
+                    break
+            }
+        }
+    
+
+        const updateImage = (imageDivId) => {
+            console.log(Array.from(document.getElementsByTagName('img')))
+            console.log(document.getElementById(imageDivId))
+            document.getElementById(imageDivId).src = `https://webcams.nyctmc.org/api/cameras/${cameraId}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
+            if (
+                !document.getElementById('image1').src.includes('holder') &&
+                !document.getElementById('image2').src.includes('holder') &&
+                !document.getElementById('image3').src.includes('holder')
+            ) {
+                console.log(document.getElementById('image1').src, document.getElementById('image2').src, document.getElementById('image3').src)
+                document.getElementById('mainText').innerHTML = "Screenshot n send to morry"
+            }
+        }
+
+        //Image Taking Modes
+        const startManualMode = () => {
+            console.log("man mdoe un")
+            Array.from(document.getElementsByTagName('img')).forEach(el => {
+                console.log(el)
+                el.setAttribute('onclick', `updateImage('${el.id}')`)
+                console.log(el)
+                el.setAttribute('src', './holderManual.png')
+            }) 
+        }
+
+        const startAutoMode = (s = 4) => {
+            Array.from(document.getElementsByTagName('img')).forEach((el, i) => {
+                setTimeout(() => {
+                    //start the loader
+                    el.setAttribute('src', './holderAuto.gif')
+                    //s into loader loader, grab the image
+                    setTimeout(() => {
+                        updateImage(el.id)}, s * 1000)
+                }, i * (s + 1) * 1000)
+            })
+        }
+
+        //Background Functions
+        const bratGreenBG = (undo = false) => {
+            if (!undo) {
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', '#8ACE00')
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'black')
+                document.body.style.setProperty('background', '#8ACE00')
+                document.body.style.setProperty('color', 'black')
+            } else {
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', 'black')
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'white')
+                document.body.style.setProperty('background', 'black')
+                document.body.style.setProperty('color', 'white')
+
+            }
+        }
+
+        const resetAllStyles = () => {
+            bratGreenBG(true)
+        }
+    </script>
+  </body>
+</html>
