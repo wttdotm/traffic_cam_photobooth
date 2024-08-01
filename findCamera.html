@@ -14,7 +14,7 @@
         const updateAllInfo = (nearestCamera) => {
             document.getElementById("cameraName").innerHTML = nearestCamera.camera.name
             document.getElementById("cameraImage").src = `https://webcams.nyctmc.org/api/cameras/${nearestCamera.camera.id}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
-            document.getElementById("cameraLink").href = `./photobooth.html?cameraId=${nearestCamera.camera.id}`
+            document.getElementById("cameraLink").href = `./interstitial.html?cameraId=${nearestCamera.camera.id}`
             document.getElementById("mapsLink").href = `https://www.google.com/maps/search/?api=1&query=${nearestCamera.camera.latitude}%2C${nearestCamera.camera.longitude}`
             document.getElementById("result").style.display = "block"
         }
@@ -150,7 +150,7 @@
             <h2><a href="#" onclick='refreshImage()' id="refreshLink">Refresh Image</a><br/><span style="font-size: small;">(most update every 2s)</span></h2>
             <h2><a href="#" onclick='getNextClosestCamera()' id="nextClosestCameraLink">Next Closest Camera</a><br/><span style="font-size: small;">(refresh to go back to beginning)</span></h2>
             <h2><a href='' id="mapsLink">Find in Google Maps</a><br/><span style="font-size: small;">(close but not always super accurate,<br/>trust the street names more)</span></h2>
-            <h2><a href="" id="cameraLink">I'm here!</a></h2>
+            <h2><a href="" id="cameraLink">I'm ready!</a></h2>
         </div>
         <div id="errorDiv">
             <h1>Geolocation Error</h1>

@@ -1,0 +1,92 @@
+<html>
+  <head>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.js"></script> -->
+    <link rel="stylesheet" href="styles.css"></style>
+    <script>
+        const queryString = window.location.search;
+        console.log(queryString);
+        const urlParams = new URLSearchParams(queryString);
+        let cameraId = urlParams.get('cameraId')
+
+    </script>
+    <style>
+
+        img {
+            width: 100%;
+            max-height: 40vh;
+        }
+        #errorDiv {
+            display: none;
+            text-align: left;
+            padding: 5vw
+        }
+
+        .interstitialMain {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 5%;
+        }
+
+        button {
+            min-width: 70vw;
+            height: 5vh;
+            background-color: #efefef;
+            padding : 20px;
+            font-size: 3rem;
+            padding: 20px;
+            border-radius: 20px;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="interstitialMain">
+        <h1 id="mainHeaderText">How to take a good traffic camera picture:</h1>
+        <div style="text-align: left;">
+            <div style="margin-top: 20px;">
+                <b>1. Make sure you're in frame</b>
+                <p>Can you see yourself? If not, <a href="#" onclick="refreshImage()">refresh</a> until you can!</p>
+                <img id="image" src="">
+            </div>
+            <div>
+                <br/>
+                <b>2. Don't get run over</b>
+                <p>Stop traffic with your looks, not your body</p><br/>
+            </div>
+            <div>
+                <b>3. Bolder is better</b>
+                <p>To stand out, wear bright colors, bring large groups, etc</p>
+                <br/>
+            </div>
+            <div>
+                <b>4. Know how the cameras work</b>
+                <p>The cameras only take new photos every two seconds, so hold your pose :)</p>
+                <br/>
+            </div>
+            <div style="text-align: center; font-size: xx-large;">
+                <a class="finalLink" href="">
+                    <button id="button" onclick="getUserLocation()">📸 > Take My Photo! > 📸</button>
+                  </a>
+                  
+                <!-- <b><a class="finalLink" id="finalLink" href="">>>>>>>>>>>>>>>>>>>>>>>>>>></a></b><br/>
+                <b><a class="finalLink" id="finalLink" href="">📸 > Take My Photo > 📸</a></b><br/>
+                <b><a class="finalLink" id="finalLink" href="">>>>>>>>>>>>>>>>>>>>>>>>>>></a></b> -->
+            </div>
+        </div>
+    </div>
+    <script>
+        const refreshImage = () => {
+            document.getElementById('image').setAttribute('src', `https://webcams.nyctmc.org/api/cameras/${cameraId}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`)
+        }
+        refreshImage()
+        let allLinks = document.getElementsByClassName('finalLink')
+        console.log(allLinks)
+        for (let link of allLinks) {
+            link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}`)
+        }
+        // .forEach(el => el.setAttribute('href', `./photobooth.html?cameraId=${cameraId}`))
+    </script>
+  </body>
+</html>
