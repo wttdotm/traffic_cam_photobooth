@@ -3,6 +3,20 @@
     <script>
     </script>
     <link rel="stylesheet" href="styles.css"></style>
+    <style>
+      .onDesktop {
+        color: red;
+        font-weight: bolder;
+        font-size: xx-large;
+        display: none;
+      }
+
+      @media only screen and (min-width: 1000px) {
+        .onDesktop {
+          display: block
+        }
+      }
+    </style>
   </head>
   <body>
       <div id="main">
@@ -10,7 +24,12 @@
         <p><i>A project by <a href="https://wttdotm.com">WTTDOTM</a></i></p>
         <br/>
         <p>Get started by finding your <br/><b>📸 <a href="./findCamera.html">nearest camera</a> 📸</b><br/>or browse the <br/>🧭 <b><a href="./map.html">camera map</a></b> 🧭</p>
-        
+        <div class="onDesktop">
+          <b>It looks like you might be on a computer and not a phone. <br/>
+            I did not make a desktop version of this site<br/>
+            (and also I do not want you to bring your laptop into an intersection).<br/>
+            You can still use it, but it will look bad and might break :)</b>
+        </div>
     </div>
   </body>
 </html>
