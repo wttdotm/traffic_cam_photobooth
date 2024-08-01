@@ -1,0 +1,19 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#main {
+    padding: 8%;
+    margin-top: -30vh;
+    text-align: center;
+    font-size: xx-large;
+}

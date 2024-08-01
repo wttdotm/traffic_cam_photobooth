@@ -1,0 +1,108 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css"></style>
+    <script>
+        const queryString = window.location.search;
+        console.log(queryString);
+        const urlParams = new URLSearchParams(queryString);
+        let cameraId = urlParams.get('cameraId')
+
+    </script>
+    <style>
+        /* .imageHolder {
+            display : flex;
+            flex-direction: column;
+        } */
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black;
+            color: white;
+            padding-top: 10%;
+            font-size: x-large;
+        }
+        .filmstrip {
+            width: 80vw;
+            max-height: 80%;
+            display : flex;
+            flex-direction: column;
+            gap: 0px;
+            --background: rgba(0, 0, 0, 0.9);
+            --hole-color: white;
+            --size: 30px;
+            
+            background:
+            conic-gradient(at var(--size),var(--background) 75%, var(--hole-color) 0)
+            0 0/calc(100% - var(--size)) calc(2*var(--size)) padding-box;
+            
+            border: var(--size) solid var(--background);
+            padding: calc(var(--size) * 2.5);
+        }
+
+        img {
+            max-height: 30%;
+            min-width: 100%
+        }
+
+        .imageGap {
+            color: #363636
+        }
+    </style>
+  </head>
+  <body>
+    <!-- <main>
+    </main> -->
+    <div class="filmstrip">
+        <h1 id="mainText" style="margin: 0px; padding: 0px;">Photo Mode: <span style="text-decoration: underline" onclick="startManualMode()">Manual</span> <span style="text-decoration: underline" onclick="startAutoMode()">Auto</span></h1>
+        <!-- In manual mode, make these things be like "pose for 3s and tap" -->
+        <!-- In auto mode, make it show a 4s timer with "pose", request image on 3s   -->
+        <!-- <button onclick="startManualMode()">Manual Mode</button>
+        <button onclick="startAutoMode()">Auto Mode</button> -->
+        <img id="image1" src="./holder.png" onclick="updateImage('image1')">
+        <p class="imageGap">wttdotm.com/traffic_camera_photobooth</p>
+        <img id="image2" src="./holder.png" onclick="updateImage('image2')">
+        <p class="imageGap">all camera photos public NYC DoT data</p>
+        <img id="image3" src="./holder.png" onclick="updateImage('image3')">
+
+    </div>
+    <script>
+        const updateImage = (imageDivId) => {
+            console.log(Array.from(document.getElementsByTagName('img')))
+            console.log(document.getElementById(imageDivId))
+            document.getElementById(imageDivId).src = `https://webcams.nyctmc.org/api/cameras/${cameraId}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
+            if (
+                !document.getElementById('image1').src.includes('holder') &&
+                !document.getElementById('image2').src.includes('holder') &&
+                !document.getElementById('image3').src.includes('holder')
+            ) {
+                console.log(document.getElementById('image1').src, document.getElementById('image2').src, document.getElementById('image3').src)
+                document.getElementById('mainText').innerHTML = "Screenshot n send to morry"
+            }
+        }
+
+        const startManualMode = () => {
+            console.log("man mdoe un")
+            Array.from(document.getElementsByTagName('img')).forEach(el => {
+                console.log(el)
+                el.setAttribute('onclick', `updateImage('${el.id}')`)
+                console.log(el)
+                el.setAttribute('src', './holderManual.png')
+            }) 
+        }
+
+        const startAutoMode = (s = 4) => {
+            Array.from(document.getElementsByTagName('img')).forEach((el, i) => {
+                setTimeout(() => {
+                    //start the loader
+                    el.setAttribute('src', './holderLoading.gif')
+                    //s into loader loader, grab the image
+                    setTimeout(() => {
+                        updateImage(el.id)}, s * 1000)
+                }, i * (s + 1) * 1000)
+            })
+        }
+    </script>
+  </body>
+</html>

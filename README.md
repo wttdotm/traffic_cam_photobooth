@@ -1,0 +1,15 @@
+TODO:
+- [ ] Interstitial with 
+    - [ ] Don't walk into traffic
+    - [ ] Make sure you are in frame
+    - [ ] ????
+- [ ] Styling options for photobooth
+    - [ ] Color options (brat green, others?)
+    - [ ] Single Polaroid version
+    - [ ] Smile Back / Be REal
+- google maps link w/caveat
+- 3 closest
+- about?
+- [ ] Add refresh button AND google maps link to:
+    - [ ] Find Camera Page
+    - [ ] Camera Popup Image on map
