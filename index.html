@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css"></style>
     <style>
       .onDesktop {
-        color: red;
+        color: black;
         font-weight: bolder;
         font-size: xx-large;
         display: none;
@@ -15,6 +15,10 @@
         .onDesktop {
           display: block
         }
+
+        .notOnDesktop {
+          display: none;
+        }
       }
     </style>
   </head>
@@ -23,12 +27,13 @@
         <h1>Welcome to Traffic Cam Photobooth</h1>
         <p><i>A project by <a href="https://wttdotm.com">WTTDOTM</a></i></p>
         <br/>
-        <p>Get started by finding your <br/><b>📸 <a href="./findCamera.html">nearest camera</a> 📸</b><br/>or browse the <br/>🧭 <b><a href="./map.html">camera map</a></b> 🧭</p>
+        <p class="notOnDesktop">Get started by finding your <br/><b>📸 <a href="./findCamera.html">nearest camera</a> 📸</b><br/>or browse the <br/>🧭 <b><a href="./map.html">camera map</a></b> 🧭</p>
         <div class="onDesktop">
-          <b>It looks like you might be on a big tablet or a computer and not a phone.<br/>
-            I did not make a version of this site for those sizes of screen,<br/>
-            (and also I do not want you to bring your device into an intersection).<br/>
-            You can still use it!! But it will look bad and might break, sorry :(</b>
+          <b>It looks like you might be on desktop, which I did not design for because I do not want you to bring your laptop into traffic :(
+            <br/>
+            <br/>
+            You can browse the <a href="./map.html">Camera Map</a> in the meantime!</b><br/>
+            Come back when you're outside :)
         </div>
     </div>
   </body>
