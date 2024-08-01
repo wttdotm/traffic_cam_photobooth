@@ -77,9 +77,8 @@
                 this.marker = L.marker([this.lat, this.long], {icon : myIcon})
                     .bindPopup(`<h2>Camera Name:<br/>${this.name}</h2>
                     <img style="max-width: 100%" id='${this.name}' src='https://webcams.nyctmc.org/api/cameras/${this.id}/image'> 
-                    <h2><a href='./photobooth.html?cameraId=${this.id}'>Take Picture Here</a></h2>
+                    <h2><a href='./interstitial.html?cameraId=${this.id}'>Take Picture Here</a></h2>
                     <h2><a href='https://www.google.com/maps/search/?api=1&query=${this.lat}%2C${this.long}'>Find in Google Maps (not always super accurate)</a></h2>
-                    elihsldfhslkfhdfj
                     <!-- <h2><a href='#' onclick='() => {document.getElementById("${this.name}").src="https://webcams.nyctmc.org/api/cameras/${this.id}/image?cacheAvoidance=${this.cacheAvoidanceNum()}"}'>Refresh Image</a></h2>
                     // <button id='button_${this.id}' onclick='updateImage(${this.name})'>Refresh Image</button> -->`).addTo(map)
             }
