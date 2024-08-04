@@ -25,6 +25,7 @@ For Launch:
         - [ ] On updateImage()
 - [ ] Twitter card
 - [ ] Link preview card
+- [ ] Assorted Meta Tags in general
 - [ ] About
 - [ ] Write blog post
 
