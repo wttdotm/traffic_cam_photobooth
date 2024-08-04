@@ -17,6 +17,21 @@ TODO:
     - [-] Camera Popup Image on map - Refresh Button
 - [x] Fix Camera icon on map
 - [x] Loading image for findCamera before image loads
+
+For Launch:
+- [ ] Make pixel:
+    - [ ] Trigger
+        - [ ] On page visit
+        - [ ] On updateImage()
 - [ ] Twitter card
 - [ ] Link preview card
 - [ ] About
+- [ ] Write blog post
+
+KNOWN BUGS:
+- [x] On mobile devices the polaroid camera is squashed
+
+Stretch Goals:
+- [ ] Add Seattle
+- [ ] Add Atlanta
+- [ ] Add SLC
