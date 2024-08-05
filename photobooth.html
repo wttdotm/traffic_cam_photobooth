@@ -168,7 +168,7 @@
 
         const updateImage = (imageDivId) => {
             //let me know a pic has been taken
-            let pixel = fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=picTaken')
+            fetch(`https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=picTaken&frame=${activeFrame}`)
 
 
             console.log(Array.from(document.getElementsByTagName('img')))
