@@ -1,4 +1,8 @@
-TODO:
+# Repo for TrafficCamPhotobooth.com
+
+Hi :)
+
+### TODO:
 - [x] Interstitial with 
     - [x] Don't walk into traffic
     - [x] Make sure you are in frame
@@ -19,11 +23,11 @@ TODO:
 - [x] Loading image for findCamera before image loads
 
 For Launch:
-- [ ] Make pixel:
-    - [ ] Trigger
-        - [ ] On page visit
-        - [ ] On updateImage()
-- [ ] Twitter card
+- [x] Make pixel:
+    - [x] Trigger
+        - [x] On page visit
+        - [x] On updateImage()
+- [x] Twitter card (i think?)
 - [x] Link preview card
 - [x] Assorted Meta Tags in general
 - [x] About
