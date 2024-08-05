@@ -167,6 +167,10 @@
     
 
         const updateImage = (imageDivId) => {
+            //let me know a pic has been taken
+            let pixel = fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=picTaken')
+
+
             console.log(Array.from(document.getElementsByTagName('img')))
             console.log(document.getElementById(imageDivId))
             document.getElementById(imageDivId).src = `https://webcams.nyctmc.org/api/cameras/${cameraId}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
