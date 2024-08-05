@@ -1,5 +1,6 @@
 <html>
-  <head>List of all NYC cameras</title> 
+  <head>
+    <title>List of all NYC cameras</title> 
     <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.js"></script> -->
     <link rel="stylesheet" href="styles.css"></style>
     <script>
@@ -45,7 +46,7 @@
     </style>
   </head>
   <body>
-    <div id="main">
+    <div class="main" id="main">
         <h1>The Big List</h1>
         <button class="accordion">Manhattan</button>
         <div class="panel">
@@ -81,7 +82,7 @@
         })
         allCameras.forEach(camera => {
             let el = document.createElement('li')
-            el.innerHTML = `<a href="./photobooth.html?cameraId=${camera.id}">${camera.name}</a>`
+            el.innerHTML = `<a href="./interstitial.html?cameraId=${camera.id}">${camera.name}</a>`
             switch (camera.area) {
                 case 'Manhattan':
                     document.getElementById("manhattan").appendChild(el)
