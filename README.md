@@ -24,10 +24,11 @@ For Launch:
         - [ ] On page visit
         - [ ] On updateImage()
 - [ ] Twitter card
-- [ ] Link preview card
-- [ ] Assorted Meta Tags in general
-- [ ] About
+- [x] Link preview card
+- [x] Assorted Meta Tags in general
+- [x] About
 - [ ] Write blog post
+- [ ] Write video
 
 KNOWN BUGS:
 - [x] On mobile devices the polaroid camera is squashed
