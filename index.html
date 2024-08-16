@@ -19,6 +19,7 @@
     <meta name="twitter:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
     <meta name="twitter:image" content="https://trafficcamphotobooth.com/linkPreview.png">
     <link rel="stylesheet" href="styles.css"></style>
+    <script src="https://unpkg.com/htmx.org@2.0.2" integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ" crossorigin="anonymous"></script>
     <script>
       //this is diy alternative to a google analytics
       //it only logs IP (for calcultating unique views) and event type
@@ -26,7 +27,9 @@
       //pls do not spam I just want to know how many ppl use my site
       //you can view the source code at https://github.com/we-make-internet/home-page/blob/main/www/diyPixel/trafficCamPixel.php
       fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=pageView')
+
     </script>
+    <meta name="htmx-config" content='{"selfRequestsOnly":false}'> 
     <style>
       .onDesktop {
         color: black;
@@ -34,6 +37,17 @@
         font-size: xx-large;
         display: none;
       }
+      form {
+        margin: 0 auto;
+        font-size: 1.2em;
+        width: 80%; 
+        min-height: 30px; 
+        align-self: center;
+        align-items: center; 
+        justify-content: center;
+      }
+
+      input {font-size: xx-large;}
 
       @media only screen and (min-width: 1000px) {
         .onDesktop {
@@ -61,6 +75,12 @@
             You can browse the <a href="./map.html?onDesktop=yes">Camera Map</a> in the meantime!</b><br/>
             Come back when you're outside :)
         </div>
+      <br/>
+      <br/>
+        <p>Hear About New Projects:</p>
+        <form hx-post="https://wttdotm-email_capture.web.val.run/">
+          <input type="email" id="email" name="email" placeholder="your@email.com">  <input type="submit" value="Submit">
+      </form>
     </div>
   </body>
 </html>
