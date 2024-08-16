@@ -20,6 +20,6 @@ Here is the basic stuff to keep in mind:
 
 - *Camera Update Speed*: Slowly updating cameras are not a good experience for the user, and I do not want to create a site that encourages people to stand in the street for minutes at a time. With a PR, please provide how often the images (or video) from the cameras will update. Any image refresh rate slower than 15s is probably not worth putting on. 
 
-I understand that these place some restrictions on which cities can reasonably be added. For a project like this, a free site that always works well and can live forever is better than one with more features that cost money and needs to be maintained.
+I understand that these place some restrictions on which cities can reasonably be added. For a project like this, a free site that always works well and can live forever is better than one with more features that costs money and needs to be maintained.
 
 Other than that, go wild. Just fork it, build it out, and submit :)
