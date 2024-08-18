@@ -8,7 +8,8 @@
         console.log(queryString);
         const urlParams = new URLSearchParams(queryString);
         let cameraId = urlParams.get('cameraId')
-
+        let cameraUrl = urlParams.get('cameraUrl')
+        console.log(cameraId, cameraUrl)
     </script>
     <style>
 
@@ -80,13 +81,13 @@
     </div>
     <script>
         const refreshImage = () => {
-            document.getElementById('image').setAttribute('src', `https://webcams.nyctmc.org/api/cameras/${cameraId}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`)
+            document.getElementById('image').setAttribute('src', `${cameraUrl}?cacheAvoidance=${Math.floor(Math.random() * 100000)}`)
         }
         refreshImage()
         let allLinks = document.getElementsByClassName('finalLink')
         console.log(allLinks)
         for (let link of allLinks) {
-            link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}`)
+            link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
         }
         // .forEach(el => el.setAttribute('href', `./photobooth.html?cameraId=${cameraId}`))
     </script>

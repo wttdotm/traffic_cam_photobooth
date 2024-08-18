@@ -7,6 +7,8 @@
         console.log(queryString);
         const urlParams = new URLSearchParams(queryString);
         let cameraId = urlParams.get('cameraId')
+        let cameraUrl = urlParams.get('cameraUrl')
+        console.log(cameraId, cameraUrl)
         let activeFrame = 'filmstrip'
     </script>
     <style>
@@ -175,7 +177,7 @@
 
             console.log(Array.from(document.getElementsByTagName('img')))
             console.log(document.getElementById(imageDivId))
-            document.getElementById(imageDivId).src = `https://webcams.nyctmc.org/api/cameras/${cameraId}/image?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
+            document.getElementById(imageDivId).src = `${cameraUrl}?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
             // if (
             //     !document.getElementById('image1').src.includes('holder') &&
             //     !document.getElementById('image2').src.includes('holder') &&
