@@ -9,6 +9,8 @@
         const urlParams = new URLSearchParams(queryString);
         let cameraId = urlParams.get('cameraId')
         let cameraUrl = urlParams.get('cameraUrl')
+        let animeCon = false
+        animeCon = cameraId === "aacbd8a1-56b6-4757-b0b0-1bea396469c6" ? true : false
         console.log(cameraId, cameraUrl)
     </script>
     <style>
@@ -87,8 +89,14 @@
         let allLinks = document.getElementsByClassName('finalLink')
         console.log(allLinks)
         for (let link of allLinks) {
-            link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
+            if (animeCon) {
+                link.setAttribute('href', `./animephotobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
+            } else {
+                link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
+            }
         }
+
+
         // .forEach(el => el.setAttribute('href', `./photobooth.html?cameraId=${cameraId}`))
     </script>
   </body>

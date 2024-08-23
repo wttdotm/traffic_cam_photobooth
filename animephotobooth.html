@@ -1,0 +1,548 @@
+<html>
+  <head>
+    <title>Photobooth</title>
+    <link rel="stylesheet" href="styles.css"></style>
+    <script>
+        const queryString = window.location.search;
+        console.log(queryString);
+        const urlParams = new URLSearchParams(queryString);
+        let cameraId = urlParams.get('cameraId')
+        let cameraUrl = urlParams.get('cameraUrl')
+        console.log(cameraId, cameraUrl)
+        let activeFrame = 'polaroid'
+    </script>
+    <style>
+
+        @font-face {
+            font-family: "HxHFont";
+            src: url('./assets/hunterxhunter.ttf') format("truetype");
+        }
+        @font-face {
+            font-family: "YuGiOhCaps";
+            src: url('./assets/YuGiOhCaps.ttf') format("truetype");
+        }
+        @font-face {
+            font-family: "YuGiOhMonsterDesc";
+            src: url('./assets/YuGiOhMonsterDesc.ttf') format("truetype");
+        }
+        @font-face {
+            font-family: "YuGiOhRegularDesc";
+            src: url('./assets/YuGiOhRegularDesc.ttf') format("truetype");
+        }
+        @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Kalam:wght@300;400;700&display=swap');
+        /* .imageHolder {
+            display : flex;
+            flex-direction: column;
+        } */
+
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            /* background-image: url('./assets/yugiohcarcback.png');
+            background-position: center;
+            background-size: cover; */
+            background-color: black;
+            color: white;
+            padding-top: 10%;
+            font-size: x-large;
+        }
+
+        .header {
+            width: 80%;
+            text-align: center;
+        }
+
+        .filmstrip {
+            width: 70vw;
+            max-height: 80%;
+            display : flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            --background: black;
+            --hole-color: white;
+            --size: 30px;
+            
+            background:
+            conic-gradient(at var(--size),var(--background) 75%, var(--hole-color) 0)
+            0 0/calc(100% - var(--size)) calc(2*var(--size)) padding-box;
+        
+            border: var(--size) solid var(--background);
+            padding: calc(var(--size) * 2.5);
+            text-align: center;
+            margin-left: auto;  /* Add this line */
+            margin-right: auto; /* Add this line */
+        }
+
+        img {
+            /* height: 30%; */
+            width: 100%;
+            max-width: 100%;
+            max-height: 30%;
+            max-width: 100%;
+        }
+
+        /* POLAROID FORMATTING */
+
+        .polaroid {
+            margin-top: 20vh;
+            width: 70vw;
+            max-height: 80%;
+            display : flex;
+            flex-direction: column;
+            background: url(polaroidTexture.png);
+            background-repeat: repeat;
+            padding: 20px;
+            color: black;
+            text-align: center;
+        }
+
+        .polaroid img {
+            max-height: 100%;
+        }
+
+        #polaroidBottom {
+            margin: 40px;
+            font-size: 40px;
+            font-family: Kalam, cursive;
+        }
+
+        .polaroidTextInput {
+            font-size: xx-large;
+            display: none;
+            margin-top: 50px;
+        }
+        
+
+        /* YUGIOH CARD FORMATTING */
+        .YuGiOhOuter {
+            margin-top:5vh;
+            width: 70vw;
+            max-height: 80%;
+            display : flex;
+            flex-direction: column;
+            background: url("./assets/yugiohcardtextureblack.png");
+            background-size: cover;
+            border-color: black;
+            /* background: linear-gradient(180deg, rgba(176,223,253,1) 70%, rgba(221,249,255,1) 82%, rgba(176,223,253,1) 100%); */
+            padding: 20px;
+            color: black;
+            text-align: center;
+            border-radius: 20px;
+        }
+
+        .YuGiOhInner {
+            padding: 20px;
+            box-shadow: 10px black;
+            /* border-radius: 15px; */
+            background: url("./assets/yugiohcardtexture.png");
+            background-size: cover;
+        }
+
+        .YuGiOhTop {
+            /* background-color: black; */
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 20px;
+            border-radius: 15px 15px 0px 0px;
+            -webkit-border-radius: 15px 15px 0px 0px;
+        }
+
+        .YuGiOhBigText {
+            display: flex;
+            justify-content: space-between;
+            font-family: "YuGiOhCaps";
+            text-align: left;
+            /* margin: auto; */
+            width: 100%;
+            /* border-color: black; */
+            /* outline: 5px solid black;
+            outline-offset: -5px; */
+            /* border-width: 5px; */
+            /* border-style: solid; */
+            padding: 10px;
+            margin-bottom: 10px;
+            font-size: 50px;
+            border-radius: 5px;
+            box-shadow: inset 0.15em 0.15em 0.1em 0 rgba(255,255,255,0.5), inset -0.15em -0.15em 0.1em 0 rgba(0,0,0,0.5);
+        }
+
+        .YuGiOhBigText p {
+            margin: 0px ;
+            margin-left: 10px;
+        }
+
+        .YuGiOhBigText img {
+            margin: 0px ;
+            margin-right    : 10px;
+        }
+
+        .YuGiOhStars {
+            width: 100%;
+            max-height: 30px;
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            margin-bottom: 20px;
+        }
+
+        .YuGiOhStars img {
+            /* max-height: 30px; */
+            width: 40px;
+            height: 40px;
+            margin-left: 5px;
+            /* max-width: 100%; */
+        }
+
+        .YuGiOhImage {
+            display: block;
+            background: rgba(97, 97, 91, 1);
+            /* border-style: solid; */
+            border-radius: 10px;
+            padding: 10px;
+            width: 100%;
+            /* border-width: 8px;
+            border-color: rgba(56, 56, 56, 0.687); */
+            box-shadow: inset 0.2em 0.2em 0.2em 0 rgba(97, 97, 97, 1), inset -0.2em -0.2em 0.2em 0 rgba(0,0,0,1);
+            /* box-shadow: 5px 5px 5px 0 rgba(255,255,255, 0.5), -5px -5px 5px 0 rgba(0,0,0,0.5); */
+}
+
+/* 
+        .HxHTop img:nth-of-type(1) {
+            min-width: 100%;
+            height: 100%;
+        } */
+
+        .YuGiOhBottom {
+            margin-top: 20px;
+            box-sizing: border-box;
+            background-color: #F0DEC4;
+            /* border-style:  solid; */
+            border: 25px solid #C0993F;
+            /* border-image: url('./assets/cardborder.png') 30; */
+            border-image-source:url('./assets/cardborder2.png');  
+            border-image-repeat: round;
+            border-image-slice: 35%;
+            /* border: 5px red solid */
+        }
+
+        .YuGiOhBottom img {
+            max-width: 100%;
+            outline: 5px solid black;
+            outline-offset: -5px;
+        }
+
+        .YuGiOhBottomText {
+            margin: 5px;
+            font-size: 30px;
+            font-family: "YuGiOhMonsterDesc";
+            text-align: left;
+        }
+
+        .YuGiOhBottomDesc {
+            margin: 5px;
+            font-size: 20px;
+            font-family: "YuGiOhRegularDesc";
+            text-align: left;
+        }
+
+
+
+        /* HXH CARD FORMATTING */
+        .HxH {
+            margin-top: 5vh;
+            width: 70vw;
+            max-height: 80%;
+            display : flex;
+            flex-direction: column;
+            background: rgb(176,223,253);
+            background: linear-gradient(180deg, rgba(176,223,253,1) 70%, rgba(221,249,255,1) 82%, rgba(176,223,253,1) 100%);
+            padding: 20px;
+            color: black;
+            text-align: center;
+            border-radius: 20px;
+        }
+
+        .HxHTop {
+            background-color: black;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 20px;
+            border-radius: 15px 15px 0px 0px;
+            -webkit-border-radius: 15px 15px 0px 0px;
+        }
+
+        .HxHTop img:nth-of-type(1) {
+            max-height: 100%;
+            border-radius: 15px 15px 0px 0px;
+            -webkit-border-radius: 15px 15px 0px 0px;
+        }
+
+        .HxHBottom {
+            margin-top: 20px;
+            box-sizing: border-box;
+
+        }
+
+        .HxHBottom img {
+            max-width: 100%;
+            outline: 5px solid black;
+            outline-offset: -5px;
+        }
+
+        .HxHBigText {
+            font-family: "HxHFont";
+            border-color: black;
+            border-width: 5px;
+            border-style: solid;
+            font-size: 100px;
+        }
+
+        .HxHBottomText {
+            margin: 40px;
+            font-size: 40px;
+            font-family: "HxHFont";
+            text-align: left;
+        } 
+
+        /* MENU FORMATTING */
+
+        .activeSelection {
+            text-decoration: underline;
+            /* color: white; */
+        }
+
+        .inactiveSelection {
+            text-decoration: dotted;
+            color: gray;
+        }
+
+        /* .imageGap {
+            color: #363636
+        } */
+    </style>
+  </head>
+  <body>
+    <!-- <main>
+    </main> -->
+    <div id="header" class="header">
+        <!-- <h2 id="mainText" style="margin: 0px; padding: 0px;">Mode: <span id="manualMode" class='activeSelection' onclick="startManualMode()">Manual</span> <span id="autoMode" class='inactiveSelection' onclick="startAutoMode()">Auto</span></h2> -->
+        <h2 id="backgroundText" style="margin: 0px; padding: 0px;">Background: <span id="regularMode" class='activeSelection' onclick="resetAllStyles()">Regular</span> <span id="bratMode" class='inactiveSelection' onclick="bratGreenBG()">Brat</span></h2>
+        <!-- <h2 id="imageFrameText" style="margin: 0px; margin-bottom: 10px; padding: 0px;">Frame: <span id="photoboothMode" class='activeSelection' onclick="updateFrame('filmstrip')">Photobooth</span> <span id="polaroidMode" class='inactiveSelection' onclick="updateFrame('polaroid')">Polaroid</span></h2> -->
+        <h2 id="imageFrameText" style="margin: 0px; margin-bottom: 10px; padding: 0px;">Frame: <span id="photoboothMode" class='inactiveSelection' onclick="updateFrame('filmstrip')">Photobooth</span> <span id="polaroidMode" class='inactiveSelection' onclick="updateFrame('polaroid')">Polaroid</span> <span id="hxhMode" class='activeSelection' onclick="updateFrame('hxh')">Hunter License</span> <span id="yugiohMode" class='inactiveSelection' onclick="updateFrame('yugioh')">Yu-Gi-Oh Card</span></h2>
+        <h3 style="margin: 0px; padding: 0px;">Re-press to retake. Screenshot to share :)</h3>
+    </div>
+    <div id="YuGiOhDiv" class="YuGiOhOuter">
+        <div class="YuGiOhInner">
+            <div class="YuGiOhTop">
+                <div class="YuGiOhBigText"><p>Anime NYC Convention Attendee</p><img style="height: 45px; width: 45px;" src="https://static.wikia.nocookie.net/yugioh/images/7/7c/DIVINE.svg/revision/latest?cb=20120918053906"/></div>
+                <div class="YuGiOhStars">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starball_Red.svg/898px-Starball_Red.svg.png?20101101120951">
+                </div>
+                <div class="YuGiOhImage">
+                    <img id="image6" src="./holderManual.png" onclick="updateImage('image6')">
+
+                </div>
+                <!-- this div is for the image + barcode-->
+            </div>
+            <div class="YuGiOhBottom">
+                <!-- this div is for the lower part of the card -->
+                <!-- <div class="HxHBigText">FY</div> -->
+                <div class="YuGiOhBottomText">[Weeb]</div>
+                <div class="YuGiOhBottomDesc"><i>This spirited con-goer brings the energy of a thousand fandoms to NYC! When "Anime NYC Convention Attendee" has its picture taken by a traffic camera, you can Special Summon one "Cosplay Token" to your side of the field. For each "Cosplay Token" in the photo, this card gains 300 ATK and DEF. Once per turn, you can freely screenshot and post this image to your own accounts or save it to your phone.</i></div>
+                <hr style="height:3px;border:none;color:#333;background-color:#333;">
+                <div class="YuGiOhBottomText" style="text-align: right; font-size: 25px;">ATK/9001 DEF/69</div>
+            </div>
+            <div id="credits">TrafficCamPhotobooth.com | @WTTDOTM</div>
+        </div>
+    </div>
+   <div  id="HxHDiv" class="HxH">
+        <div class="HxHTop">
+            <img id="image5" src="./holderManual.png" onclick="updateImage('image5')">hiiii
+            <img id="HxHBarcode" src="./assets/hunter_barcode.png" onclick="updateImage('image4')">
+        </div>
+        <div class="HxHBottom">
+            <img src="./assets/HxHBottomBig.png">
+            <div class="HxHBottomText">Greed island is the best hunter x hunter arc sorry everyone</div>
+            <div id="credits">TrafficCamPhotobooth.com | @WTTDOTM</div>
+        </div>
+    </div> 
+    <div  id="PolaroidDiv" class="polaroid">
+        <img id="image4" src="./holderManual.png" onclick="updateImage('image4')">
+        <div id="polaroidBottom">I'm being watched :)</div>
+        <div id="credits">TrafficCamPhotobooth.com | @WTTDOTM</div>
+    </div> 
+    <div class="polaroidTextInput">
+        <label for="name">Polaroid Text:</label>
+        <input type="text" id="name" name="name"/>
+    </div>
+    <div  id="FilmStripDiv" class="filmstrip">
+        <img id="image1" src="./holderManual.png" onclick="updateImage('image1')">
+        <p class="imageGap">TrafficCamPhotobooth.com | By @WTTDOTM</p>
+        <img id="image2" src="./holderManual.png" onclick="updateImage('image2')">
+        <p class="imageGap">All data publicly available | Tag me :)</p>
+        <img id="image3" src="./holderManual.png" onclick="updateImage('image3')">
+
+    </div>
+    <script>
+        console.log("I AM IN SCRIPT TAG")
+
+        //REACTIVATE THIS LATER
+        // document.querySelector('input').addEventListener('change', (e) => {
+        //     console.log("current input value", document.querySelector('input').value)
+        //     console.log("current event val", e)
+        //     document.getElementById('polaroidBottom').innerHTML = document.querySelector('input').value
+        // })
+
+        //Image Frame
+        const updateFrame = (frame) => {
+            activeFrame = frame
+            switch (activeFrame) {
+                case 'polaroid':
+                    hideAllFramesExcept('PolaroidDiv')
+                    setAllFramesInactiveExcept('polaroidMode')
+                    break
+                case 'filmstrip':
+                    hideAllFramesExcept('FilmStripDiv')
+                    setAllFramesInactiveExcept('photoboothMode')
+                    break
+                case 'hxh':
+                    hideAllFramesExcept('HxHDiv')
+                    setAllFramesInactiveExcept('hxhMode')
+                    break
+                case 'yugioh':
+                    hideAllFramesExcept('YuGiOhDiv')
+                    setAllFramesInactiveExcept('yugiohMode')
+                    break
+            }
+
+        }
+    
+
+        const updateImage = (imageDivId) => {
+            //let me know a pic has been taken
+            //see the <script> tag at the home page for what this does (basically nothing)
+            fetch(`https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=picTaken&frame=${activeFrame}`)
+
+
+            console.log(Array.from(document.getElementsByTagName('img')))
+            console.log(document.getElementById(imageDivId))
+            document.getElementById(imageDivId).src = `${cameraUrl}?cacheAvoidance=${Math.floor(Math.random() * 100000)}`
+            // if (
+            //     !document.getElementById('image1').src.includes('holder') &&
+            //     !document.getElementById('image2').src.includes('holder') &&
+            //     !document.getElementById('image3').src.includes('holder')
+            // ) {
+            //     console.log(document.getElementById('image1').src, document.getElementById('image2').src, document.getElementById('image3').src)
+            //     // document.getElementById('mainText').innerHTML = "Screenshot n send to morry"
+            // }
+        }
+
+        console.log("I HAVE DEFINED UPDATEIMAGE AND UPDATEFRAME")
+        //Image Taking Modes
+        const startManualMode = () => {
+            console.log("man mdoe un")
+            document.getElementById('manualMode').className = 'activeSelection'
+            document.getElementById('autoMode').className = 'inactiveSelection'
+            Array.from(document.getElementsByTagName('img')).forEach(el => {
+                console.log(el)
+                el.setAttribute('onclick', `updateImage('${el.id}')`)
+                console.log(el)
+                el.setAttribute('src', './holderManual.png')
+            }) 
+        }
+
+        // const startAutoMode = (s = 4) => {
+        //     document.getElementById('manualMode').className = 'inactiveSelection'
+        //     document.getElementById('autoMode').className = 'activeSelection'
+        //     Array.from(document.getElementsByTagName('img')).forEach((el, i) => {
+        //         setTimeout(() => {
+        //             //start the loader
+        //             el.setAttribute('src', './holderAuto.gif')
+        //             //s into loader loader, grab the image
+        //             setTimeout(() => {
+        //                 updateImage(el.id)}, s * 1000)
+        //         }, i * (s + 1) * 1000)
+        //     })
+        // }
+
+        //Background Functions
+        const bratGreenBG = (undo = false) => {
+            if (!undo) {
+                document.getElementById('bratMode').className = 'activeSelection'
+                document.getElementById('regularMode').className = 'inactiveSelection'
+                // document.getElementById('eyeMode').className = 'inactiveSelection'
+
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', '#8ACE00')
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'black')
+                document.body.style.setProperty('background', '#8ACE00')
+                document.body.style.setProperty('color', 'black')
+            } else {
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', 'black')
+                document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'white')
+                document.body.style.setProperty('background', 'black')
+                document.body.style.setProperty('color', 'white')
+
+            }
+        }
+
+
+        const hideAllFramesExcept = (divId) => {
+            document.getElementById('FilmStripDiv').style.setProperty('display', 'none')
+            document.getElementById('PolaroidDiv').style.setProperty('display', 'none')
+            document.getElementById('HxHDiv').style.setProperty('display', 'none')
+            document.getElementById('YuGiOhDiv').style.setProperty('display', 'none')
+            document.getElementById(divId).style.setProperty('display', 'flex')
+        }
+
+        const setAllFramesInactiveExcept = (modeId) => {
+            document.getElementById('polaroidMode').className = 'inactiveSelection'
+            document.getElementById('photoboothMode').className = 'inactiveSelection'
+            document.getElementById('yugiohMode').className = 'inactiveSelection'
+            document.getElementById('hxhMode').className = 'inactiveSelection'
+            document.getElementById(modeId).className = 'activeSelection'
+        }
+        // const eyeBG = (undo = false) => {
+        //     if (!undo) {
+        //         document.getElementById('bratMode').className = 'inactiveSelection'
+        //         document.getElementById('regularMode').className = 'inactiveSelection'
+        //         document.getElementById('eyeMode').className = 'activeSelection'
+
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', '#8ACE00')
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'black')
+        //         document.body.style.setProperty('background', 'url(eyeTile.png)')
+        //         document.body.style.setProperty('color', 'black')
+        //     } else {
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('--background', 'black')
+        //         document.getElementsByClassName('filmstrip')[0].style.setProperty('--hole-color', 'white')
+        //         document.body.style.setProperty('background', 'black')
+        //         document.body.style.setProperty('color', 'white')
+
+        //     }
+        // }
+        const resetAllStyles = () => {
+            bratGreenBG(true)
+            document.getElementById('regularMode').className = 'activeSelection'
+            document.getElementById('bratMode').className = 'inactiveSelection'
+            // document.getElementById('eyeMode').className = 'inactiveSelection'
+        }
+
+        updateFrame('filmstrip')
+    </script>
+  </body>
+</html>
