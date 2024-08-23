@@ -1,0 +1,103 @@
+<html>
+  <head>
+    <title>Traffic Cam Photobooth</title> <!-- ˜60 chars -->
+    <!-- HTML Meta Tags -->
+    <meta name="description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://trafficcamphotobooth.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Traffic Cam Photobooth">
+    <meta property="og:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
+    <meta property="og:image" content="https://trafficcamphotobooth.com/linkPreview.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="trafficcamphotobooth.com">
+    <meta property="twitter:url" content="https://trafficcamphotobooth.com">
+    <meta name="twitter:title" content="Traffic Cam Photobooth">
+    <meta name="twitter:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
+    <meta name="twitter:image" content="https://trafficcamphotobooth.com/linkPreview.png">
+    <link rel="stylesheet" href="styles.css"></style>
+    <script src="https://unpkg.com/htmx.org@2.0.2" integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ" crossorigin="anonymous"></script>
+    <script>
+      //this is diy alternative to a google analytics
+      //it only logs IP (for calcultating unique views) and event type
+      //there are two event types: this home page load and a picture load on the /photobooth page, this pixel doesnt appear anywhere else
+      //pls do not spam I just want to know how many ppl use my site
+      //you can view the source code at https://github.com/we-make-internet/home-page/blob/main/www/diyPixel/trafficCamPixel.php
+      fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=pageView')
+
+    </script>
+    <meta name="htmx-config" content='{"selfRequestsOnly":false}'> 
+    <style>
+      .onDesktop {
+        color: black;
+        font-weight: bolder;
+        font-size: xx-large;
+        display: none;
+      }
+      form {
+        margin: 0 auto;
+        font-size: 1.2em;
+        width: 80%; 
+        min-height: 30px; 
+        align-self: center;
+        align-items: center; 
+        justify-content: center;
+      }
+
+      .main {
+        margin-top: 0px;
+      }
+
+      input {font-size: xx-large;}
+
+      @media only screen and (min-width: 1000px) {
+        .onDesktop {
+          display: block
+        }
+
+        .notOnDesktop {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+      <div class="main" id="main">
+        <h1>Welcome to Traffic Cam Photobooth</h1>
+        <p style="margin-bottom: 0px;"><i>Take selfies with surveillance!<br/></i></p>
+        <p class="notOnDesktop"><b>📸 <a href="./interstitial.html?cameraId=aacbd8a1-56b6-4757-b0b0-1bea396469c6&cameraUrl=https://webcams.nyctmc.org/api/cameras/aacbd8a1-56b6-4757-b0b0-1bea396469c6/image">the nearest camera</a> 📸</b><br/>is on 11th ave and 34th facing <i>north</i>.<br/><br/></p>
+        <img style="max-width: 90%;" src="./assets/anyaPointing2.png"/><p></p><br/>
+        <img style="max-width: 90%;" src="./assets/roster_pic.png"/>
+        <p><i><br/>A project by <a href="https://wttdotm.com">WTTDOTM</a></i></p>
+        <p><i><a href="./about.html">About Page</a></i> | <i><a href="./index.html">Full Site</a></i></p>
+        <br/>
+        <div class="onDesktop">
+          <b>It looks like you might be on desktop, which I did not design for because I do not want you to bring your laptop into traffic :(
+            <br/>
+            <br/>
+            You can browse the <a href="./map.html?onDesktop=yes">Camera Map</a> in the meantime!</b><br/>
+            Come back when you're outside :)
+        </div>
+      <br/>
+      <br/>
+        <p>Hear About New Projects:</p>
+        <form hx-post="https://wttdotm-email_capture.web.val.run/">
+          <input type="email" id="email" name="email" placeholder="your@email.com">  <input type="submit" value="Submit">
+        </form>
+        <br/>
+    </div>
+    <script>
+      let owoCounter = 0
+      // console.log()
+      const owo = setInterval(() => {
+        let el = document.getElementsByTagName('h1')[0]
+        console.log("running")
+        el.innerHTML = owoCounter % 2 == 0 ? "Welcome to Traffic Cam Photobooth" : "Welcome to Traffic Cam Phowobooth"
+        owoCounter++
+      }, 1000)
+    </script>
+  </body>
+</html>
