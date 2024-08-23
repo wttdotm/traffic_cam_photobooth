@@ -1,0 +1,12 @@
+{
+  "undefined": {
+    "latitude": 40.50712,
+    "longitude": -80.03122,
+    "area": "pa",
+    "name": "I-279 @ MM 0.5 (HOV - PARK-N-RIDE)",
+    "isAvailable": true,
+    "originalUrl": "https://511pa.com/tooltip/Cameras/3136--10",
+    "liveCameraUrl": "https://pa-se2.arcadis-ivds.com:8300/hls/CHAN-3136/index.m3u8",
+    "siteUrl": "/pa/3136--10"
+  }
+}
