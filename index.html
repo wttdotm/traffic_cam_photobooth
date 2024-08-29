@@ -27,7 +27,13 @@
       //pls do not spam I just want to know how many ppl use my site
       //you can view the source code at https://github.com/we-make-internet/home-page/blob/main/www/diyPixel/trafficCamPixel.php
       fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=pageView')
-
+      const forceMobile = () => {
+        let notOnDesktop = document.getElementsByClassName('notOnDesktop')[0]
+        let onDesktop = document.getElementsByClassName('onDesktop')[0]
+        notOnDesktop.style.display = 'block'
+        onDesktop.style.display = 'none'
+        console.log(notOnDesktop, onDesktop)
+      }
     </script>
     <meta name="htmx-config" content='{"selfRequestsOnly":false}'> 
     <style>
@@ -73,10 +79,10 @@
             <br/>
             <br/>
             You can browse the <a href="./map.html?onDesktop=yes">Camera Map</a> in the meantime!</b><br/>
-            Come back when you're outside :)
+            Come back when you're outside :)<br/>(<a href="#" onclick="forceMobile()">use the site anyway</a>)
         </div>
-      <br/>
-      <p><a href="./animenyc.html">Anime Con NYC Page</a></p>
+      <!-- <br/>
+      <p><a href="./animenyc.html">Anime Con NYC Page</a></p> -->
       <br/>
         <p>Hear About New Projects:</p>
         <form hx-post="https://wttdotm-email_capture.web.val.run/">
