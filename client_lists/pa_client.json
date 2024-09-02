@@ -1,0 +1,7478 @@
+[
+  {
+    "name": "DELAWARE AVE @ ALLEGHENY AVE",
+    "area": "pa",
+    "latitude": 39.978889,
+    "longitude": -75.097682,
+    "imageUrl": "/pa/3943--10"
+  },
+  {
+    "name": "DELAWARE AVE @ TIOGA ST",
+    "area": "pa",
+    "latitude": 39.979917,
+    "longitude": -75.090478,
+    "imageUrl": "/pa/3944--10"
+  },
+  {
+    "name": "DELAWARE AVE @ LEWIS ST",
+    "area": "pa",
+    "latitude": 39.986627,
+    "longitude": -75.075853,
+    "imageUrl": "/pa/3945--10"
+  },
+  {
+    "name": "I-78 @ EXIT 45 (PA 863 NEW SMITHVILLE)",
+    "area": "pa",
+    "latitude": 40.58045,
+    "longitude": -75.70798,
+    "imageUrl": "/pa/3946--10"
+  },
+  {
+    "name": "I-80 MM 79.1 BROOKVILLE",
+    "area": "pa",
+    "latitude": 41.17057,
+    "longitude": 79.08744,
+    "imageUrl": "/pa/3947--10"
+  },
+  {
+    "name": "I-81 N MM 162.9",
+    "area": "pa",
+    "latitude": 41.18519,
+    "longitude": -75.92093,
+    "imageUrl": "/pa/3936--10"
+  },
+  {
+    "name": "I-81 @ MILE 55.2",
+    "area": "pa",
+    "latitude": 40.254436,
+    "longitude": -77.06869,
+    "imageUrl": "/pa/3940--10"
+  },
+  {
+    "name": "I-81 S MM 183.5",
+    "area": "pa",
+    "latitude": 41.386515,
+    "longitude": -75.660933,
+    "imageUrl": "/pa/3941--10"
+  },
+  {
+    "name": "I-81 N @ MM 149.4",
+    "area": "pa",
+    "latitude": 41.024278,
+    "longitude": -76.009827,
+    "imageUrl": "/pa/3942--10"
+  },
+  {
+    "name": "I-83 @ MM 44.8",
+    "area": "pa",
+    "latitude": 40.257926,
+    "longitude": -76.835048,
+    "imageUrl": "/pa/3939--10"
+  },
+  {
+    "name": "US-15 NB @ OLD MONT PIKE RD",
+    "area": "pa",
+    "latitude": 41.227768,
+    "longitude": -76.952136,
+    "imageUrl": "/pa/3937--10"
+  },
+  {
+    "name": "US 202 @ MORRIS RD",
+    "area": "pa",
+    "latitude": 40.17941,
+    "longitude": -75.278013,
+    "imageUrl": "/pa/3929--10"
+  },
+  {
+    "name": "US 202 @ WISSAHICKON CREEK",
+    "area": "pa",
+    "latitude": 40.188454,
+    "longitude": -75.267847,
+    "imageUrl": "/pa/3930--10"
+  },
+  {
+    "name": "US 202 N @ SCHOOL HOUSE LN",
+    "area": "pa",
+    "latitude": 40.193692,
+    "longitude": -75.260257,
+    "imageUrl": "/pa/3931--10"
+  },
+  {
+    "name": "US 22 @ PA 743",
+    "area": "pa",
+    "latitude": 40.371635,
+    "longitude": -76.650274,
+    "imageUrl": "/pa/3928--10"
+  },
+  {
+    "name": "US 22/322 @ ALLEGHENY ST",
+    "area": "pa",
+    "latitude": 40.364255,
+    "longitude": -76.928146,
+    "imageUrl": "/pa/3938--10"
+  },
+  {
+    "name": "10TH ST BYPASS @ I-279",
+    "area": "pa",
+    "latitude": 40.4437,
+    "longitude": -80.00562,
+    "imageUrl": "/pa/3112--10"
+  },
+  {
+    "name": "26TH ST TUNNEL TO I-76 WEST",
+    "area": "pa",
+    "latitude": 39.92176,
+    "longitude": -75.190624,
+    "imageUrl": "/pa/3383--10"
+  },
+  {
+    "name": "I-76 EB TUNNEL TO 26TH ST",
+    "area": "pa",
+    "latitude": 39.92158,
+    "longitude": -75.19057,
+    "imageUrl": "/pa/3814--10"
+  },
+  {
+    "name": "26TH ST @ PENROSE AVE",
+    "area": "pa",
+    "latitude": 39.90578,
+    "longitude": -75.194,
+    "imageUrl": "/pa/2993--10"
+  },
+  {
+    "name": "17TH ST @ 6TH AVE",
+    "area": "pa",
+    "latitude": 40.5081,
+    "longitude": -78.39988,
+    "imageUrl": "/pa/3076--10"
+  },
+  {
+    "name": "PLANK RD @ LOGAN BLVD",
+    "area": "pa",
+    "latitude": 40.47819,
+    "longitude": -78.40377,
+    "imageUrl": "/pa/3077--10"
+  },
+  {
+    "name": "CHESTNUT A VENUE @ N 2ND ST",
+    "area": "pa",
+    "latitude": 40.5333,
+    "longitude": -78.38608,
+    "imageUrl": "/pa/2891--10"
+  },
+  {
+    "name": "17TH ST @ VALLEY VIEW BLVD",
+    "area": "pa",
+    "latitude": 40.49915,
+    "longitude": -78.39025,
+    "imageUrl": "/pa/2501--10"
+  },
+  {
+    "name": "PA 453 @ PA 45",
+    "area": "pa",
+    "latitude": 40.58516,
+    "longitude": -78.14583,
+    "imageUrl": "/pa/2505--10"
+  },
+  {
+    "name": "US 22 @ PA 453",
+    "area": "pa",
+    "latitude": 40.57137,
+    "longitude": -78.13869,
+    "imageUrl": "/pa/2506--10"
+  },
+  {
+    "name": "LOGAN BLVD @ CONVENTION CENTER BLVD",
+    "area": "pa",
+    "latitude": 40.45791,
+    "longitude": -78.39508,
+    "imageUrl": "/pa/2678--10"
+  },
+  {
+    "name": "CONVENTION CENTER BLVD @ CONVENTION CENTER DR",
+    "area": "pa",
+    "latitude": 40.45418,
+    "longitude": -78.40343,
+    "imageUrl": "/pa/3837--10"
+  },
+  {
+    "name": "PLANK RD @ JUNIATA ST",
+    "area": "pa",
+    "latitude": 40.437745,
+    "longitude": -78.412458,
+    "imageUrl": "/pa/3776--10"
+  },
+  {
+    "name": "17TH ST @ MARGARET AVE",
+    "area": "pa",
+    "latitude": 40.51162,
+    "longitude": -78.40526,
+    "imageUrl": "/pa/3777--10"
+  },
+  {
+    "name": "7TH AVE @ 7TH ST",
+    "area": "pa",
+    "latitude": 40.51727,
+    "longitude": -78.39319,
+    "imageUrl": "/pa/3585--10"
+  },
+  {
+    "name": "17TH ST @ PLEASANT VALLEY BLVD",
+    "area": "pa",
+    "latitude": 40.50025,
+    "longitude": -78.3913,
+    "imageUrl": "/pa/3642--10"
+  },
+  {
+    "name": "CHESTNUT AVE @ 4TH ST",
+    "area": "pa",
+    "latitude": 40.52227,
+    "longitude": -78.39484,
+    "imageUrl": "/pa/3453--10"
+  },
+  {
+    "name": "6TH AVE @ 8TH ST",
+    "area": "pa",
+    "latitude": 40.51627,
+    "longitude": -78.39277,
+    "imageUrl": "/pa/3454--10"
+  },
+  {
+    "name": "PLANK RD @ CONVENTION CENTER BLVD",
+    "area": "pa",
+    "latitude": 40.45226,
+    "longitude": -78.4093,
+    "imageUrl": "/pa/3260--10"
+  },
+  {
+    "name": "CHESTNUT AVE @ JUNIATA GAP RD",
+    "area": "pa",
+    "latitude": 40.52934,
+    "longitude": -78.38911,
+    "imageUrl": "/pa/3261--10"
+  },
+  {
+    "name": "PA 764 @ LOGAN BLVD",
+    "area": "pa",
+    "latitude": 40.49027,
+    "longitude": -78.41366,
+    "imageUrl": "/pa/3262--10"
+  },
+  {
+    "name": "I-95 ARAMINGO AVE RAMP",
+    "area": "pa",
+    "latitude": 40.00047,
+    "longitude": -75.084056,
+    "imageUrl": "/pa/2560--10"
+  },
+  {
+    "name": "ARAMINGO & SOMERSET ST",
+    "area": "pa",
+    "latitude": 39.9836,
+    "longitude": -75.11577,
+    "imageUrl": "/pa/2468--10"
+  },
+  {
+    "name": "ARAMINGO AVE & I-95 RAMPS (D06-C440)",
+    "area": "pa",
+    "latitude": 40.0004,
+    "longitude": -75.084,
+    "imageUrl": "/pa/3386--10"
+  },
+  {
+    "name": "E GIRADE AVE @ ARAMINGO AVE",
+    "area": "pa",
+    "latitude": 39.97332,
+    "longitude": -75.12287,
+    "imageUrl": "/pa/3399--10"
+  },
+  {
+    "name": "ARMINGO AVE @ CASTOR AVE",
+    "area": "pa",
+    "latitude": 39.99466,
+    "longitude": -75.09427,
+    "imageUrl": "/pa/3418--10"
+  },
+  {
+    "name": "ARMINGO AVE @ E LEHIGH ST",
+    "area": "pa",
+    "latitude": 39.98151,
+    "longitude": -75.11759,
+    "imageUrl": "/pa/3214--10"
+  },
+  {
+    "name": "ARMINGO AVE @ SEPVIVA ST",
+    "area": "pa",
+    "latitude": 40.003,
+    "longitude": -75.079,
+    "imageUrl": "/pa/3215--10"
+  },
+  {
+    "name": "ARAMINGO AVE @ TACONY ST",
+    "area": "pa",
+    "latitude": 40.008053,
+    "longitude": -75.072407,
+    "imageUrl": "/pa/3634--10"
+  },
+  {
+    "name": "HARBINSON AVE @ SANGER ST",
+    "area": "pa",
+    "latitude": 40.01684,
+    "longitude": -75.06683,
+    "imageUrl": "/pa/2818--10"
+  },
+  {
+    "name": "ALLEGHENY AVE @ ARMINGO AVE",
+    "area": "pa",
+    "latitude": 39.98868,
+    "longitude": -75.10634,
+    "imageUrl": "/pa/3034--10"
+  },
+  {
+    "name": "ARMINGO AVE @ ANN ST",
+    "area": "pa",
+    "latitude": 39.9858,
+    "longitude": -75.11143,
+    "imageUrl": "/pa/3027--10"
+  },
+  {
+    "name": "ATHERTON ST @ NORTH HILLS PLAZA",
+    "area": "pa",
+    "latitude": 40.8051,
+    "longitude": -77.8872,
+    "imageUrl": "/pa/2962--10"
+  },
+  {
+    "name": "ATHERTON ST @ COLONNADE BLVD",
+    "area": "pa",
+    "latitude": 40.8094,
+    "longitude": -77.9079,
+    "imageUrl": "/pa/2771--10"
+  },
+  {
+    "name": "ATHERTON ST @ VAIRO BLVD",
+    "area": "pa",
+    "latitude": 40.808,
+    "longitude": -77.8951,
+    "imageUrl": "/pa/2570--10"
+  },
+  {
+    "name": "ATHERTON ST @ WEST BEAVER AVE",
+    "area": "pa",
+    "latitude": 40.7907,
+    "longitude": -77.8638,
+    "imageUrl": "/pa/3347--10"
+  },
+  {
+    "name": "ATHERTON ST @ WEST COLLEGE AVE",
+    "area": "pa",
+    "latitude": 40.7918,
+    "longitude": -77.8652,
+    "imageUrl": "/pa/3518--10"
+  },
+  {
+    "name": "BAYFRONT PARKWAY @ EXIT 183B (PA 5 WEST 12TH ST)",
+    "area": "pa",
+    "latitude": 42.1108,
+    "longitude": -80.12017,
+    "imageUrl": "/pa/3515--10"
+  },
+  {
+    "name": "S COLUMBUS BLVD @ E OREGON AVE",
+    "area": "pa",
+    "latitude": 39.9123,
+    "longitude": -75.138,
+    "imageUrl": "/pa/2858--10"
+  },
+  {
+    "name": "N COLUMBUS BLVD @ RACE ST",
+    "area": "pa",
+    "latitude": 39.9534,
+    "longitude": -75.1397,
+    "imageUrl": "/pa/3534--10"
+  },
+  {
+    "name": "DELAWARE AVE @ SPRING GARDEN ST",
+    "area": "pa",
+    "latitude": 39.9603,
+    "longitude": -75.1374,
+    "imageUrl": "/pa/3389--10"
+  },
+  {
+    "name": "N DELAWARE AVE @ E COLUMBIA AVE",
+    "area": "pa",
+    "latitude": 39.96727,
+    "longitude": -75.1288,
+    "imageUrl": "/pa/3023--10"
+  },
+  {
+    "name": "US-202 BUS. (BUTLER AVE) @ BRISTOL RD",
+    "area": "pa",
+    "latitude": 40.28423,
+    "longitude": -75.20987,
+    "imageUrl": "/pa/2804--10"
+  },
+  {
+    "name": "US-202 BUS. (BUTLER AVE) @ PA-152 (LIMEKILN PK)",
+    "area": "pa",
+    "latitude": 40.26561,
+    "longitude": -75.22836,
+    "imageUrl": "/pa/3539--10"
+  },
+  {
+    "name": "S FRONT ST @ PACKER AVE",
+    "area": "pa",
+    "latitude": 39.9072,
+    "longitude": -75.151,
+    "imageUrl": "/pa/3425--10"
+  },
+  {
+    "name": "S FRONT ST @ OREGON AVE",
+    "area": "pa",
+    "latitude": 39.9139,
+    "longitude": -75.1502,
+    "imageUrl": "/pa/2835--10"
+  },
+  {
+    "name": "E GIRARD AVE @ RICHMOND ST",
+    "area": "pa",
+    "latitude": 39.9727,
+    "longitude": -75.1196,
+    "imageUrl": "/pa/3381--10"
+  },
+  {
+    "name": "GIRARD AVE @ FRANKFORD AVE",
+    "area": "pa",
+    "latitude": 39.968936,
+    "longitude": -75.134539,
+    "imageUrl": "/pa/2453--10"
+  },
+  {
+    "name": "I-176 @ EXIT 11 (US 422)",
+    "area": "pa",
+    "latitude": 40.307,
+    "longitude": -75.8983,
+    "imageUrl": "/pa/3335--10"
+  },
+  {
+    "name": "I-180 @ EXIT 29 (US 15 NORTH MANSFIELD)",
+    "area": "pa",
+    "latitude": 41.23192,
+    "longitude": -77.04155,
+    "imageUrl": "/pa/2960--10"
+  },
+  {
+    "name": "I-279 @ MM 0.2 (I-376 INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.44216,
+    "longitude": -80.00872,
+    "imageUrl": "/pa/3904--10"
+  },
+  {
+    "name": "I-279 @ MM 0.3 (FT DUQUESNE BLVD)",
+    "area": "pa",
+    "latitude": 40.44332,
+    "longitude": -80.00902,
+    "imageUrl": "/pa/3592--10"
+  },
+  {
+    "name": "I-279 @ MM 0.4 (PA 65 INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.44552,
+    "longitude": -80.0097,
+    "imageUrl": "/pa/3908--10"
+  },
+  {
+    "name": "I-279 @ MM 0.67 EAST LACOCK ST)",
+    "area": "pa",
+    "latitude": 40.44876,
+    "longitude": -80.00686,
+    "imageUrl": "/pa/3278--10"
+  },
+  {
+    "name": "I-279 @ MM 1.2 (PA 28)",
+    "area": "pa",
+    "latitude": 40.45259,
+    "longitude": -79.99669,
+    "imageUrl": "/pa/3718--10"
+  },
+  {
+    "name": "I-279 @ MM 1.2 (NORTH CANAL ST - HOV)",
+    "area": "pa",
+    "latitude": 40.45054,
+    "longitude": -79.99783,
+    "imageUrl": "/pa/3135--10"
+  },
+  {
+    "name": "I-279 @ MM 1.4 (EAST ST - HOV)",
+    "area": "pa",
+    "latitude": 40.45259,
+    "longitude": -79.99685,
+    "imageUrl": "/pa/3310--10"
+  },
+  {
+    "name": "I-279 @ MM 1.7 (TRIPOLI ST)",
+    "area": "pa",
+    "latitude": 40.45641,
+    "longitude": -79.9981,
+    "imageUrl": "/pa/3311--10"
+  },
+  {
+    "name": "I-279 @ EXIT 3 (HAZLETT ST)",
+    "area": "pa",
+    "latitude": 40.47393,
+    "longitude": -80.00556,
+    "imageUrl": "/pa/3656--10"
+  },
+  {
+    "name": "I-279 @ MM 3.6 (EAST ST)",
+    "area": "pa",
+    "latitude": 40.48296,
+    "longitude": -80.0074,
+    "imageUrl": "/pa/3491--10"
+  },
+  {
+    "name": "I-279 NB @ EXIT 4 (MCKNIGHT RD)",
+    "area": "pa",
+    "latitude": 40.49377,
+    "longitude": -80.01123,
+    "imageUrl": "/pa/3657--10"
+  },
+  {
+    "name": "I-279 @ MM 4.5 (MCKNIGHT RD)",
+    "area": "pa",
+    "latitude": 40.49529,
+    "longitude": -80.01333,
+    "imageUrl": "/pa/3314--10"
+  },
+  {
+    "name": "I-279 @ MM 5.5 (SR 6279 SB ON-RAMP - HOV))",
+    "area": "pa",
+    "latitude": 40.50402,
+    "longitude": -80.02852,
+    "imageUrl": "/pa/3315--10"
+  },
+  {
+    "name": "I-279 @ MM 0.5 (HOV - PARK-N-RIDE)",
+    "area": "pa",
+    "latitude": 40.50712,
+    "longitude": -80.03122,
+    "imageUrl": "/pa/3136--10"
+  },
+  {
+    "name": "I-279 @ MM 6 (JACKS RUN RD)",
+    "area": "pa",
+    "latitude": 40.50708,
+    "longitude": -80.03493,
+    "imageUrl": "/pa/3791--10"
+  },
+  {
+    "name": "I-279 @ MM 6.5 ( BELLEVUE RD)",
+    "area": "pa",
+    "latitude": 40.50774,
+    "longitude": -80.04465,
+    "imageUrl": "/pa/3914--10"
+  },
+  {
+    "name": "I-279 @ EXIT 7 (BELLEVUE/WEST VIEW)",
+    "area": "pa",
+    "latitude": 40.51396,
+    "longitude": -80.05205,
+    "imageUrl": "/pa/3316--10"
+  },
+  {
+    "name": "I-279 @ MM 7.4 (UNION AVE)",
+    "area": "pa",
+    "latitude": 40.51909,
+    "longitude": -80.05442,
+    "imageUrl": "/pa/3459--10"
+  },
+  {
+    "name": "I-279 @ MM 7.9 (GASS RD)",
+    "area": "pa",
+    "latitude": 40.52,
+    "longitude": -80.06309,
+    "imageUrl": "/pa/3586--10"
+  },
+  {
+    "name": "I-279 @ EXIT 8 (CAMP HORNE RD)",
+    "area": "pa",
+    "latitude": 40.52441,
+    "longitude": -80.07018,
+    "imageUrl": "/pa/3839--10"
+  },
+  {
+    "name": "I-279 @ MM 9.4 (WEISS LANE)",
+    "area": "pa",
+    "latitude": 40.53863,
+    "longitude": -80.07965,
+    "imageUrl": "/pa/3464--10"
+  },
+  {
+    "name": "I-279 @ MM 10.3 (MT NEBO RD)",
+    "area": "pa",
+    "latitude": 40.55053,
+    "longitude": -80.08662,
+    "imageUrl": "/pa/3781--10"
+  },
+  {
+    "name": "I-279 @ MM 11.6 (MONTOGOMERY RD)",
+    "area": "pa",
+    "latitude": 40.56572,
+    "longitude": -80.09003,
+    "imageUrl": "/pa/2703--10"
+  },
+  {
+    "name": "I-279 @ MM 12.3 (MCALEER RD)",
+    "area": "pa",
+    "latitude": 40.57537,
+    "longitude": -80.09317,
+    "imageUrl": "/pa/2696--10"
+  },
+  {
+    "name": "I-279 @ I-79 NB",
+    "area": "pa",
+    "latitude": 40.58646,
+    "longitude": -80.09952,
+    "imageUrl": "/pa/3646--10"
+  },
+  {
+    "name": "I-283 @ EXIT 1A (PA 283 EAST HARRISBURG INTERNATIONAL AIRPORT/LANCASTER)",
+    "area": "pa",
+    "latitude": 40.21944,
+    "longitude": -76.78729,
+    "imageUrl": "/pa/2669--10"
+  },
+  {
+    "name": "I-283 @ EXIT 2 (PA 441 SWATARA)",
+    "area": "pa",
+    "latitude": 40.24208,
+    "longitude": -76.80549,
+    "imageUrl": "/pa/3062--10"
+  },
+  {
+    "name": "I-295 @ MM 1 (I-276)",
+    "area": "pa",
+    "latitude": 40.13748,
+    "longitude": -74.89316,
+    "imageUrl": "/pa/3423--10"
+  },
+  {
+    "name": "I-295 @ MM 2 (TRENTON RD)",
+    "area": "pa",
+    "latitude": 40.15269,
+    "longitude": -74.8991,
+    "imageUrl": "/pa/3046--10"
+  },
+  {
+    "name": "I-295 @ EXIT 3 (US 1 BUSINESS PENNDEL/LEVITTOWN)",
+    "area": "pa",
+    "latitude": 40.16546,
+    "longitude": -74.90063,
+    "imageUrl": "/pa/3232--10"
+  },
+  {
+    "name": "I-295 @ MM 4 (PA 213 MAPLE AVE)",
+    "area": "pa",
+    "latitude": 40.17948,
+    "longitude": -74.89541,
+    "imageUrl": "/pa/2650--10"
+  },
+  {
+    "name": "I-295 @ MM 5 (US 1)",
+    "area": "pa",
+    "latitude": 40.18956,
+    "longitude": -74.88227,
+    "imageUrl": "/pa/2854--10"
+  },
+  {
+    "name": "I-295 @ MM 6 (BIG OAK RD)",
+    "area": "pa",
+    "latitude": 40.20231,
+    "longitude": -74.87401,
+    "imageUrl": "/pa/3568--10"
+  },
+  {
+    "name": "I-295 @ MM 9.5 (DOLINGTON RD)",
+    "area": "pa",
+    "latitude": 40.24863,
+    "longitude": -74.87556,
+    "imageUrl": "/pa/3041--10"
+  },
+  {
+    "name": "I-295 @ MM 8.7 (QUARRY RD)",
+    "area": "pa",
+    "latitude": 40.24056,
+    "longitude": -74.88105,
+    "imageUrl": "/pa/3040--10"
+  },
+  {
+    "name": "I-295 @ MM 10 (WELCOME CENTER)",
+    "area": "pa",
+    "latitude": 40.25151,
+    "longitude": -74.86796,
+    "imageUrl": "/pa/2645--10"
+  },
+  {
+    "name": "I-295 @ EXIT 5A (US 1 NORTH TRENTON, NJ)",
+    "area": "pa",
+    "latitude": 40.19334,
+    "longitude": -74.87903,
+    "imageUrl": "/pa/2649--10"
+  },
+  {
+    "name": "I-295 @ MM 7.7 (STONY HILL RD)",
+    "area": "pa",
+    "latitude": 40.2263,
+    "longitude": -74.88161,
+    "imageUrl": "/pa/3569--10"
+  },
+  {
+    "name": "I-295 @ MM 7 (LANGHORNE YARDLEY RD)",
+    "area": "pa",
+    "latitude": 40.21406,
+    "longitude": -74.87723,
+    "imageUrl": "/pa/3419--10"
+  },
+  {
+    "name": "I-376 @ Business 376 (North)",
+    "area": "pa",
+    "latitude": 40.52319,
+    "longitude": -80.27261,
+    "imageUrl": "/pa/3852--10"
+  },
+  {
+    "name": "I-376 @ Clinton Rd",
+    "area": "pa",
+    "latitude": 40.50048,
+    "longitude": -80.28332,
+    "imageUrl": "/pa/2541--10"
+  },
+  {
+    "name": "I-376 @ Airport (South)",
+    "area": "pa",
+    "latitude": 40.47992,
+    "longitude": -80.2571,
+    "imageUrl": "/pa/3655--10"
+  },
+  {
+    "name": "I-376 @ Airport",
+    "area": "pa",
+    "latitude": 40.49164,
+    "longitude": -80.27267,
+    "imageUrl": "/pa/3128--10"
+  },
+  {
+    "name": "I-376 @ ENLOW ROAD",
+    "area": "pa",
+    "latitude": 40.468176,
+    "longitude": -80.243223,
+    "imageUrl": "/pa/3130--10"
+  },
+  {
+    "name": "I-376, McClaren Road WB",
+    "area": "pa",
+    "latitude": 40.4722392,
+    "longitude": -80.2215137,
+    "imageUrl": "/pa/2542--10"
+  },
+  {
+    "name": "I-376, I-376 Toll",
+    "area": "pa",
+    "latitude": 40.4686368,
+    "longitude": -80.203315,
+    "imageUrl": "/pa/3853--10"
+  },
+  {
+    "name": "I-376 @ MM 70",
+    "area": "pa",
+    "latitude": 40.436371,
+    "longitude": -80.00902,
+    "imageUrl": "/pa/2535--10"
+  },
+  {
+    "name": "I-376 @ EXIT 13 (US 224 STATE ST/POLAND, OH)",
+    "area": "pa",
+    "latitude": 41.010127,
+    "longitude": -80.389645,
+    "imageUrl": "/pa/2931--10"
+  },
+  {
+    "name": "I-376 @ EXIT 15 (US 422 EAST BUTLER)",
+    "area": "pa",
+    "latitude": 40.996128,
+    "longitude": -80.392606,
+    "imageUrl": "/pa/3654--10"
+  },
+  {
+    "name": "I-376 @ MM 15 (EAST OF US 422)",
+    "area": "pa",
+    "latitude": 40.986693,
+    "longitude": -80.392853,
+    "imageUrl": "/pa/3304--10"
+  },
+  {
+    "name": "I-376 @ EXIT 12 (US 422 BUSINESS SAMPSON ST)",
+    "area": "pa",
+    "latitude": 41.028203,
+    "longitude": -80.389645,
+    "imageUrl": "/pa/3851--10"
+  },
+  {
+    "name": "I-376 @ MM 69.8 (FT PITT BRIDGE - LOWER #13)",
+    "area": "pa",
+    "latitude": 40.43807,
+    "longitude": -80.01281,
+    "imageUrl": "/pa/2906--10"
+  },
+  {
+    "name": "I-376 @ MM 69.83 (FT PITT BRIDGE_PA 837 NORTH EAST CARSON ST/WEST END - LOWER DECK #14)",
+    "area": "pa",
+    "latitude": 40.43835,
+    "longitude": -80.01225,
+    "imageUrl": "/pa/2907--10"
+  },
+  {
+    "name": "I-376 @ MM 69.86 (FT PITT BRIDGE - LOWER DECK # 15)",
+    "area": "pa",
+    "latitude": 40.43867,
+    "longitude": -80.01165,
+    "imageUrl": "/pa/2692--10"
+  },
+  {
+    "name": "I-376 @ MM 69.88 (FT PITT BRIDGE - LOWER DECK # 16)",
+    "area": "pa",
+    "latitude": 40.43898,
+    "longitude": -80.01106,
+    "imageUrl": "/pa/2693--10"
+  },
+  {
+    "name": "I-376 @ MM 69.92 (FT PITT BRIDGE- LOWER DECK #17)",
+    "area": "pa",
+    "latitude": 40.43929,
+    "longitude": -80.01048,
+    "imageUrl": "/pa/2902--10"
+  },
+  {
+    "name": "I-376 @ MM 69.94 (FT PITT BRIDGE - LOWER DECK # 18)",
+    "area": "pa",
+    "latitude": 40.43971,
+    "longitude": -80.00986,
+    "imageUrl": "/pa/3268--10"
+  },
+  {
+    "name": "I-376 @ EXIT 70C (NORTH I-279 FT DUQUESNE BRIDGE/NORTH SHORE)",
+    "area": "pa",
+    "latitude": 40.43934,
+    "longitude": -80.00769,
+    "imageUrl": "/pa/3460--10"
+  },
+  {
+    "name": "I-376 @ EXIT 71A (GRANT ST)",
+    "area": "pa",
+    "latitude": 40.43517,
+    "longitude": -79.99916,
+    "imageUrl": "/pa/2921--10"
+  },
+  {
+    "name": "I-376 @ MM 70.6 (COUNTY JAIL)",
+    "area": "pa",
+    "latitude": 40.43388,
+    "longitude": -79.99394,
+    "imageUrl": "/pa/3587--10"
+  },
+  {
+    "name": "I-376 @ MM 70.3 (FT PITT BLVD)",
+    "area": "pa",
+    "latitude": 40.43726,
+    "longitude": -80.00261,
+    "imageUrl": "/pa/3266--10"
+  },
+  {
+    "name": "I-376 @ MM 71.9 (BIRMINGHAM BRIDGE)",
+    "area": "pa",
+    "latitude": 40.43608,
+    "longitude": -79.9739,
+    "imageUrl": "/pa/2920--10"
+  },
+  {
+    "name": "I-376 @ EXIT 73B (PA 885 NORTH OAKLAND)",
+    "area": "pa",
+    "latitude": 40.43191,
+    "longitude": -79.95909,
+    "imageUrl": "/pa/3598--10"
+  },
+  {
+    "name": "I-376 @ EXIT 73.5 (SWINBURNE ST)",
+    "area": "pa",
+    "latitude": 40.42716,
+    "longitude": -79.95264,
+    "imageUrl": "/pa/2702--10"
+  },
+  {
+    "name": "I-376 @ MM 73.9 (SALINE ST)",
+    "area": "pa",
+    "latitude": 40.42938,
+    "longitude": -79.94135,
+    "imageUrl": "/pa/3461--10"
+  },
+  {
+    "name": "I-376 @ EXIT 74 (SQUIRREL HILL/HOMESTEAD)",
+    "area": "pa",
+    "latitude": 40.42911,
+    "longitude": -79.93123,
+    "imageUrl": "/pa/3287--10"
+  },
+  {
+    "name": "I-376 @ MM 75.6 (COMMERCIAL ST)",
+    "area": "pa",
+    "latitude": 40.4253,
+    "longitude": -79.90886,
+    "imageUrl": "/pa/2900--10"
+  },
+  {
+    "name": "I-376 @ EXIT 77 EB (EDGEWOOD/SWISSVALE)",
+    "area": "pa",
+    "latitude": 40.42616,
+    "longitude": -79.89371,
+    "imageUrl": "/pa/2901--10"
+  },
+  {
+    "name": "I-376 WB @ EXIT 77 (EDGEWOOD DR/SWISSVALE)",
+    "area": "pa",
+    "latitude": 40.42953,
+    "longitude": -79.8868,
+    "imageUrl": "/pa/3471--10"
+  },
+  {
+    "name": "I-376 @ MM 77.1 (EDGEWOOD AVE)",
+    "area": "pa",
+    "latitude": 40.43032,
+    "longitude": -79.88214,
+    "imageUrl": "/pa/3716--10"
+  },
+  {
+    "name": "I-376 @ MM 77.4 (BRINTON RD)",
+    "area": "pa",
+    "latitude": 40.42932,
+    "longitude": -79.87642,
+    "imageUrl": "/pa/3720--10"
+  },
+  {
+    "name": "I-376 @ EXIT 79A (US 30 EAST FOREST HILLS)",
+    "area": "pa",
+    "latitude": 40.43215,
+    "longitude": -79.87118,
+    "imageUrl": "/pa/2895--10"
+  },
+  {
+    "name": "I-376 @ EXIT 78B (PA 8 NORTH WIKINSBURG)",
+    "area": "pa",
+    "latitude": 40.43887,
+    "longitude": -79.86231,
+    "imageUrl": "/pa/3780--10"
+  },
+  {
+    "name": "I-376 @ MM 79 (GREENSBURG PIKE)",
+    "area": "pa",
+    "latitude": 40.44418,
+    "longitude": -79.85404,
+    "imageUrl": "/pa/3594--10"
+  },
+  {
+    "name": "I-376 @ EXIT 79B (PA 130 CHURCHILL)",
+    "area": "pa",
+    "latitude": 40.44422,
+    "longitude": -79.84101,
+    "imageUrl": "/pa/2896--10"
+  },
+  {
+    "name": "1-376 @ MM 80.5 (RODI RD)",
+    "area": "pa",
+    "latitude": 40.44037,
+    "longitude": -79.83152,
+    "imageUrl": "/pa/3478--10"
+  },
+  {
+    "name": "I-376 @ MM 81.9 (MCCULLY DR)",
+    "area": "pa",
+    "latitude": 40.44189,
+    "longitude": -79.80549,
+    "imageUrl": "/pa/2531--10"
+  },
+  {
+    "name": "I-376 @ MM 82.4 (THOMPSON RUN RD)",
+    "area": "pa",
+    "latitude": 40.44183,
+    "longitude": -79.79534,
+    "imageUrl": "/pa/3651--10"
+  },
+  {
+    "name": "I-379 @ MM 83.1 (LAUREL DR)",
+    "area": "pa",
+    "latitude": 40.44454,
+    "longitude": -79.78164,
+    "imageUrl": "/pa/3649--10"
+  },
+  {
+    "name": "I-379 @ MM 83.7 (OLD WILLIAM PENN HWY)",
+    "area": "pa",
+    "latitude": 40.44485,
+    "longitude": -79.76986,
+    "imageUrl": "/pa/3787--10"
+  },
+  {
+    "name": "I-376 @ EXIT 84A (MONROEVILLE)",
+    "area": "pa",
+    "latitude": 40.44221,
+    "longitude": -79.76228,
+    "imageUrl": "/pa/3593--10"
+  },
+  {
+    "name": "I-376 @ MM 57.8 (BUSINESS I-376 INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.46732,
+    "longitude": -80.1977,
+    "imageUrl": "/pa/3116--10"
+  },
+  {
+    "name": "I-376 @ EXIT 57 (BUSINESS 376 WEST MOON)",
+    "area": "pa",
+    "latitude": 40.46318,
+    "longitude": -80.19359,
+    "imageUrl": "/pa/3789--10"
+  },
+  {
+    "name": "I-376 @ EXIT 58 (MONTOUR RUN RD)",
+    "area": "pa",
+    "latitude": 40.45747,
+    "longitude": -80.1881,
+    "imageUrl": "/pa/2690--10"
+  },
+  {
+    "name": "I-376 @ EXIT 59 EB (ROBINSON TOWN CENTRE BLVD)",
+    "area": "pa",
+    "latitude": 40.45228,
+    "longitude": -80.17276,
+    "imageUrl": "/pa/3134--10"
+  },
+  {
+    "name": "I-376 @ MM 59.2 (WEST OF ROBINSON TOWN CENTER BLVD)",
+    "area": "pa",
+    "latitude": 40.45311,
+    "longitude": -80.17866,
+    "imageUrl": "/pa/2698--10"
+  },
+  {
+    "name": "I-376 @ EXIT 59 WB (ROBINSON TOWN CENTRE BLVD)",
+    "area": "pa",
+    "latitude": 40.45017,
+    "longitude": -80.16782,
+    "imageUrl": "/pa/2715--10"
+  },
+  {
+    "name": "I-376 @ EXIT 60A (WEST US 22/US 30 WEIRTON, WV)",
+    "area": "pa",
+    "latitude": 40.44714,
+    "longitude": -80.16575,
+    "imageUrl": "/pa/2716--10"
+  },
+  {
+    "name": "I-376 @ EXIT 61 EB (RIDGE RD)",
+    "area": "pa",
+    "latitude": 40.44331,
+    "longitude": -80.16105,
+    "imageUrl": "/pa/3087--10"
+  },
+  {
+    "name": "I-376 @ MM 61 (RIDGE RD)",
+    "area": "pa",
+    "latitude": 40.43863,
+    "longitude": -80.15259,
+    "imageUrl": "/pa/3088--10"
+  },
+  {
+    "name": "I-376 @ EXIT 61 WB (RIDGE RD)",
+    "area": "pa",
+    "latitude": 40.43385,
+    "longitude": -80.14324,
+    "imageUrl": "/pa/2686--10"
+  },
+  {
+    "name": "I-376 @ MM 62 (BOYCE RD)",
+    "area": "pa",
+    "latitude": 40.43084,
+    "longitude": -80.13713,
+    "imageUrl": "/pa/2512--10"
+  },
+  {
+    "name": "I-376 @ MM 62.6 (CAMPBELLS RUN RD)",
+    "area": "pa",
+    "latitude": 40.42535,
+    "longitude": -80.12405,
+    "imageUrl": "/pa/3590--10"
+  },
+  {
+    "name": "I-376 @ EXIT 64A EB (I-79 ERIE/WASHINGTON)",
+    "area": "pa",
+    "latitude": 40.42513,
+    "longitude": -80.11551,
+    "imageUrl": "/pa/3717--10"
+  },
+  {
+    "name": "I-376 @ MM 63.5 (WEST OF I-79 PITTSBURGH INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.42342,
+    "longitude": -80.10867,
+    "imageUrl": "/pa/2518--10"
+  },
+  {
+    "name": "I-376 @ MM 64 (EAST OF I-79 PITTSBURGH INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.42268,
+    "longitude": -80.10062,
+    "imageUrl": "/pa/3465--10"
+  },
+  {
+    "name": "I-376 @ EXIT 64A WB (I-79 ERIE/WASHINGTON)",
+    "area": "pa",
+    "latitude": 40.42041,
+    "longitude": -80.0923,
+    "imageUrl": "/pa/3101--10"
+  },
+  {
+    "name": "I-376 @ MM 64.9 (BELL AVE)",
+    "area": "pa",
+    "latitude": 40.41623,
+    "longitude": -80.08548,
+    "imageUrl": "/pa/3909--10"
+  },
+  {
+    "name": "I-376 @ EXIT 65 (PA 50 CARNEGIE/HEIDELBERG)",
+    "area": "pa",
+    "latitude": 40.41031,
+    "longitude": -80.072,
+    "imageUrl": "/pa/3267--10"
+  },
+  {
+    "name": "I-376 @ MM 66.2 (TRUMBULL DR)",
+    "area": "pa",
+    "latitude": 40.41416,
+    "longitude": -80.06343,
+    "imageUrl": "/pa/3788--10"
+  },
+  {
+    "name": "I-376 @ MM 67.2 (PA 121/GREENTREE RD)",
+    "area": "pa",
+    "latitude": 40.42071,
+    "longitude": -80.04895,
+    "imageUrl": "/pa/2687--10"
+  },
+  {
+    "name": "I-376 @ MM 67.5 (GREENTREE HILL - TOP)",
+    "area": "pa",
+    "latitude": 40.42108,
+    "longitude": -80.0421,
+    "imageUrl": "/pa/2513--10"
+  },
+  {
+    "name": "I-376 @ EXIT 68 (PARKWAY CENTER DR)",
+    "area": "pa",
+    "latitude": 40.41991,
+    "longitude": -80.03559,
+    "imageUrl": "/pa/3473--10"
+  },
+  {
+    "name": "I-376 @ MM 68.3 (GREENTREE HIL - MIDDLE)",
+    "area": "pa",
+    "latitude": 40.42293,
+    "longitude": -80.03029,
+    "imageUrl": "/pa/3653--10"
+  },
+  {
+    "name": "I-376 @ EXIT 69A (US 19 SOUTH BANKSVILLE RD)",
+    "area": "pa",
+    "latitude": 40.42862,
+    "longitude": -80.02976,
+    "imageUrl": "/pa/3786--10"
+  },
+  {
+    "name": "I-376 @ EXIT 69C (NORTH US 19/PA 51 WEST END)",
+    "area": "pa",
+    "latitude": 40.43066,
+    "longitude": -80.0271,
+    "imageUrl": "/pa/3107--10"
+  },
+  {
+    "name": "I-376 @ MM 69.7 (FT PITT BRIDGE - UPPER #1)",
+    "area": "pa",
+    "latitude": 40.43765,
+    "longitude": -80.01394,
+    "imageUrl": "/pa/2519--10"
+  },
+  {
+    "name": "I-376 @ MM 69.7 (FT PITT TUNNEL - LOWER PORTAL)",
+    "area": "pa",
+    "latitude": 40.43757,
+    "longitude": -80.01384,
+    "imageUrl": "/pa/3905--10"
+  },
+  {
+    "name": "I-380 @ EXIT 3 PA 940",
+    "area": "pa",
+    "latitude": 41.1062,
+    "longitude": -75.3974,
+    "imageUrl": "/pa/2979--10"
+  },
+  {
+    "name": "I-380 @ EXIT 20 (PA 307 DALEVILLE/MOSCOW)",
+    "area": "pa",
+    "latitude": 41.31345,
+    "longitude": -75.54613,
+    "imageUrl": "/pa/2387--10"
+  },
+  {
+    "name": "I-380 @ EXIT 24 (I-84 / I-380 Interchange)",
+    "area": "pa",
+    "latitude": 41.37305,
+    "longitude": -75.57326,
+    "imageUrl": "/pa/3351--10"
+  },
+  {
+    "name": "I-476 @ MM 4.5 (BEATTY RD)",
+    "area": "pa",
+    "latitude": 39.92977,
+    "longitude": -75.36252,
+    "imageUrl": "/pa/3885--10"
+  },
+  {
+    "name": "I-476 @ EXIT 5 (US 1 LIMA/SPRINGFIELD)",
+    "area": "pa",
+    "latitude": 39.9361,
+    "longitude": -75.36464,
+    "imageUrl": "/pa/2595--10"
+  },
+  {
+    "name": "I-476 @ MM 6 (W SPRINGFIELD RD)",
+    "area": "pa",
+    "latitude": 39.94521,
+    "longitude": -75.34865,
+    "imageUrl": "/pa/3404--10"
+  },
+  {
+    "name": "I-476 @ MM 7 (REED RD)",
+    "area": "pa",
+    "latitude": 39.95378,
+    "longitude": -75.33762,
+    "imageUrl": "/pa/3200--10"
+  },
+  {
+    "name": "I-476 @ MM 7.5 (NORTH OF REED RD)",
+    "area": "pa",
+    "latitude": 39.963,
+    "longitude": -75.33372,
+    "imageUrl": "/pa/3003--10"
+  },
+  {
+    "name": "I-476 @ MM 8 (LAWRENCE RD)",
+    "area": "pa",
+    "latitude": 39.97279,
+    "longitude": -75.33958,
+    "imageUrl": "/pa/3202--10"
+  },
+  {
+    "name": "I-476 @ EXIT 9 (PA 3 BROOMALL/UPPER DARBY)",
+    "area": "pa",
+    "latitude": 39.97794,
+    "longitude": -75.34091,
+    "imageUrl": "/pa/2429--10"
+  },
+  {
+    "name": "I-476 @ MM 9 (PA 3 WEST CHESTER PIKE)",
+    "area": "pa",
+    "latitude": 39.98396,
+    "longitude": -75.33826,
+    "imageUrl": "/pa/3882--10"
+  },
+  {
+    "name": "I-476 @ MM 9.5 (MARPLE RD)",
+    "area": "pa",
+    "latitude": 39.98833,
+    "longitude": -75.3433,
+    "imageUrl": "/pa/3548--10"
+  },
+  {
+    "name": "I-476 @ MM 10 (DARBY RD)",
+    "area": "pa",
+    "latitude": 39.99584,
+    "longitude": -75.34778,
+    "imageUrl": "/pa/3883--10"
+  },
+  {
+    "name": "I-476 @ MM 11 (S BRYN MAWR AVE)",
+    "area": "pa",
+    "latitude": 40.00659,
+    "longitude": -75.35455,
+    "imageUrl": "/pa/3004--10"
+  },
+  {
+    "name": "I-476 @ MM 11.5 (CLYDE RD)",
+    "area": "pa",
+    "latitude": 40.01563,
+    "longitude": -75.35731,
+    "imageUrl": "/pa/2618--10"
+  },
+  {
+    "name": "I-476 @ MM 12.5 (CONESTOGA RD)",
+    "area": "pa",
+    "latitude": 40.02878,
+    "longitude": -75.36371,
+    "imageUrl": "/pa/3398--10"
+  },
+  {
+    "name": "I-476 @ EXIT 13 (US 30 VILLANOVA/SAINT DAVIDS)",
+    "area": "pa",
+    "latitude": 40.03603,
+    "longitude": -75.35932,
+    "imageUrl": "/pa/3406--10"
+  },
+  {
+    "name": "I-476 @ MM 13.2 (US 30)",
+    "area": "pa",
+    "latitude": 40.03857,
+    "longitude": -75.35317,
+    "imageUrl": "/pa/3203--10"
+  },
+  {
+    "name": "I-476 @ MM 14 (COUNTY LINE RD)",
+    "area": "pa",
+    "latitude": 40.04597,
+    "longitude": -75.34927,
+    "imageUrl": "/pa/2830--10"
+  },
+  {
+    "name": "I-476 @ MM 14.2 (COUNTY LINE RD)",
+    "area": "pa",
+    "latitude": 40.05176,
+    "longitude": -75.34445,
+    "imageUrl": "/pa/3886--10"
+  },
+  {
+    "name": "I-476 @ MM 15 (OLD GULPH RD)",
+    "area": "pa",
+    "latitude": 40.05721,
+    "longitude": -75.33122,
+    "imageUrl": "/pa/3555--10"
+  },
+  {
+    "name": "I-476 @ MM 15.9 (I-76)",
+    "area": "pa",
+    "latitude": 40.06373,
+    "longitude": -75.32144,
+    "imageUrl": "/pa/3206--10"
+  },
+  {
+    "name": "I-476 @ 16.5 (FRONT ST)",
+    "area": "pa",
+    "latitude": 40.0753,
+    "longitude": -75.32208,
+    "imageUrl": "/pa/2441--10"
+  },
+  {
+    "name": "I-476 @ MM 17.3 (BROOK RD)",
+    "area": "pa",
+    "latitude": 40.0828,
+    "longitude": -75.31125,
+    "imageUrl": "/pa/2831--10"
+  },
+  {
+    "name": "I-476 @ EXIT 18 A (CONSHOHOCKEN)",
+    "area": "pa",
+    "latitude": 40.0946,
+    "longitude": -75.3049,
+    "imageUrl": "/pa/3887--10"
+  },
+  {
+    "name": "I-476 @ EXIT 18 (RIDGE PIKE)",
+    "area": "pa",
+    "latitude": 40.09848,
+    "longitude": -75.3,
+    "imageUrl": "/pa/3005--10"
+  },
+  {
+    "name": "I-476 @ EXIT 18B (NORRISTOWN)",
+    "area": "pa",
+    "latitude": 40.10003,
+    "longitude": -75.29168,
+    "imageUrl": "/pa/3694--10"
+  },
+  {
+    "name": "I-476 @ EXIT 20 (HARRISBURG/PLYMOUTH RD)",
+    "area": "pa",
+    "latitude": 40.10743,
+    "longitude": -75.28828,
+    "imageUrl": "/pa/2816--10"
+  },
+  {
+    "name": "I-476 SB @ US 1",
+    "area": "pa",
+    "latitude": 39.937174,
+    "longitude": -75.365366,
+    "imageUrl": "/pa/3633--10"
+  },
+  {
+    "name": "US 1 NB @ I-476 SB",
+    "area": "pa",
+    "latitude": 39.93633,
+    "longitude": -75.365,
+    "imageUrl": "/pa/3755--10"
+  },
+  {
+    "name": "I-476 NB @ US 1",
+    "area": "pa",
+    "latitude": 39.93694,
+    "longitude": -75.36258,
+    "imageUrl": "/pa/3016--10"
+  },
+  {
+    "name": "I-476 @ EXIT 16 (I-76 PHILADELPHIA/VALLEY FORGE)",
+    "area": "pa",
+    "latitude": 40.06551,
+    "longitude": -75.32386,
+    "imageUrl": "/pa/2613--10"
+  },
+  {
+    "name": "I-579 @ BLVD OF THE ALLIES",
+    "area": "pa",
+    "latitude": 40.4356,
+    "longitude": -79.99466,
+    "imageUrl": "/pa/3472--10"
+  },
+  {
+    "name": "I-579 @ FIFTH AVE",
+    "area": "pa",
+    "latitude": 40.43936,
+    "longitude": -79.99377,
+    "imageUrl": "/pa/2525--10"
+  },
+  {
+    "name": "I-579 @ BIGELOW BLVD",
+    "area": "pa",
+    "latitude": 40.4426,
+    "longitude": -79.99189,
+    "imageUrl": "/pa/3118--10"
+  },
+  {
+    "name": "I-579 HOV @ BEDFORD AVE",
+    "area": "pa",
+    "latitude": 40.44261,
+    "longitude": -79.99089,
+    "imageUrl": "/pa/3855--10"
+  },
+  {
+    "name": "I-579 @ MM 0.6 (LIBERTY AVE)",
+    "area": "pa",
+    "latitude": 40.44619,
+    "longitude": -79.99033,
+    "imageUrl": "/pa/3854--10"
+  },
+  {
+    "name": "I-676 WB AT 6TH ST (BEN FRANKLIN BR)",
+    "area": "pa",
+    "latitude": 39.956051,
+    "longitude": -75.148728,
+    "imageUrl": "/pa/3507--10"
+  },
+  {
+    "name": "I-676 WB BEFORE SCHUYLKILL R. & I-76 EB/WB SPLIT @ 24TH ST.",
+    "area": "pa",
+    "latitude": 39.960079,
+    "longitude": -75.178649,
+    "imageUrl": "/pa/2782--10"
+  },
+  {
+    "name": "I-676 @ 22ND ST (BEN FRANKLIN PKWY)",
+    "area": "pa",
+    "latitude": 39.95901,
+    "longitude": -75.17245,
+    "imageUrl": "/pa/3530--10"
+  },
+  {
+    "name": "I-676 WB @ 20TH STREET",
+    "area": "pa",
+    "latitude": 39.95905,
+    "longitude": -75.17111,
+    "imageUrl": "/pa/3179--10"
+  },
+  {
+    "name": "I-676 WB @ 18TH STREET",
+    "area": "pa",
+    "latitude": 39.95878,
+    "longitude": -75.16873,
+    "imageUrl": "/pa/3535--10"
+  },
+  {
+    "name": "I-676 EB @ 16TH STREET",
+    "area": "pa",
+    "latitude": 39.958182,
+    "longitude": -75.165532,
+    "imageUrl": "/pa/3188--10"
+  },
+  {
+    "name": "I-676 EB @ BROAD STREET",
+    "area": "pa",
+    "latitude": 39.957293,
+    "longitude": -75.156996,
+    "imageUrl": "/pa/2411--10"
+  },
+  {
+    "name": "I-676 WB @ 11TH STREET",
+    "area": "pa",
+    "latitude": 39.957293,
+    "longitude": -75.156996,
+    "imageUrl": "/pa/3189--10"
+  },
+  {
+    "name": "I-676 EB @ 8TH STREET",
+    "area": "pa",
+    "latitude": 39.9569,
+    "longitude": -75.15256,
+    "imageUrl": "/pa/3370--10"
+  },
+  {
+    "name": "I-676 MEDIAN JUST BEFORE THE I-95 N/S SPLIT @ 3RD ST",
+    "area": "pa",
+    "latitude": 39.957078,
+    "longitude": -75.144715,
+    "imageUrl": "/pa/2596--10"
+  },
+  {
+    "name": "I-70 @ MM 0.2 (WV LINE)",
+    "area": "pa",
+    "latitude": 40.09859,
+    "longitude": -80.50807,
+    "imageUrl": "/pa/2924--10"
+  },
+  {
+    "name": "I-70 @ MM 13 (MOUNTS RD)",
+    "area": "pa",
+    "latitude": 40.14617,
+    "longitude": -80.30739,
+    "imageUrl": "/pa/2534--10"
+  },
+  {
+    "name": "I-70 @ MM 16.5 (PA 18)",
+    "area": "pa",
+    "latitude": 40.18205,
+    "longitude": -80.26263,
+    "imageUrl": "/pa/3725--10"
+  },
+  {
+    "name": "I-70 EB @ EXIT 17 (PA 18 JEFFERSON AVE)",
+    "area": "pa",
+    "latitude": 40.18436,
+    "longitude": -80.25658,
+    "imageUrl": "/pa/3483--10"
+  },
+  {
+    "name": "I-70 @ MM 17.5 (I-79 NORTH JUNCTION)",
+    "area": "pa",
+    "latitude": 40.18918,
+    "longitude": -80.24592,
+    "imageUrl": "/pa/3297--10"
+  },
+  {
+    "name": "I-70 @ EXIT 19 (US 19 MURTLAND AVE)",
+    "area": "pa",
+    "latitude": 40.18423,
+    "longitude": -80.22798,
+    "imageUrl": "/pa/3843--10"
+  },
+  {
+    "name": "I-70 @ EXIT 21",
+    "area": "pa",
+    "latitude": 40.16234,
+    "longitude": -80.19435,
+    "imageUrl": "/pa/3482--10"
+  },
+  {
+    "name": "I-70 @ MM 22 (ZEDIKER STATION RD)",
+    "area": "pa",
+    "latitude": 40.1677421,
+    "longitude": -80.1762784,
+    "imageUrl": "/pa/2543--10"
+  },
+  {
+    "name": "I-70 @ SOMERSET ROAD",
+    "area": "pa",
+    "latitude": 40.166159,
+    "longitude": -80.080341,
+    "imageUrl": "/pa/3129--10"
+  },
+  {
+    "name": "I-70 @ MM 23.3 (WEST OF PA 519)",
+    "area": "pa",
+    "latitude": 40.158213,
+    "longitude": -80.155156,
+    "imageUrl": "/pa/3293--10"
+  },
+  {
+    "name": "I-70 @ EXIT 25 (PA 519 EIGHTY FOUR/GLYDE)",
+    "area": "pa",
+    "latitude": 40.16005,
+    "longitude": -80.117948,
+    "imageUrl": "/pa/2705--10"
+  },
+  {
+    "name": "I-70 @ EXIT 37 (PA TURNPIKE 43)",
+    "area": "pa",
+    "latitude": 40.109654,
+    "longitude": -79.919486,
+    "imageUrl": "/pa/2530--10"
+  },
+  {
+    "name": "I-70 @ EXIT 41 (PA 906 BELLE VERNON/MONESSEN)",
+    "area": "pa",
+    "latitude": 40.129902,
+    "longitude": -79.875391,
+    "imageUrl": "/pa/3122--10"
+  },
+  {
+    "name": "I-70 @ MM 47 (YOUGHIOGHENY RIVER)",
+    "area": "pa",
+    "latitude": 40.160575,
+    "longitude": -79.76263,
+    "imageUrl": "/pa/3722--10"
+  },
+  {
+    "name": "I-70 @ MM 50 (HOLLOW RD)",
+    "area": "pa",
+    "latitude": 40.173725,
+    "longitude": -79.719393,
+    "imageUrl": "/pa/3470--10"
+  },
+  {
+    "name": "I-70 @ MM 57.4 (I-76/PA 66 BUSINESS JUNCTION)",
+    "area": "pa",
+    "latitude": 40.22042,
+    "longitude": -79.600518,
+    "imageUrl": "/pa/3846--10"
+  },
+  {
+    "name": "I-70 @ MM 147.6 (I-76 UNDERPASS)",
+    "area": "pa",
+    "latitude": 39.99043,
+    "longitude": -78.24138,
+    "imageUrl": "/pa/2894--10"
+  },
+  {
+    "name": "I-76 WB WEST OF MONTGOMERY DR",
+    "area": "pa",
+    "latitude": 39.994781,
+    "longitude": -75.197986,
+    "imageUrl": "/pa/2609--10"
+  },
+  {
+    "name": "I-76 EB AT MONTGOMERY DR",
+    "area": "pa",
+    "latitude": 39.987215,
+    "longitude": -75.208001,
+    "imageUrl": "/pa/3683--10"
+  },
+  {
+    "name": "I-76 E NORTH GULPH RD OFF-RAMP",
+    "area": "pa",
+    "latitude": 40.08706,
+    "longitude": -75.402192,
+    "imageUrl": "/pa/2756--10"
+  },
+  {
+    "name": "I-76 MM 329 (WEST OF HENDERSON RD)",
+    "area": "pa",
+    "latitude": 40.075838,
+    "longitude": -75.361429,
+    "imageUrl": "/pa/3184--10"
+  },
+  {
+    "name": "I-76 MM 329.6 (EXIT 329 - HENDERSON RD)",
+    "area": "pa",
+    "latitude": 40.07505,
+    "longitude": -75.3524,
+    "imageUrl": "/pa/3185--10"
+  },
+  {
+    "name": "I-76 MM 329.8 (EAST OF HENDERSON RD)",
+    "area": "pa",
+    "latitude": 40.07411,
+    "longitude": -75.34895,
+    "imageUrl": "/pa/3226--10"
+  },
+  {
+    "name": "I-76 EXIT 330 (PA 320/GULPH MILLS)",
+    "area": "pa",
+    "latitude": 40.06932,
+    "longitude": -75.34299,
+    "imageUrl": "/pa/3680--10"
+  },
+  {
+    "name": "I-76 OFF RAMP TO I-476 SOUTH",
+    "area": "pa",
+    "latitude": 40.06324,
+    "longitude": -75.32403,
+    "imageUrl": "/pa/2594--10"
+  },
+  {
+    "name": "I-76 EXIT 332 (PA-23/ CONSHOHOCKEN)",
+    "area": "pa",
+    "latitude": 40.0666,
+    "longitude": -75.3124,
+    "imageUrl": "/pa/3532--10"
+  },
+  {
+    "name": "I-76 MM 331.7 AT I-476",
+    "area": "pa",
+    "latitude": 40.065616,
+    "longitude": -75.3187,
+    "imageUrl": "/pa/2597--10"
+  },
+  {
+    "name": "I-76 WB EAST OF BELMONT AVE MM 338. 2",
+    "area": "pa",
+    "latitude": 40.024331,
+    "longitude": -75.226102,
+    "imageUrl": "/pa/2936--10"
+  },
+  {
+    "name": "I-76 AT MM 333.5 (CONSHOHOCKEN CURVE)",
+    "area": "pa",
+    "latitude": 40.072,
+    "longitude": -75.2869,
+    "imageUrl": "/pa/3827--10"
+  },
+  {
+    "name": "I-76 MM 33.38 (CONSHOHOCKEN CURVE)",
+    "area": "pa",
+    "latitude": 40.06936,
+    "longitude": -75.27956,
+    "imageUrl": "/pa/3891--10"
+  },
+  {
+    "name": "I-76 @ MM 334.3 (EAST OF CONSHOHOCKEN CURVE)",
+    "area": "pa",
+    "latitude": 40.06368,
+    "longitude": -75.2765,
+    "imageUrl": "/pa/2852--10"
+  },
+  {
+    "name": "I-76 @ MM 335.1",
+    "area": "pa",
+    "latitude": 40.05361,
+    "longitude": -75.26649,
+    "imageUrl": "/pa/3764--10"
+  },
+  {
+    "name": "I-76 @ MM (EXIT 337/GLADWYNE)",
+    "area": "pa",
+    "latitude": 40.038414,
+    "longitude": -75.248472,
+    "imageUrl": "/pa/2986--10"
+  },
+  {
+    "name": "I-76 @ EXIT 336.5 (EAST OF GLADWYNE)",
+    "area": "pa",
+    "latitude": 40.037221,
+    "longitude": -75.246641,
+    "imageUrl": "/pa/3536--10"
+  },
+  {
+    "name": "I-76 @ MM 337.3 (WEST OF BELMONT AVE)",
+    "area": "pa",
+    "latitude": 40.031679,
+    "longitude": -75.238846,
+    "imageUrl": "/pa/2606--10"
+  },
+  {
+    "name": "I-76 @ EXIT 338 (BELMONT AVE)",
+    "area": "pa",
+    "latitude": 40.0253,
+    "longitude": -75.22924,
+    "imageUrl": "/pa/3190--10"
+  },
+  {
+    "name": "I-76 @ MM 338.9 (WEST OF US-1 )",
+    "area": "pa",
+    "latitude": 40.019378,
+    "longitude": -75.218237,
+    "imageUrl": "/pa/3540--10"
+  },
+  {
+    "name": "I-76 @ MM 339.4 (EXIT 339/ US-1 SOUTH)",
+    "area": "pa",
+    "latitude": 40.01133,
+    "longitude": -75.208606,
+    "imageUrl": "/pa/2607--10"
+  },
+  {
+    "name": "I-76 @ MM 340.1 (WEST OF US-1/ROOSEVELT BLVD)",
+    "area": "pa",
+    "latitude": 40.005976,
+    "longitude": -75.197707,
+    "imageUrl": "/pa/3380--10"
+  },
+  {
+    "name": "I-76 IN THE MEDIAN ON THE RAMP FORM I-76 EB TO US 1 NB",
+    "area": "pa",
+    "latitude": 40.005048,
+    "longitude": -75.194645,
+    "imageUrl": "/pa/3815--10"
+  },
+  {
+    "name": "I-76 EB WEST OF GIRARD AVE.",
+    "area": "pa",
+    "latitude": 39.978111,
+    "longitude": -75.202313,
+    "imageUrl": "/pa/2807--10"
+  },
+  {
+    "name": "I-76 EB AT GIRARD AVE.",
+    "area": "pa",
+    "latitude": 39.976572,
+    "longitude": -75.197121,
+    "imageUrl": "/pa/3191--10"
+  },
+  {
+    "name": "I-76 @ MM 343.1 (GIRARD AVE/ PHILA ZOO)",
+    "area": "pa",
+    "latitude": 39.974096,
+    "longitude": -75.193875,
+    "imageUrl": "/pa/2799--10"
+  },
+  {
+    "name": "I-76 EB WEST OF SPRING GARDEN ST.",
+    "area": "pa",
+    "latitude": 39.969111,
+    "longitude": -75.192186,
+    "imageUrl": "/pa/3749--10"
+  },
+  {
+    "name": "I-76 WB AT SPRING GARDEN ST.",
+    "area": "pa",
+    "latitude": 39.963966,
+    "longitude": -75.184177,
+    "imageUrl": "/pa/2420--10"
+  },
+  {
+    "name": "I-76 MEDIAN AT I-676",
+    "area": "pa",
+    "latitude": 39.960293,
+    "longitude": -75.181418,
+    "imageUrl": "/pa/3621--10"
+  },
+  {
+    "name": "I-76 @ MM 344.6 (30TH ST TUNNEL)",
+    "area": "pa",
+    "latitude": 39.95571,
+    "longitude": -75.18061,
+    "imageUrl": "/pa/3537--10"
+  },
+  {
+    "name": "I-76 @ MM 344.8 (30TH ST TUNNEL",
+    "area": "pa",
+    "latitude": 39.95376,
+    "longitude": -75.1814,
+    "imageUrl": "/pa/2800--10"
+  },
+  {
+    "name": "I-76 @ EXIT 346A (WEST OF SOUTH ST)",
+    "area": "pa",
+    "latitude": 39.94878,
+    "longitude": -75.18526,
+    "imageUrl": "/pa/3747--10"
+  },
+  {
+    "name": "I-76 @ EXIT 346A (EAST OF SOUTH ST )",
+    "area": "pa",
+    "latitude": 39.94646,
+    "longitude": -75.18928,
+    "imageUrl": "/pa/2801--10"
+  },
+  {
+    "name": "I-76 @ EXIT 346B (UNIVERSITY AVE/ GRAYS FERRY)",
+    "area": "pa",
+    "latitude": 39.94335,
+    "longitude": -75.19296,
+    "imageUrl": "/pa/2612--10"
+  },
+  {
+    "name": "I-76 @ EXIT 364B (UNIVERSITY AVE)",
+    "area": "pa",
+    "latitude": 39.93489,
+    "longitude": -75.2,
+    "imageUrl": "/pa/2997--10"
+  },
+  {
+    "name": "I-76 @ MM 346.9 (VARE AVE)",
+    "area": "pa",
+    "latitude": 39.92909,
+    "longitude": -75.19748,
+    "imageUrl": "/pa/2414--10"
+  },
+  {
+    "name": "I-76 EB RAMP TO US-202/US-422",
+    "area": "pa",
+    "latitude": 40.0831333333333,
+    "longitude": -75.39735,
+    "imageUrl": "/pa/2657--10"
+  },
+  {
+    "name": "I-76 @ MM 332.5 (CONSHOHOCKEN STATE RD)",
+    "area": "pa",
+    "latitude": 40.067964,
+    "longitude": -75.301275,
+    "imageUrl": "/pa/3745--10"
+  },
+  {
+    "name": "I-76 MM 328 (EAST OF US202 )",
+    "area": "pa",
+    "latitude": 40.07906,
+    "longitude": -75.37833,
+    "imageUrl": "/pa/3614--10"
+  },
+  {
+    "name": "I-76 @ EXIT 347 (PASSYUNK AVE/PHILA. AIRPORT)",
+    "area": "pa",
+    "latitude": 39.92294,
+    "longitude": -75.19163,
+    "imageUrl": "/pa/3382--10"
+  },
+  {
+    "name": "I-78 @ MM 3.9 (LICKDALE RD)",
+    "area": "pa",
+    "latitude": 40.447923,
+    "longitude": -76.461484,
+    "imageUrl": "/pa/3320--10"
+  },
+  {
+    "name": "I-78 @ EXIT 6(PINE GROVE RD)",
+    "area": "pa",
+    "latitude": 40.452184,
+    "longitude": -76.415557,
+    "imageUrl": "/pa/3857--10"
+  },
+  {
+    "name": "I-78 EXIT 8 (MT ZION RD)",
+    "area": "pa",
+    "latitude": 40.456149,
+    "longitude": -76.379392,
+    "imageUrl": "/pa/3501--10"
+  },
+  {
+    "name": "I-78 @ EXIT 10 (PA 645 FRYSTOWN)",
+    "area": "pa",
+    "latitude": 40.4665,
+    "longitude": -76.3399,
+    "imageUrl": "/pa/3365--10"
+  },
+  {
+    "name": "I-78 @ EXIT 19 (PA 183 STRAUSSTOWN)",
+    "area": "pa",
+    "latitude": 40.49937,
+    "longitude": -76.18553,
+    "imageUrl": "/pa/2590--10"
+  },
+  {
+    "name": "I-78 @ EXIT 29 (PA 61)",
+    "area": "pa",
+    "latitude": 40.55714,
+    "longitude": -75.9985,
+    "imageUrl": "/pa/2588--10"
+  },
+  {
+    "name": "I-78 @ EXIT 35 (PA 143 LENHARTSVILLE)",
+    "area": "pa",
+    "latitude": 40.5773,
+    "longitude": -75.8904,
+    "imageUrl": "/pa/3743--10"
+  },
+  {
+    "name": "I-78 @ EXIT 40 (PA 737 KUTZTOWN/KRUMSVILLE)",
+    "area": "pa",
+    "latitude": 40.5777,
+    "longitude": -75.7977,
+    "imageUrl": "/pa/3613--10"
+  },
+  {
+    "name": "I-78 @ EXIT 49 (PA 100 TREXLERTOWN)",
+    "area": "pa",
+    "latitude": 40.58,
+    "longitude": -75.625,
+    "imageUrl": "/pa/2578--10"
+  },
+  {
+    "name": "I-78 @ EXIT 54 (US 222 HAMILTON BLVD)",
+    "area": "pa",
+    "latitude": 40.5719,
+    "longitude": -75.5395,
+    "imageUrl": "/pa/2975--10"
+  },
+  {
+    "name": "I-78 @ EXIT 55 (PA 29 CEDAR CREST BLVD)",
+    "area": "pa",
+    "latitude": 40.5681,
+    "longitude": -75.5184,
+    "imageUrl": "/pa/2777--10"
+  },
+  {
+    "name": "I-78 @ EXIT 57 (LEHIGH ST)",
+    "area": "pa",
+    "latitude": 40.5648,
+    "longitude": -75.4844,
+    "imageUrl": "/pa/3612--10"
+  },
+  {
+    "name": "I-78 @ EXIT 60 (PA 309)",
+    "area": "pa",
+    "latitude": 40.554,
+    "longitude": -75.4306,
+    "imageUrl": "/pa/2974--10"
+  },
+  {
+    "name": "I-78 @ EXIT 67 (PA 412 HELLERTOWN)",
+    "area": "pa",
+    "latitude": 40.596,
+    "longitude": -75.3397,
+    "imageUrl": "/pa/3809--10"
+  },
+  {
+    "name": "I-78 @ EXIT 71 (PA 33)",
+    "area": "pa",
+    "latitude": 40.6385,
+    "longitude": -75.2738,
+    "imageUrl": "/pa/3611--10"
+  },
+  {
+    "name": "I-78 @ EXIT 75 (MORGAN HILL RD)",
+    "area": "pa",
+    "latitude": 40.6701,
+    "longitude": -75.2139,
+    "imageUrl": "/pa/3363--10"
+  },
+  {
+    "name": "I-78 @ EXIT 51 (US 22 SPLIT)",
+    "area": "pa",
+    "latitude": 40.5896,
+    "longitude": -75.5889,
+    "imageUrl": "/pa/2584--10"
+  },
+  {
+    "name": "I-79 @ EXIT 99 (US 422 BUTLER/NEW CASTLE)",
+    "area": "pa",
+    "latitude": 40.96244,
+    "longitude": -80.13476,
+    "imageUrl": "/pa/3296--10"
+  },
+  {
+    "name": "I-79 @ EXIT 1 (MOUNT MORRIS)",
+    "area": "pa",
+    "latitude": 39.729535,
+    "longitude": -80.059733,
+    "imageUrl": "/pa/2925--10"
+  },
+  {
+    "name": "I-79 @ EXIT 14 (PA 21 MASONTOWN/WAYNESBURG)",
+    "area": "pa",
+    "latitude": 39.898922,
+    "longitude": -80.14432,
+    "imageUrl": "/pa/3790--10"
+  },
+  {
+    "name": "I-79 @ EXIT 116 A+B (I-80)",
+    "area": "pa",
+    "latitude": 41.19868,
+    "longitude": -80.15989,
+    "imageUrl": "/pa/3671--10"
+  },
+  {
+    "name": "I-79 @ MM 31 (US 19)",
+    "area": "pa",
+    "latitude": 40.122896,
+    "longitude": -80.206193,
+    "imageUrl": "/pa/3652--10"
+  },
+  {
+    "name": "I-79 NORTH OF I-70",
+    "area": "pa",
+    "latitude": 40.200933,
+    "longitude": -80.248965,
+    "imageUrl": "/pa/3847--10"
+  },
+  {
+    "name": "I-79 @ LOCUST AVE",
+    "area": "pa",
+    "latitude": 40.210884,
+    "longitude": -80.227343,
+    "imageUrl": "/pa/3477--10"
+  },
+  {
+    "name": "I-79 @ RACETRACK ROAD",
+    "area": "pa",
+    "latitude": 40.22137,
+    "longitude": -80.213648,
+    "imageUrl": "/pa/3650--10"
+  },
+  {
+    "name": "I-79 @ PA 519",
+    "area": "pa",
+    "latitude": 40.242515,
+    "longitude": -80.204529,
+    "imageUrl": "/pa/2918--10"
+  },
+  {
+    "name": "I-79 @ MCCLELLAND ROAD",
+    "area": "pa",
+    "latitude": 40.263387,
+    "longitude": -80.170367,
+    "imageUrl": "/pa/2919--10"
+  },
+  {
+    "name": "I-79 @ NORTH OF MCLELLAND ROAD",
+    "area": "pa",
+    "latitude": 40.26684,
+    "longitude": -80.16165,
+    "imageUrl": "/pa/2711--10"
+  },
+  {
+    "name": "I-79 @ EXIT 48 (SOUTHPOINTE/HENDERSONVILLE)",
+    "area": "pa",
+    "latitude": 40.29825,
+    "longitude": -80.16723,
+    "imageUrl": "/pa/3848--10"
+  },
+  {
+    "name": "I-79 @ MM 49.7 (COUNTY LINE RD)",
+    "area": "pa",
+    "latitude": 40.3219,
+    "longitude": -80.14557,
+    "imageUrl": "/pa/3113--10"
+  },
+  {
+    "name": "I-79 @ MM 50.2 (I-79 SOUTHBOUND BRIDGEVILLE REST AREA)",
+    "area": "pa",
+    "latitude": 40.32858,
+    "longitude": -80.14076,
+    "imageUrl": "/pa/3280--10"
+  },
+  {
+    "name": "I-79 @ MM 50.8 (ALPINE RD)",
+    "area": "pa",
+    "latitude": 40.33679,
+    "longitude": -80.13462,
+    "imageUrl": "/pa/2523--10"
+  },
+  {
+    "name": "I-79 @ MM 51.2 (NORTH OF ALPINE RD)",
+    "area": "pa",
+    "latitude": 40.33994,
+    "longitude": -80.12969,
+    "imageUrl": "/pa/3793--10"
+  },
+  {
+    "name": "I-79 @ MM 52.3 (SOUTH OF EXIT 54)",
+    "area": "pa",
+    "latitude": 40.34721,
+    "longitude": -80.11795,
+    "imageUrl": "/pa/2528--10"
+  },
+  {
+    "name": "I-79 @ EXIT 54 (PA 50 BRIDGEVILLE)",
+    "area": "pa",
+    "latitude": 40.35586,
+    "longitude": -80.11867,
+    "imageUrl": "/pa/3286--10"
+  },
+  {
+    "name": "I-79 @ MM 53.1 (MILLERS RUN RD)",
+    "area": "pa",
+    "latitude": 40.36322,
+    "longitude": -80.11861,
+    "imageUrl": "/pa/2510--10"
+  },
+  {
+    "name": "I-79 @ MM 53.5 (PRESTLEY RD)",
+    "area": "pa",
+    "latitude": 40.36981,
+    "longitude": -80.1188,
+    "imageUrl": "/pa/3086--10"
+  },
+  {
+    "name": "I-79 @ MM 54 (PRESTLEY RD)",
+    "area": "pa",
+    "latitude": 40.37216,
+    "longitude": -80.11162,
+    "imageUrl": "/pa/2685--10"
+  },
+  {
+    "name": "I-79 @ EXIT 55 (PA 50 BRIDGEVILLE )",
+    "area": "pa",
+    "latitude": 40.37393,
+    "longitude": -80.10353,
+    "imageUrl": "/pa/2511--10"
+  },
+  {
+    "name": "I-79 @ MM 55.1 (THOMS RUN AND OAKDALE RD)",
+    "area": "pa",
+    "latitude": 40.38148,
+    "longitude": -80.09642,
+    "imageUrl": "/pa/2691--10"
+  },
+  {
+    "name": "I-79 @ MM 55.9 (COLLIER AVE)",
+    "area": "pa",
+    "latitude": 40.393,
+    "longitude": -80.10031,
+    "imageUrl": "/pa/3784--10"
+  },
+  {
+    "name": "I-79 @ EXIT 57 (CARNEGIE)",
+    "area": "pa",
+    "latitude": 40.39786,
+    "longitude": -80.10439,
+    "imageUrl": "/pa/3906--10"
+  },
+  {
+    "name": "I-79 @ MM 56.9 (EWING RD)",
+    "area": "pa",
+    "latitude": 40.40639,
+    "longitude": -80.10708,
+    "imageUrl": "/pa/3785--10"
+  },
+  {
+    "name": "I-79 @ MM 57.5 (I-379 INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.41387,
+    "longitude": -80.10472,
+    "imageUrl": "/pa/3104--10"
+  },
+  {
+    "name": "I-79 @ EXIT 59B (I-376 WEST AIRPORT)",
+    "area": "pa",
+    "latitude": 40.42294,
+    "longitude": -80.10589,
+    "imageUrl": "/pa/3466--10"
+  },
+  {
+    "name": "I-79 @ MM 58.5 (NORTH OF I-376 PITTSBURGH INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.42851,
+    "longitude": -80.10577,
+    "imageUrl": "/pa/3100--10"
+  },
+  {
+    "name": "I-79 @ MM 59 (WEST HARBISON RD)",
+    "area": "pa",
+    "latitude": 40.4349,
+    "longitude": -80.11098,
+    "imageUrl": "/pa/2697--10"
+  },
+  {
+    "name": "I-79 @ EXIT 60 (PA 60 CRAFTON/MOON RUN)",
+    "area": "pa",
+    "latitude": 40.45041,
+    "longitude": -80.11096,
+    "imageUrl": "/pa/3110--10"
+  },
+  {
+    "name": "I-79 @ MM 61.1 (CLEVER RD)",
+    "area": "pa",
+    "latitude": 40.46512,
+    "longitude": -80.11177,
+    "imageUrl": "/pa/3093--10"
+  },
+  {
+    "name": "I-79 @ MM 62.3 (FOREST GROVE RD)",
+    "area": "pa",
+    "latitude": 40.48014,
+    "longitude": -80.12147,
+    "imageUrl": "/pa/3111--10"
+  },
+  {
+    "name": "I-79 @ MM 62.8 (S-BEND_NB ENTRANCE)",
+    "area": "pa",
+    "latitude": 40.4878,
+    "longitude": -80.12422,
+    "imageUrl": "/pa/3094--10"
+  },
+  {
+    "name": "I-79 @ MM 63.2 (1ST BEND_NORTHBOUND)",
+    "area": "pa",
+    "latitude": 40.49347,
+    "longitude": -80.12503,
+    "imageUrl": "/pa/3588--10"
+  },
+  {
+    "name": "I-79 @ MM 63.8 (2ND BEND_NORTHBOUND)",
+    "area": "pa",
+    "latitude": 40.50026,
+    "longitude": -80.12092,
+    "imageUrl": "/pa/3095--10"
+  },
+  {
+    "name": "I-79 NB @ EXIT 64 (PA 51 CORAOPOLIS/MCKEES ROCKS)",
+    "area": "pa",
+    "latitude": 40.50179,
+    "longitude": -80.12878,
+    "imageUrl": "/pa/2903--10"
+  },
+  {
+    "name": "I-79 @ MM 64.6 (CORAOPOLIS INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.50497,
+    "longitude": -80.13795,
+    "imageUrl": "/pa/3841--10"
+  },
+  {
+    "name": "I-79 @ EXIT 65 (NEVILLE ISLAND)",
+    "area": "pa",
+    "latitude": 40.51392,
+    "longitude": -80.13471,
+    "imageUrl": "/pa/2915--10"
+  },
+  {
+    "name": "I-79 @ MM 66.1 (DEER RUN RD)",
+    "area": "pa",
+    "latitude": 40.52236,
+    "longitude": -80.13111,
+    "imageUrl": "/pa/3782--10"
+  },
+  {
+    "name": "I-79 @ EXIT 66 (PA 65 EMSWORTH/SEWICKLEY)",
+    "area": "pa",
+    "latitude": 40.52829,
+    "longitude": -80.12923,
+    "imageUrl": "/pa/3092--10"
+  },
+  {
+    "name": "I-79 @ MM 67.2 (DUFF RD)",
+    "area": "pa",
+    "latitude": 40.53665,
+    "longitude": -80.12393,
+    "imageUrl": "/pa/3269--10"
+  },
+  {
+    "name": "I-79 @ EXIT 66 (PA 65 EMSWORTH/SEWICKLEY)",
+    "area": "pa",
+    "latitude": 40.54679,
+    "longitude": -80.12204,
+    "imageUrl": "/pa/3783--10"
+  },
+  {
+    "name": "I-79 @ EXIT 68 (MOUNT NEBO RD)",
+    "area": "pa",
+    "latitude": 40.5523,
+    "longitude": -80.11715,
+    "imageUrl": "/pa/3273--10"
+  },
+  {
+    "name": "I-79 @ MM 69 (RED MUD HOLLOW RD)",
+    "area": "pa",
+    "latitude": 40.56302,
+    "longitude": -80.11395,
+    "imageUrl": "/pa/3274--10"
+  },
+  {
+    "name": "I-79 @ MM 69.6 (RED MUD HOLLOW RD)",
+    "area": "pa",
+    "latitude": 40.56873,
+    "longitude": -80.11608,
+    "imageUrl": "/pa/3589--10"
+  },
+  {
+    "name": "I-79 @ MM 70.2 (RED MUD HOLLOW RD)",
+    "area": "pa",
+    "latitude": 40.57876,
+    "longitude": -80.11708,
+    "imageUrl": "/pa/2516--10"
+  },
+  {
+    "name": "I-79 @ MM 70.9 (NICHOLSON RD)",
+    "area": "pa",
+    "latitude": 40.58294,
+    "longitude": -80.10517,
+    "imageUrl": "/pa/3098--10"
+  },
+  {
+    "name": "I-79 @ EXIT 72 (I-279 SOUTH PITTSBURGH)",
+    "area": "pa",
+    "latitude": 40.58879,
+    "longitude": -80.09928,
+    "imageUrl": "/pa/3099--10"
+  },
+  {
+    "name": "I-79 @ MM 72.1 (WEDGE RD DR)",
+    "area": "pa",
+    "latitude": 40.59708,
+    "longitude": -80.09341,
+    "imageUrl": "/pa/2517--10"
+  },
+  {
+    "name": "I-79 @ MM 72.9 (WEXFORD BAYNE RD)",
+    "area": "pa",
+    "latitude": 40.61091,
+    "longitude": -80.09528,
+    "imageUrl": "/pa/3647--10"
+  },
+  {
+    "name": "I-79 @ EXIT 73 (PA 910 EAST WEXFORD)",
+    "area": "pa",
+    "latitude": 40.61499,
+    "longitude": -80.09616,
+    "imageUrl": "/pa/2699--10"
+  },
+  {
+    "name": "I-79 @ MM 73.9 (MINGO RD)",
+    "area": "pa",
+    "latitude": 40.6246,
+    "longitude": -80.09667,
+    "imageUrl": "/pa/2914--10"
+  },
+  {
+    "name": "I-79 @ MM 75.1 (WEXFORD RUN RD)",
+    "area": "pa",
+    "latitude": 40.64182,
+    "longitude": -80.09775,
+    "imageUrl": "/pa/3292--10"
+  },
+  {
+    "name": "I-79 @ MM 75.7 (WARRENDALE BAYNE RD)",
+    "area": "pa",
+    "latitude": 40.64917,
+    "longitude": -80.09495,
+    "imageUrl": "/pa/3291--10"
+  },
+  {
+    "name": "I-79 @ EXIT 76 (US 9 NORTH CRANBERRY)",
+    "area": "pa",
+    "latitude": 40.66218,
+    "longitude": -80.09269,
+    "imageUrl": "/pa/3911--10"
+  },
+  {
+    "name": "I-79 @ EXIT 77 (I-76 YOUNGSTOWN,OH/HARRISBURG)",
+    "area": "pa",
+    "latitude": 40.67266,
+    "longitude": -80.09452,
+    "imageUrl": "/pa/3595--10"
+  },
+  {
+    "name": "I-79 @ MM 77.7 (TURNPIKE I-76)",
+    "area": "pa",
+    "latitude": 40.67756,
+    "longitude": -80.0973,
+    "imageUrl": "/pa/3290--10"
+  },
+  {
+    "name": "I-79 @ EXIT 78 (PA 228 CRANBERRY/MARS)",
+    "area": "pa",
+    "latitude": 40.68562,
+    "longitude": -80.09475,
+    "imageUrl": "/pa/3729--10"
+  },
+  {
+    "name": "I-79 @ EXIT 105 (PA 108 SLIPPERY ROCK)",
+    "area": "pa",
+    "latitude": 41.040892,
+    "longitude": -80.127487,
+    "imageUrl": "/pa/3489--10"
+  },
+  {
+    "name": "I-79 @ MM 105.7 (NORTH OF SLIPPERY ROCK)",
+    "area": "pa",
+    "latitude": 41.048538,
+    "longitude": -80.126426,
+    "imageUrl": "/pa/3305--10"
+  },
+  {
+    "name": "I-79 @ MM 107 (PLAIN GROV NORTH LIBERTY RD)",
+    "area": "pa",
+    "latitude": 41.068608,
+    "longitude": -80.123403,
+    "imageUrl": "/pa/2714--10"
+  },
+  {
+    "name": "I-79 @ MM 109.5 (VOLANT REST AREA)",
+    "area": "pa",
+    "latitude": 41.099814,
+    "longitude": -80.143385,
+    "imageUrl": "/pa/2933--10"
+  },
+  {
+    "name": "I-79 @ MM 110 (BRENT RD BRIDGE)",
+    "area": "pa",
+    "latitude": 41.107857,
+    "longitude": -80.145524,
+    "imageUrl": "/pa/3490--10"
+  },
+  {
+    "name": "I-79 @ EXIT 113 (PA 208/PA 258 GROVE CITY)",
+    "area": "pa",
+    "latitude": 41.14321,
+    "longitude": -80.15544,
+    "imageUrl": "/pa/2381--10"
+  },
+  {
+    "name": "I-79 @ MM 155",
+    "area": "pa",
+    "latitude": 41.731407,
+    "longitude": -80.20442,
+    "imageUrl": "/pa/3666--10"
+  },
+  {
+    "name": "I-79 @ EXIT 166 (US 6N ALBION/EDINBORO)",
+    "area": "pa",
+    "latitude": 41.879352,
+    "longitude": -80.176397,
+    "imageUrl": "/pa/3670--10"
+  },
+  {
+    "name": "I-79 @ EXIT 178A+B (I-90)",
+    "area": "pa",
+    "latitude": 42.03173,
+    "longitude": -80.1225,
+    "imageUrl": "/pa/3340--10"
+  },
+  {
+    "name": "I-79 @ EXIT 180 (US 19 KEARSARGE)",
+    "area": "pa",
+    "latitude": 42.06525,
+    "longitude": -80.105432,
+    "imageUrl": "/pa/3804--10"
+  },
+  {
+    "name": "I-79 @ EXIT 182 (US 20 26TH ST )",
+    "area": "pa",
+    "latitude": 42.093908,
+    "longitude": -80.122287,
+    "imageUrl": "/pa/2949--10"
+  },
+  {
+    "name": "I-80 @ EXIT 29 - BARKEYVILLE",
+    "area": "pa",
+    "latitude": 41.20123,
+    "longitude": -79.97483,
+    "imageUrl": "/pa/2751--10"
+  },
+  {
+    "name": "I-80 @ EXIT 163",
+    "area": "pa",
+    "latitude": 40.964034,
+    "longitude": -77.67227,
+    "imageUrl": "/pa/3659--10"
+  },
+  {
+    "name": "I-80 @ EXIT 4A+B (I-376E/PA 760N)",
+    "area": "pa",
+    "latitude": 41.18532,
+    "longitude": -80.4443,
+    "imageUrl": "/pa/3605--10"
+  },
+  {
+    "name": "I-80 @ MM 35 CLINTONVILLE",
+    "area": "pa",
+    "latitude": 41.189183,
+    "longitude": -79.868782,
+    "imageUrl": "/pa/3502--10"
+  },
+  {
+    "name": "I-80 @ MM 45 (EMLENTON BRIDGE)",
+    "area": "pa",
+    "latitude": 41.17999,
+    "longitude": -79.69006,
+    "imageUrl": "/pa/3488--10"
+  },
+  {
+    "name": "I-80 @ MM 53 CANOE RIPPLE ROAD",
+    "area": "pa",
+    "latitude": 41.185175,
+    "longitude": -79.541742,
+    "imageUrl": "/pa/3503--10"
+  },
+  {
+    "name": "I-80 @ EXIT 60 (PA 66 SHIPPENVILLE)",
+    "area": "pa",
+    "latitude": 41.19278,
+    "longitude": -79.42664,
+    "imageUrl": "/pa/3309--10"
+  },
+  {
+    "name": "I-80 @ EXIT 81 (HAZEN)",
+    "area": "pa",
+    "latitude": 41.1678,
+    "longitude": -79.04441,
+    "imageUrl": "/pa/3913--10"
+  },
+  {
+    "name": "I-80 @ MM 93",
+    "area": "pa",
+    "latitude": 41.149422,
+    "longitude": -78.850159,
+    "imageUrl": "/pa/2943--10"
+  },
+  {
+    "name": "I-80 @ EXIT 97 (US 219 BROCKWAY/DUBOIS)",
+    "area": "pa",
+    "latitude": 41.14678,
+    "longitude": -78.78988,
+    "imageUrl": "/pa/3736--10"
+  },
+  {
+    "name": "I-80 @ MM 99 (CLEAR RUN RD)",
+    "area": "pa",
+    "latitude": 41.14231,
+    "longitude": -78.74681,
+    "imageUrl": "/pa/3131--10"
+  },
+  {
+    "name": "I-80 @ EXIT 101 (PA 255 DUBOIS/PENFIELD)",
+    "area": "pa",
+    "latitude": 41.12956,
+    "longitude": -78.70846,
+    "imageUrl": "/pa/3344--10"
+  },
+  {
+    "name": "I-80 @ MM 105.7 (ANDERSON CREEK ROAD)",
+    "area": "pa",
+    "latitude": 41.120912,
+    "longitude": -78.621794,
+    "imageUrl": "/pa/3508--10"
+  },
+  {
+    "name": "I-80 @ MM 110 (STATE PARK RD)",
+    "area": "pa",
+    "latitude": 41.117862,
+    "longitude": -78.548297,
+    "imageUrl": "/pa/3350--10"
+  },
+  {
+    "name": "I-80 @ EXIT 111 (PA 153 PENFIELD)",
+    "area": "pa",
+    "latitude": 41.09858,
+    "longitude": -78.52572,
+    "imageUrl": "/pa/3737--10"
+  },
+  {
+    "name": "I-80 @ MM 116",
+    "area": "pa",
+    "latitude": 41.060231,
+    "longitude": -78.448267,
+    "imageUrl": "/pa/3862--10"
+  },
+  {
+    "name": "I-80 @ EXIT 120 (PA 879 CLEARFIELD)",
+    "area": "pa",
+    "latitude": 41.03959,
+    "longitude": -78.39835,
+    "imageUrl": "/pa/3345--10"
+  },
+  {
+    "name": "I-80 @ EXIT 123 (PA 970 WOODLAND/SHAWVILLE)",
+    "area": "pa",
+    "latitude": 41.02231,
+    "longitude": -78.3505,
+    "imageUrl": "/pa/3346--10"
+  },
+  {
+    "name": "I-80 @ EXIT 133 (PA 53 KYLERTOWN/PHILIPSBURG)",
+    "area": "pa",
+    "latitude": 40.98878,
+    "longitude": -78.16869,
+    "imageUrl": "/pa/2768--10"
+  },
+  {
+    "name": "I-80 @ EXIT 147 (PA 144 SNOW SHOE)",
+    "area": "pa",
+    "latitude": 41.02368,
+    "longitude": -77.93469,
+    "imageUrl": "/pa/2763--10"
+  },
+  {
+    "name": "1-80 WB @ EXIT 158 (PA 150/US 220 MILESBURG)",
+    "area": "pa",
+    "latitude": 40.95608,
+    "longitude": -77.7672,
+    "imageUrl": "/pa/2954--10"
+  },
+  {
+    "name": "I-80 EB @ EXIT 158 (PA 150/US 220 MILESBURG)",
+    "area": "pa",
+    "latitude": 40.95588,
+    "longitude": -77.77533,
+    "imageUrl": "/pa/3516--10"
+  },
+  {
+    "name": "I-80 @ EXIT 173 (PA 64 LAMAR)",
+    "area": "pa",
+    "latitude": 41.03155,
+    "longitude": -77.51908,
+    "imageUrl": "/pa/3341--10"
+  },
+  {
+    "name": "I-80 @ EXIT 178 (US 220 NORTH LOCK HAVEN)",
+    "area": "pa",
+    "latitude": 41.05427,
+    "longitude": -77.4363,
+    "imageUrl": "/pa/2769--10"
+  },
+  {
+    "name": "I-80 @ Exit 185 (PA 477 LOGANTAN)",
+    "area": "pa",
+    "latitude": 41.04867764,
+    "longitude": -77.31808647,
+    "imageUrl": "/pa/3517--10"
+  },
+  {
+    "name": "I-80 MM 193.5 WB-DMS 46 REST AREA",
+    "area": "pa",
+    "latitude": 41.0512,
+    "longitude": -77.153,
+    "imageUrl": "/pa/2939--10"
+  },
+  {
+    "name": "US-15 @ LITTLE LEAGUE WORLD SERIES COMPLEX",
+    "area": "pa",
+    "latitude": 41.228233,
+    "longitude": -76.981433,
+    "imageUrl": "/pa/3329--10"
+  },
+  {
+    "name": "I-80 @ EXIT 212B (I-180 WEST WILLIAMSPORT)",
+    "area": "pa",
+    "latitude": 41.04938,
+    "longitude": -76.83976,
+    "imageUrl": "/pa/3606--10"
+  },
+  {
+    "name": "I-80 @ EXIT 215 (PA 254 LIMESTONEVILLE)",
+    "area": "pa",
+    "latitude": 41.021281,
+    "longitude": -76.794055,
+    "imageUrl": "/pa/2727--10"
+  },
+  {
+    "name": "I-80 @ EXIT 232 (PA 42 BUCKHORN)",
+    "area": "pa",
+    "latitude": 41.012193,
+    "longitude": -76.490601,
+    "imageUrl": "/pa/3738--10"
+  },
+  {
+    "name": "I-80 @ EXIT 241 (US 11 LIME RIDGE/BERWICK)",
+    "area": "pa",
+    "latitude": 41.03351,
+    "longitude": -76.33552,
+    "imageUrl": "/pa/2765--10"
+  },
+  {
+    "name": "I-80 @ MM 244.6 (MIFFLINVILLE)",
+    "area": "pa",
+    "latitude": 41.011852,
+    "longitude": -76.272426,
+    "imageUrl": "/pa/3149--10"
+  },
+  {
+    "name": "I-80 @ MM 251.0",
+    "area": "pa",
+    "latitude": 41.006166,
+    "longitude": -76.162309,
+    "imageUrl": "/pa/2554--10"
+  },
+  {
+    "name": "I-80 @ EXIT 256 (PA 93 NESCOPECK/CONYNGHAM)",
+    "area": "pa",
+    "latitude": 41.02643,
+    "longitude": -76.07929,
+    "imageUrl": "/pa/2390--10"
+  },
+  {
+    "name": "I-80 @ EXIT 262 (PA 309 MOUNTAIN TOP/HAZLETON)",
+    "area": "pa",
+    "latitude": 41.05364,
+    "longitude": -75.95936,
+    "imageUrl": "/pa/3521--10"
+  },
+  {
+    "name": "I-80 @ EXIT 277 (PA 940/PA TPK)",
+    "area": "pa",
+    "latitude": 41.0669,
+    "longitude": -75.7012,
+    "imageUrl": "/pa/3178--10"
+  },
+  {
+    "name": "I-80 @ MM 298.3 (SCOTRUN/TANNERSVILLE)",
+    "area": "pa",
+    "latitude": 41.0445,
+    "longitude": -75.3142,
+    "imageUrl": "/pa/3527--10"
+  },
+  {
+    "name": "I-80 @ EXIT 302 (PA 33)",
+    "area": "pa",
+    "latitude": 40.99803,
+    "longitude": -75.26997,
+    "imageUrl": "/pa/2591--10"
+  },
+  {
+    "name": "I-80 WB @ EXIT 304 (US 209 SPLIT)",
+    "area": "pa",
+    "latitude": 40.9848,
+    "longitude": -75.21715,
+    "imageUrl": "/pa/2972--10"
+  },
+  {
+    "name": "I-80 @ EXIT 307 (PA 191)",
+    "area": "pa",
+    "latitude": 40.9846,
+    "longitude": -75.19012,
+    "imageUrl": "/pa/2780--10"
+  },
+  {
+    "name": "I-80 @ EXIT 309 (US 209)",
+    "area": "pa",
+    "latitude": 40.9985,
+    "longitude": -75.1548,
+    "imageUrl": "/pa/3525--10"
+  },
+  {
+    "name": "I-81 @ EXIT 1 (MARYLAND LINE)",
+    "area": "pa",
+    "latitude": 39.72343,
+    "longitude": -77.72924,
+    "imageUrl": "/pa/3440--10"
+  },
+  {
+    "name": "I-81 @ EXIT 3 (US 11 MOLLY PITCHER HIGHWAY)",
+    "area": "pa",
+    "latitude": 39.75785,
+    "longitude": -77.72658,
+    "imageUrl": "/pa/2667--10"
+  },
+  {
+    "name": "I-81 @ EXIT 5 (PA 16 GREENCASTLE/WAYNESBORO)",
+    "area": "pa",
+    "latitude": 39.78435,
+    "longitude": -77.71413,
+    "imageUrl": "/pa/2873--10"
+  },
+  {
+    "name": "I-81 @ EXIT 10 (PA 914 MARION)",
+    "area": "pa",
+    "latitude": 39.85503,
+    "longitude": -77.68652,
+    "imageUrl": "/pa/3641--10"
+  },
+  {
+    "name": "DMS-81S-10.8 I-81 SB MM 10.8 Overcash Rd",
+    "area": "pa",
+    "latitude": 39.870164,
+    "longitude": -77.681013,
+    "imageUrl": "/pa/3322--10"
+  },
+  {
+    "name": "I-81 @ EXIT 14 (PA 316 WAYNE AVE)",
+    "area": "pa",
+    "latitude": 39.90946,
+    "longitude": -77.64873,
+    "imageUrl": "/pa/3251--10"
+  },
+  {
+    "name": "I-81 @ EXIT 16 (US 30 LINCOLN WAY)",
+    "area": "pa",
+    "latitude": 39.9285,
+    "longitude": -77.63552,
+    "imageUrl": "/pa/2879--10"
+  },
+  {
+    "name": "I-81 @ EXIT 17 (WALKER RD)",
+    "area": "pa",
+    "latitude": 39.94142,
+    "longitude": -77.62253,
+    "imageUrl": "/pa/3063--10"
+  },
+  {
+    "name": "I-81 @ EXIT 20 (PA 997 SCOTLAND)",
+    "area": "pa",
+    "latitude": 39.96402,
+    "longitude": -77.57811,
+    "imageUrl": "/pa/3064--10"
+  },
+  {
+    "name": "I-81 @ EXIT 24 (PA 696 FAYETTE ST)",
+    "area": "pa",
+    "latitude": 40.01583,
+    "longitude": -77.53348,
+    "imageUrl": "/pa/3831--10"
+  },
+  {
+    "name": "I-81 @ MM 26 (FRANKLIN/CUMBERLAND COUNTY LINE)",
+    "area": "pa",
+    "latitude": 40.027915,
+    "longitude": -77.508833,
+    "imageUrl": "/pa/3321--10"
+  },
+  {
+    "name": "I-81 @ EXIT 29 (PA 174 KING ST)",
+    "area": "pa",
+    "latitude": 40.0606,
+    "longitude": -77.4797,
+    "imageUrl": "/pa/2483--10"
+  },
+  {
+    "name": "I-81 @ MM 33 (STOUGHSTOWN RD)",
+    "area": "pa",
+    "latitude": 40.095672,
+    "longitude": -77.40806,
+    "imageUrl": "/pa/3713--10"
+  },
+  {
+    "name": "I-81 @ MM 38 (KUTZ RD)",
+    "area": "pa",
+    "latitude": 40.13823,
+    "longitude": -77.33314,
+    "imageUrl": "/pa/3075--10"
+  },
+  {
+    "name": "I-81 @ MM 40 (STONEHOUSE RD)",
+    "area": "pa",
+    "latitude": 40.1541949,
+    "longitude": -77.30062595,
+    "imageUrl": "/pa/3583--10"
+  },
+  {
+    "name": "I-81 2 MM 42 (BURNT HOUSE RD)",
+    "area": "pa",
+    "latitude": 40.16755729,
+    "longitude": -77.27616894,
+    "imageUrl": "/pa/3901--10"
+  },
+  {
+    "name": "I-81 @ EXIT 44 (PA 465 ALLEN RD)",
+    "area": "pa",
+    "latitude": 40.18501,
+    "longitude": -77.23875,
+    "imageUrl": "/pa/3835--10"
+  },
+  {
+    "name": "I-81 @ EXIT 45 (COLLEGE ST)",
+    "area": "pa",
+    "latitude": 40.18681,
+    "longitude": -77.21175,
+    "imageUrl": "/pa/3578--10"
+  },
+  {
+    "name": "I-81 @ EXIT 47 (PA 34 HANOVER ST)",
+    "area": "pa",
+    "latitude": 40.18789,
+    "longitude": -77.19097,
+    "imageUrl": "/pa/2493--10"
+  },
+  {
+    "name": "I-83 @ MM 47.3",
+    "area": "pa",
+    "latitude": 40.26942,
+    "longitude": -76.814777,
+    "imageUrl": "/pa/2548--10"
+  },
+  {
+    "name": "I-81 @ EXIT 49 (PA 641 HIGH ST)",
+    "area": "pa",
+    "latitude": 40.19867,
+    "longitude": -77.1586,
+    "imageUrl": "/pa/3771--10"
+  },
+  {
+    "name": "I-81 @ EXIT 52 (US 11 NEW KINGSTON/MIDDLESEX)",
+    "area": "pa",
+    "latitude": 40.2349,
+    "longitude": -77.1278,
+    "imageUrl": "/pa/3242--10"
+  },
+  {
+    "name": "I-81 @ EXIT 57 (PA 114 MECHANICSBURG)",
+    "area": "pa",
+    "latitude": 40.26933,
+    "longitude": -77.04435,
+    "imageUrl": "/pa/3640--10"
+  },
+  {
+    "name": "I-81 @ EXIT 59 (PA 581 EAST CAMP HILL)",
+    "area": "pa",
+    "latitude": 40.27565,
+    "longitude": -77.00044,
+    "imageUrl": "/pa/2871--10"
+  },
+  {
+    "name": "I-81 @ EXIT 61 (PA 944 WERTZVILLE RD)",
+    "area": "pa",
+    "latitude": 40.28901,
+    "longitude": -76.98162,
+    "imageUrl": "/pa/2870--10"
+  },
+  {
+    "name": "I-81 @ MM 62.7",
+    "area": "pa",
+    "latitude": 40.305836,
+    "longitude": -76.959273,
+    "imageUrl": "/pa/3859--10"
+  },
+  {
+    "name": "I-81 @ MM 63.5",
+    "area": "pa",
+    "latitude": 40.309502,
+    "longitude": -76.943927,
+    "imageUrl": "/pa/3860--10"
+  },
+  {
+    "name": "I-81 @ EXIT 65 (US 11/US 15 ENOLA/MARYSVILLE)",
+    "area": "pa",
+    "latitude": 40.31754,
+    "longitude": -76.9229,
+    "imageUrl": "/pa/2481--10"
+  },
+  {
+    "name": "I-81 @ EXIT 66 (FRONT ST)",
+    "area": "pa",
+    "latitude": 40.31104,
+    "longitude": -76.89829,
+    "imageUrl": "/pa/3918--10"
+  },
+  {
+    "name": "I-81 @ EXIT 67B (US 22/322 WEST LEWISTOWN/STATE COLLEGE)",
+    "area": "pa",
+    "latitude": 40.30114,
+    "longitude": -76.88046,
+    "imageUrl": "/pa/2866--10"
+  },
+  {
+    "name": "I-81 @ EXIT 70 (I-83 SOUTH/US 322 EAST HERSHEY/YORK)",
+    "area": "pa",
+    "latitude": 40.30762,
+    "longitude": -76.83491,
+    "imageUrl": "/pa/3248--10"
+  },
+  {
+    "name": "I-81 @ MM 71 (COLONIAL RD)",
+    "area": "pa",
+    "latitude": 40.31922,
+    "longitude": -76.82351,
+    "imageUrl": "/pa/3250--10"
+  },
+  {
+    "name": "I-81 @ EXIT 72A (US 22 PAXTONIA)",
+    "area": "pa",
+    "latitude": 40.32467,
+    "longitude": -76.79744,
+    "imageUrl": "/pa/2480--10"
+  },
+  {
+    "name": "I-81 @ MM 74 (BLUE RIDGE AVE)",
+    "area": "pa",
+    "latitude": 40.33293,
+    "longitude": -76.75782,
+    "imageUrl": "/pa/3447--10"
+  },
+  {
+    "name": "I-81 @ EXIT 77(PA 39 MANADA HILL/ HERSHEY)",
+    "area": "pa",
+    "latitude": 40.35271,
+    "longitude": -76.7199,
+    "imageUrl": "/pa/2878--10"
+  },
+  {
+    "name": "I-81 @ MM 79 (MANADA GAP RD)",
+    "area": "pa",
+    "latitude": 40.37018,
+    "longitude": -76.68456,
+    "imageUrl": "/pa/3704--10"
+  },
+  {
+    "name": "I-81 @ EXIT 80 (PA 743 GRANTVILLE/HERSHEY)",
+    "area": "pa",
+    "latitude": 40.37978,
+    "longitude": -76.6602,
+    "imageUrl": "/pa/3058--10"
+  },
+  {
+    "name": "I-81 @ MM 82 (HOMESTEAD RD)",
+    "area": "pa",
+    "latitude": 40.391637,
+    "longitude": -76.635787,
+    "imageUrl": "/pa/3577--10"
+  },
+  {
+    "name": "I-81 @ MM 83.8",
+    "area": "pa",
+    "latitude": 40.40296,
+    "longitude": -76.606001,
+    "imageUrl": "/pa/3730--10"
+  },
+  {
+    "name": "I-81 MM 86  (INDIANTOWN GAP RD)",
+    "area": "pa",
+    "latitude": 40.413819,
+    "longitude": -76.567162,
+    "imageUrl": "/pa/3317--10"
+  },
+  {
+    "name": "I-81 @ EXIT 89 NB (I-78 EAST ALLENTOWN)",
+    "area": "pa",
+    "latitude": 40.42496,
+    "longitude": -76.5225,
+    "imageUrl": "/pa/3639--10"
+  },
+  {
+    "name": "I-81 @ EXIT 89 SB (I-78 EAST ALLENTOWN)",
+    "area": "pa",
+    "latitude": 40.43294,
+    "longitude": -76.51882,
+    "imageUrl": "/pa/3900--10"
+  },
+  {
+    "name": "I-81 @ EXIT 90 (PA 72 LEBANON)",
+    "area": "pa",
+    "latitude": 40.449509,
+    "longitude": -76.51635,
+    "imageUrl": "/pa/3856--10"
+  },
+  {
+    "name": "I-81 @ MM 91.3 (BOHNS LN)",
+    "area": "pa",
+    "latitude": 40.463914,
+    "longitude": -76.51774,
+    "imageUrl": "/pa/2753--10"
+  },
+  {
+    "name": "I-81 @ EXIT 107 (US 209)",
+    "area": "pa",
+    "latitude": 40.6204,
+    "longitude": -76.4386,
+    "imageUrl": "/pa/2396--10"
+  },
+  {
+    "name": "I-81 @ EXIT 119 (HIGHRIDGE PARK RD)",
+    "area": "pa",
+    "latitude": 40.735,
+    "longitude": -76.3064,
+    "imageUrl": "/pa/3177--10"
+  },
+  {
+    "name": "I-81 @ EXIT 124 (PA 61)",
+    "area": "pa",
+    "latitude": 40.773,
+    "longitude": -76.225,
+    "imageUrl": "/pa/3176--10"
+  },
+  {
+    "name": "I-81 @ EXIT 145 (PA 93 WEST HAZLETON)",
+    "area": "pa",
+    "latitude": 40.98099,
+    "longitude": -76.03639,
+    "imageUrl": "/pa/3353--10"
+  },
+  {
+    "name": "I-81 @ MM 156 (REST AREA DORRANCE)",
+    "area": "pa",
+    "latitude": 41.10136,
+    "longitude": -75.96087,
+    "imageUrl": "/pa/3868--10"
+  },
+  {
+    "name": "I-81 @ MM 158 (REST AREA NUANGOLA)",
+    "area": "pa",
+    "latitude": 41.12996,
+    "longitude": -75.96322,
+    "imageUrl": "/pa/2576--10"
+  },
+  {
+    "name": "I-81 @ EXIT 164 (PA 29 NORTH NANTICOKE)",
+    "area": "pa",
+    "latitude": 41.20135,
+    "longitude": -75.90698,
+    "imageUrl": "/pa/3359--10"
+  },
+  {
+    "name": "I-81 @ MM 166.8 (Blackman Street)",
+    "area": "pa",
+    "latitude": 41.226548,
+    "longitude": -75.874036,
+    "imageUrl": "/pa/2555--10"
+  },
+  {
+    "name": "I-81 @ EXIT 168 (HIGHLAND PARK BLVD/WILKES-BARRE)",
+    "area": "pa",
+    "latitude": 41.23456,
+    "longitude": -75.84736,
+    "imageUrl": "/pa/2968--10"
+  },
+  {
+    "name": "I-81 @ EXIT 170A (PA 115 SOUTH BEAR CREEK)",
+    "area": "pa",
+    "latitude": 41.25126,
+    "longitude": -75.82107,
+    "imageUrl": "/pa/3807--10"
+  },
+  {
+    "name": "I-81 @ MM 172 (NORTH OF JUMPER RD)",
+    "area": "pa",
+    "latitude": 41.2708,
+    "longitude": -75.80629,
+    "imageUrl": "/pa/2967--10"
+  },
+  {
+    "name": "I-81 S MM 173.9",
+    "area": "pa",
+    "latitude": 41.292972,
+    "longitude": -75.77865,
+    "imageUrl": "/pa/2757--10"
+  },
+  {
+    "name": "I-81 @ EXIT 175 (PA 315 NORTH  DUPONT/PITTSTON",
+    "area": "pa",
+    "latitude": 41.30428,
+    "longitude": -75.767,
+    "imageUrl": "/pa/3522--10"
+  },
+  {
+    "name": "I-81 @ EXIT 178 (PA 315 WILKES-BARRE/SCRANTON AIRPORT/AVOCA)",
+    "area": "pa",
+    "latitude": 41.33482,
+    "longitude": -75.73778,
+    "imageUrl": "/pa/2776--10"
+  },
+  {
+    "name": "I-81 @ EXIT 182 (MONTAGE MOUNTAIN RD/DAVIS STREET)",
+    "area": "pa",
+    "latitude": 41.37129,
+    "longitude": -75.68273,
+    "imageUrl": "/pa/3523--10"
+  },
+  {
+    "name": "I-81 @ MM 183 (NORTH OF EXIT 182)",
+    "area": "pa",
+    "latitude": 41.38297,
+    "longitude": -75.66424,
+    "imageUrl": "/pa/3170--10"
+  },
+  {
+    "name": "I-81 @ EXIT 184 (PA 307 RIVER STREET)",
+    "area": "pa",
+    "latitude": 41.39329,
+    "longitude": -75.65079,
+    "imageUrl": "/pa/3609--10"
+  },
+  {
+    "name": "I-81 @ EXIT 188 (PA 347 DUNMORE/THROOP)",
+    "area": "pa",
+    "latitude": 41.4225,
+    "longitude": -75.60691,
+    "imageUrl": "/pa/3739--10"
+  },
+  {
+    "name": "I-81 @ EXIT 190 (DICKSON CITY/MAIN AVENUE)",
+    "area": "pa",
+    "latitude": 41.45072,
+    "longitude": -75.63922,
+    "imageUrl": "/pa/3520--10"
+  },
+  {
+    "name": "I-81 @ EXIT 191A (US 6 BUSINESS EAST DICKSON CITY)",
+    "area": "pa",
+    "latitude": 41.45655,
+    "longitude": -75.65936,
+    "imageUrl": "/pa/2775--10"
+  },
+  {
+    "name": "I-81 @ EXIT 206 (PA 374 GLENWOOD/LENOXVILLE)",
+    "area": "pa",
+    "latitude": 41.6519,
+    "longitude": -75.65806,
+    "imageUrl": "/pa/2577--10"
+  },
+  {
+    "name": "I-81 SB @ EXIT 211 (PA 106 LENOX)",
+    "area": "pa",
+    "latitude": 41.714114,
+    "longitude": -75.671088,
+    "imageUrl": "/pa/2945--10"
+  },
+  {
+    "name": "I-81 NB @ EXIT 219 (PA 848 GIBSON)",
+    "area": "pa",
+    "latitude": 41.82372,
+    "longitude": -75.67979,
+    "imageUrl": "/pa/3171--10"
+  },
+  {
+    "name": "I-81 S @ EXIT 223 (PA 492 NEW MILFORD/LAKESIDE)",
+    "area": "pa",
+    "latitude": 41.869161,
+    "longitude": -75.715932,
+    "imageUrl": "/pa/2758--10"
+  },
+  {
+    "name": "I-81 @ SOUTHBOUND WELCOME CENTER",
+    "area": "pa",
+    "latitude": 41.98418,
+    "longitude": -75.74763,
+    "imageUrl": "/pa/3356--10"
+  },
+  {
+    "name": "I-83 @ EXIT 4 (PA 851 SHREWSBURY)",
+    "area": "pa",
+    "latitude": 39.771527,
+    "longitude": -76.667512,
+    "imageUrl": "/pa/3898--10"
+  },
+  {
+    "name": "I-83 @ EXIT 8 (PA 216 GLEN ROCK)",
+    "area": "pa",
+    "latitude": 39.82696,
+    "longitude": -76.6847,
+    "imageUrl": "/pa/3899--10"
+  },
+  {
+    "name": "I-83 @ MM 10 (DUNKARD VALLEY RD)",
+    "area": "pa",
+    "latitude": 39.85909,
+    "longitude": -76.69183,
+    "imageUrl": "/pa/3833--10"
+  },
+  {
+    "name": "I-83 @ EXIT 14 (PA 182 LEADER HEIGHTS)",
+    "area": "pa",
+    "latitude": 39.91058,
+    "longitude": -76.70296,
+    "imageUrl": "/pa/2672--10"
+  },
+  {
+    "name": "I-83 @ EXIT 16 (PA 74 QUEEN ST)",
+    "area": "pa",
+    "latitude": 39.93247,
+    "longitude": -76.68981,
+    "imageUrl": "/pa/3710--10"
+  },
+  {
+    "name": "I-83 @ EXIT 18 (PA 124 MOUNT ROSE AVE)",
+    "area": "pa",
+    "latitude": 39.957981,
+    "longitude": -76.684332,
+    "imageUrl": "/pa/3245--10"
+  },
+  {
+    "name": "I-83 @PA 124 INTERCHANGE (Exit 18 Mount Rose Avenue)",
+    "area": "pa",
+    "latitude": 39.957914,
+    "longitude": -76.684527,
+    "imageUrl": "/pa/3772--10"
+  },
+  {
+    "name": "I-83 @ EXIT 19 (PA 462 MARKET ST)",
+    "area": "pa",
+    "latitude": 39.97283,
+    "longitude": -76.69383,
+    "imageUrl": "/pa/3580--10"
+  },
+  {
+    "name": "I-83 @ EXIT 21 (US 30 EAST ARSENAL RD)",
+    "area": "pa",
+    "latitude": 39.98377,
+    "longitude": -76.73029,
+    "imageUrl": "/pa/2494--10"
+  },
+  {
+    "name": "I-83 @ EXIT 22 (PA 181 NORTH GEORGE ST)",
+    "area": "pa",
+    "latitude": 39.99269,
+    "longitude": -76.73453,
+    "imageUrl": "/pa/3773--10"
+  },
+  {
+    "name": "I-83 @ MM 22.4",
+    "area": "pa",
+    "latitude": 40.000771,
+    "longitude": -76.736829,
+    "imageUrl": "/pa/3917--10"
+  },
+  {
+    "name": "I-83 @ EXIT 24 (PA 238 EMIGSVILLE)",
+    "area": "pa",
+    "latitude": 40.02045,
+    "longitude": -76.74243,
+    "imageUrl": "/pa/3244--10"
+  },
+  {
+    "name": "I-83 @ EXIT 28 (PA 297 ZIONS VIEW/STRINESTOWN)",
+    "area": "pa",
+    "latitude": 40.08208,
+    "longitude": -76.76557,
+    "imageUrl": "/pa/3581--10"
+  },
+  {
+    "name": "I-83 @ MM 30.5 (SHEEPBRIDGE RD)",
+    "area": "pa",
+    "latitude": 40.11153,
+    "longitude": -76.7846,
+    "imageUrl": "/pa/3711--10"
+  },
+  {
+    "name": "I-83 @ EXIT 32 (PA 382 NEWBERRYTOWN)",
+    "area": "pa",
+    "latitude": 40.12896,
+    "longitude": -76.79335,
+    "imageUrl": "/pa/3254--10"
+  },
+  {
+    "name": "I-83 @ EXIT 33 (PA 392 YOCUMTOWN)",
+    "area": "pa",
+    "latitude": 40.14585,
+    "longitude": -76.81544,
+    "imageUrl": "/pa/3068--10"
+  },
+  {
+    "name": "I-83 @ EXIT 35 (PA 177 LEWISBERRY)",
+    "area": "pa",
+    "latitude": 40.16462,
+    "longitude": -76.82813,
+    "imageUrl": "/pa/3255--10"
+  },
+  {
+    "name": "I-83 @ EXIT 36 (PA 262 FISHING CREEK)",
+    "area": "pa",
+    "latitude": 40.17901,
+    "longitude": -76.83742,
+    "imageUrl": "/pa/3256--10"
+  },
+  {
+    "name": "I-83 @ MM 37 (PARK RD)",
+    "area": "pa",
+    "latitude": 40.19168,
+    "longitude": -76.84967,
+    "imageUrl": "/pa/2492--10"
+  },
+  {
+    "name": "I-83 @ EXIT 38 (REESERS SUMMIT)",
+    "area": "pa",
+    "latitude": 40.198124,
+    "longitude": -76.863578,
+    "imageUrl": "/pa/2867--10"
+  },
+  {
+    "name": "I-83 EXIT 39A (PA 114 LEWISBERRY RD)",
+    "area": "pa",
+    "latitude": 40.20695,
+    "longitude": -76.87579,
+    "imageUrl": "/pa/2883--10"
+  },
+  {
+    "name": "I-83 @ EXIT 40A ( LIMEKILN RD)",
+    "area": "pa",
+    "latitude": 40.21319,
+    "longitude": -76.87972,
+    "imageUrl": "/pa/2876--10"
+  },
+  {
+    "name": "I-83 @ EXIT 40B (NEW CUMBERLAND)",
+    "area": "pa",
+    "latitude": 40.22709,
+    "longitude": -76.88847,
+    "imageUrl": "/pa/3243--10"
+  },
+  {
+    "name": "I-83 EXIT 41A (PA 581 WEST CAMP HILL)",
+    "area": "pa",
+    "latitude": 40.23926,
+    "longitude": -76.89544,
+    "imageUrl": "/pa/3056--10"
+  },
+  {
+    "name": "I-83 @ EXIT 41B (LEMOYNE)",
+    "area": "pa",
+    "latitude": 40.24488,
+    "longitude": -76.88337,
+    "imageUrl": "/pa/2884--10"
+  },
+  {
+    "name": "I-83 @ EXIT 44 (PA 230 13TH ST)",
+    "area": "pa",
+    "latitude": 40.25473,
+    "longitude": -76.86518,
+    "imageUrl": "/pa/3448--10"
+  },
+  {
+    "name": "I-83 @ EXIT 44B (19TH ST)",
+    "area": "pa",
+    "latitude": 40.25702,
+    "longitude": -76.85612,
+    "imageUrl": "/pa/3249--10"
+  },
+  {
+    "name": "I-83 @ EXIT 46A (I-283 SOUTH HARRISBURG INTERNATIONAL AIRPORT/LANCASTER)",
+    "area": "pa",
+    "latitude": 40.25369,
+    "longitude": -76.81456,
+    "imageUrl": "/pa/3707--10"
+  },
+  {
+    "name": "I-83 @ EXIT 47 (US 322 EAST HERSHEY/EISENHOWER BLVD)",
+    "area": "pa",
+    "latitude": 40.26149,
+    "longitude": -76.81461,
+    "imageUrl": "/pa/3059--10"
+  },
+  {
+    "name": "I-83 @ EXIT 48 (UNION DEPOSIT RD)",
+    "area": "pa",
+    "latitude": 40.27892,
+    "longitude": -76.81942,
+    "imageUrl": "/pa/2877--10"
+  },
+  {
+    "name": "I-83 @ EXIT 50 (US 22 JONESTOWN RD)",
+    "area": "pa",
+    "latitude": 40.295865,
+    "longitude": -76.8255,
+    "imageUrl": "/pa/3770--10"
+  },
+  {
+    "name": "I-84 W MM 2.8 TWIN BRIDGES",
+    "area": "pa",
+    "latitude": 41.38829,
+    "longitude": -75.58319,
+    "imageUrl": "/pa/3922--10"
+  },
+  {
+    "name": "I-84 @ EXIT 8 (PA 247 NORTH MOUNT COBB/HAMLIN",
+    "area": "pa",
+    "latitude": 41.40733,
+    "longitude": -75.50458,
+    "imageUrl": "/pa/3871--10"
+  },
+  {
+    "name": "I-84 @ MM 29.4 (Blooming Grove)",
+    "area": "pa",
+    "latitude": 41.366046,
+    "longitude": -75.148532,
+    "imageUrl": "/pa/3339--10"
+  },
+  {
+    "name": "I-84 @ EXIT 34 (PA 739 LORDS VALLEY/DINGMANS FERRY)",
+    "area": "pa",
+    "latitude": 41.35762,
+    "longitude": -75.05572,
+    "imageUrl": "/pa/3172--10"
+  },
+  {
+    "name": "I-84 E @ EXIT 46 (PA 6 MILFORD)",
+    "area": "pa",
+    "latitude": 41.338267,
+    "longitude": -74.837144,
+    "imageUrl": "/pa/2759--10"
+  },
+  {
+    "name": "I-84 @ EXIT 53 (US 6/US 209 MATAMORAS)",
+    "area": "pa",
+    "latitude": 41.35708,
+    "longitude": -74.7137,
+    "imageUrl": "/pa/3869--10"
+  },
+  {
+    "name": "I-90 @ EXIT 16 - SR 98",
+    "area": "pa",
+    "latitude": 42.00467,
+    "longitude": -80.239,
+    "imageUrl": "/pa/2750--10"
+  },
+  {
+    "name": "I-90 @ MM 1 (OHIO LINE)",
+    "area": "pa",
+    "latitude": 41.94312,
+    "longitude": -80.50145,
+    "imageUrl": "/pa/3161--10"
+  },
+  {
+    "name": "I-90 @ EXIT 27 (PA 97 WATERFORD/STATE ST)",
+    "area": "pa",
+    "latitude": 42.06994,
+    "longitude": -80.04003,
+    "imageUrl": "/pa/3733--10"
+  },
+  {
+    "name": "I-90 @ EXIT 32 (PA 430 WESLEYVILLE/BAYFRONT CONNECTOR)",
+    "area": "pa",
+    "latitude": 42.11916,
+    "longitude": -79.96365,
+    "imageUrl": "/pa/3514--10"
+  },
+  {
+    "name": "I-90 @ EXIT 37 (I-86E )",
+    "area": "pa",
+    "latitude": 42.153403,
+    "longitude": -79.892017,
+    "imageUrl": "/pa/2951--10"
+  },
+  {
+    "name": "I-90 @ MM 46 (NEW YORK LINE)",
+    "area": "pa",
+    "latitude": 42.250584,
+    "longitude": -79.764648,
+    "imageUrl": "/pa/3160--10"
+  },
+  {
+    "name": "I-95 @ MM 0.5 (DELAWARE STATE LINE)",
+    "area": "pa",
+    "latitude": 39.82199,
+    "longitude": -75.4455,
+    "imageUrl": "/pa/3208--10"
+  },
+  {
+    "name": "I-95 @ EXIT-2 (PA 452/MARKET ST)",
+    "area": "pa",
+    "latitude": 39.8338,
+    "longitude": -75.42444,
+    "imageUrl": "/pa/3209--10"
+  },
+  {
+    "name": "I-95 @ SB EXIT 3A (PA-322 WEST)",
+    "area": "pa",
+    "latitude": 39.84118,
+    "longitude": -75.406594,
+    "imageUrl": "/pa/2846--10"
+  },
+  {
+    "name": "I-95 @ EXIT 4 (COMMODORE BARRY BRIDGE/ US-322 E)",
+    "area": "pa",
+    "latitude": 39.84676,
+    "longitude": -75.3886,
+    "imageUrl": "/pa/2642--10"
+  },
+  {
+    "name": "I-95 @ MM 5.5 (NORTH OF KERLIN ST)",
+    "area": "pa",
+    "latitude": 39.85745,
+    "longitude": -75.3594,
+    "imageUrl": "/pa/2847--10"
+  },
+  {
+    "name": "I-95 @ EXIT 7 (I-476)",
+    "area": "pa",
+    "latitude": 39.867004,
+    "longitude": -75.34359,
+    "imageUrl": "/pa/2823--10"
+  },
+  {
+    "name": "I-295 @ EXIT 10  NEW HOPE (PA/NJ STATE LINE)",
+    "area": "pa",
+    "latitude": 40.254966,
+    "longitude": -74.8537,
+    "imageUrl": "/pa/3760--10"
+  },
+  {
+    "name": "I-95 @ MM11 (SOUTH OF PHL AIRPORT)",
+    "area": "pa",
+    "latitude": 39.87596,
+    "longitude": -75.26447,
+    "imageUrl": "/pa/3038--10"
+  },
+  {
+    "name": "I-95 @ GIRARD POINT BRIDGE",
+    "area": "pa",
+    "latitude": 39.894453,
+    "longitude": -75.195211,
+    "imageUrl": "/pa/3428--10"
+  },
+  {
+    "name": "I-95 @ MM 18.3 (WALT WHITMAN BRIDGE]",
+    "area": "pa",
+    "latitude": 39.90733,
+    "longitude": -75.14931,
+    "imageUrl": "/pa/3890--10"
+  },
+  {
+    "name": "I-95 @ SB Exit 19 (WALT WHITMAN BR/ FRONT ST)",
+    "area": "pa",
+    "latitude": 39.9102,
+    "longitude": -75.14936,
+    "imageUrl": "/pa/3686--10"
+  },
+  {
+    "name": "I-95 @ MM 19.6 (SOUTH OF COLUMBUS BLVD)",
+    "area": "pa",
+    "latitude": 39.92791,
+    "longitude": -75.14675,
+    "imageUrl": "/pa/3195--10"
+  },
+  {
+    "name": "I-95 @ MM 1.7 (OFF RAMP TO FRONT ST)",
+    "area": "pa",
+    "latitude": 39.9106,
+    "longitude": -75.1519,
+    "imageUrl": "/pa/3219--10"
+  },
+  {
+    "name": "I-95 @ Exit 20 (COLUMBUS BLVD)",
+    "area": "pa",
+    "latitude": 39.93836,
+    "longitude": -75.14375,
+    "imageUrl": "/pa/3196--10"
+  },
+  {
+    "name": "I-95 @ MM 21 (NB PENNS LANDING TUNNEL)",
+    "area": "pa",
+    "latitude": 39.94532,
+    "longitude": -75.14273,
+    "imageUrl": "/pa/2625--10"
+  },
+  {
+    "name": "I-95 @ NB EXIT 22 (I-676)",
+    "area": "pa",
+    "latitude": 39.95301,
+    "longitude": -75.14108,
+    "imageUrl": "/pa/3422--10"
+  },
+  {
+    "name": "I-95 @ MM 21.7 NB (RACE ST ON RAMP)",
+    "area": "pa",
+    "latitude": 39.9559,
+    "longitude": -75.14083,
+    "imageUrl": "/pa/2648--10"
+  },
+  {
+    "name": "I-95 NB @ GIRARD AVE",
+    "area": "pa",
+    "latitude": 39.968281,
+    "longitude": -75.128755,
+    "imageUrl": "/pa/3542--10"
+  },
+  {
+    "name": "I-95 NB @ NORTH OF CASTOR AVE",
+    "area": "pa",
+    "latitude": 39.98849,
+    "longitude": -75.088158,
+    "imageUrl": "/pa/2601--10"
+  },
+  {
+    "name": "I-95 SB SOUTH OF WAKELING ST.",
+    "area": "pa",
+    "latitude": 40.007613,
+    "longitude": -75.072662,
+    "imageUrl": "/pa/3376--10"
+  },
+  {
+    "name": "I-95 RECONSTRUCTION",
+    "area": "pa",
+    "latitude": 40.023128,
+    "longitude": -75.03184,
+    "imageUrl": "/pa/3158--10"
+  },
+  {
+    "name": "I-95 SB @ COTTMAN AVE I-95 RECONSTRUCTION",
+    "area": "pa",
+    "latitude": 40.02403,
+    "longitude": -75.03262,
+    "imageUrl": "/pa/3159--10"
+  },
+  {
+    "name": "I-95 @ EXIT 30/COTTMAN AVE",
+    "area": "pa",
+    "latitude": 40.024284,
+    "longitude": -75.030359,
+    "imageUrl": "/pa/3328--10"
+  },
+  {
+    "name": "I-95 @ MM 30.7 (ASHBURNER ST OVERPASS)",
+    "area": "pa",
+    "latitude": 40.03526,
+    "longitude": -75.01843,
+    "imageUrl": "/pa/3701--10"
+  },
+  {
+    "name": "I-95 @ Exit 32/ ACADEMY RD",
+    "area": "pa",
+    "latitude": 40.04823,
+    "longitude": -74.9998,
+    "imageUrl": "/pa/3533--10"
+  },
+  {
+    "name": "I-95 @ MM 32.5 (NORTH OF ACADEMY RD)",
+    "area": "pa",
+    "latitude": 40.05111,
+    "longitude": -74.98915,
+    "imageUrl": "/pa/3618--10"
+  },
+  {
+    "name": "I-95 @ MM 33.2 (GRANT AVE)",
+    "area": "pa",
+    "latitude": 40.05856,
+    "longitude": -74.98171,
+    "imageUrl": "/pa/3619--10"
+  },
+  {
+    "name": "I-95 @ MM 33.9 (SOUTH OF PA-63/WOODHAVEN RD)",
+    "area": "pa",
+    "latitude": 40.06365,
+    "longitude": -74.9707,
+    "imageUrl": "/pa/3812--10"
+  },
+  {
+    "name": "I-95 @ EXIT 37 (PA-132/STREET RD)",
+    "area": "pa",
+    "latitude": 40.08325,
+    "longitude": -74.93477,
+    "imageUrl": "/pa/3570--10"
+  },
+  {
+    "name": "I-95 @ MM 37.2 (NORTH OF PA-132/ STREET RD)",
+    "area": "pa",
+    "latitude": 40.09168,
+    "longitude": -74.92113,
+    "imageUrl": "/pa/3571--10"
+  },
+  {
+    "name": "I-95 @ MM 38 (NORTH OF US-13)",
+    "area": "pa",
+    "latitude": 40.10007,
+    "longitude": -74.91152,
+    "imageUrl": "/pa/3047--10"
+  },
+  {
+    "name": "I-95 @ EXIT 39 (PA-413/ BRISTOL)",
+    "area": "pa",
+    "latitude": 40.10957,
+    "longitude": -74.89137,
+    "imageUrl": "/pa/2855--10"
+  },
+  {
+    "name": "I-95 @ Exit 40 PA TURNPIKE",
+    "area": "pa",
+    "latitude": 40.12413,
+    "longitude": -74.88823,
+    "imageUrl": "/pa/3424--10"
+  },
+  {
+    "name": "PA TURNPIKE WB TO I-95 SB",
+    "area": "pa",
+    "latitude": 40.128562,
+    "longitude": -74.883236,
+    "imageUrl": "/pa/2745--10"
+  },
+  {
+    "name": "I-95 @ MM 21.4 (NORTH OF I-676)",
+    "area": "pa",
+    "latitude": 39.964268,
+    "longitude": -75.138833,
+    "imageUrl": "/pa/3225--10"
+  },
+  {
+    "name": "I-95 @ MM 5.8 (SOUTH OF I-476)",
+    "area": "pa",
+    "latitude": 39.86005,
+    "longitude": -75.35338,
+    "imageUrl": "/pa/3416--10"
+  },
+  {
+    "name": "I-95 @ Exit 35 (NB OFF RAMP TO PA-63/WOODHAVEN RD)",
+    "area": "pa",
+    "latitude": 40.068,
+    "longitude": -74.9612,
+    "imageUrl": "/pa/3377--10"
+  },
+  {
+    "name": "I-95 @ NB EXIT 19 (WALT WHITMAN BRIDGE)",
+    "area": "pa",
+    "latitude": 39.90279,
+    "longitude": -75.15052,
+    "imageUrl": "/pa/3695--10"
+  },
+  {
+    "name": "I-95@ MM 31.4 (SOUTH OF ACADEMY RD)",
+    "area": "pa",
+    "latitude": 40.04103,
+    "longitude": -75.00451,
+    "imageUrl": "/pa/3687--10"
+  },
+  {
+    "name": "I-95 @ MM 35.2 (SOUTH OF of PA-132/STREET RD)",
+    "area": "pa",
+    "latitude": 40.07406,
+    "longitude": -74.94883,
+    "imageUrl": "/pa/3682--10"
+  },
+  {
+    "name": "I-95 @ EXIT 35 (PA-63/WOODHAVEN RD)",
+    "area": "pa",
+    "latitude": 40.07061,
+    "longitude": -74.96108,
+    "imageUrl": "/pa/3813--10"
+  },
+  {
+    "name": "I-95 @ MM 17.4 (NORTH OF BROAD ST)",
+    "area": "pa",
+    "latitude": 39.90004,
+    "longitude": -75.1613,
+    "imageUrl": "/pa/3820--10"
+  },
+  {
+    "name": "I-95 @ MM 24.5 (SOUTH OF ALLEGHENY AVE)",
+    "area": "pa",
+    "latitude": 39.98013,
+    "longitude": -75.10526,
+    "imageUrl": "/pa/2793--10"
+  },
+  {
+    "name": "I-95 @ MM 29.2 (SOUTH OF COTTMAN AVE)",
+    "area": "pa",
+    "latitude": 40.02216,
+    "longitude": -75.03885,
+    "imageUrl": "/pa/2603--10"
+  },
+  {
+    "name": "I-95 @ MM 12.4 PHL AIRPORT",
+    "area": "pa",
+    "latitude": 39.88008,
+    "longitude": -75.24712,
+    "imageUrl": "/pa/2643--10"
+  },
+  {
+    "name": "I-95 @ MM 30.3 (NORTH OF COTTMAN AVE)",
+    "area": "pa",
+    "latitude": 40.02941,
+    "longitude": -75.02193,
+    "imageUrl": "/pa/2408--10"
+  },
+  {
+    "name": "I-99 @ EXIT 76 (SHILOH ROAD)",
+    "area": "pa",
+    "latitude": 40.846795,
+    "longitude": -77.81222,
+    "imageUrl": "/pa/3658--10"
+  },
+  {
+    "name": "I-99 @ MM 29.3",
+    "area": "pa",
+    "latitude": 40.456707,
+    "longitude": -78.42312,
+    "imageUrl": "/pa/3603--10"
+  },
+  {
+    "name": "I-99 @ EXIT 23 (PA36/PA 164 ROARING SPRING/PORTAGE/HOLIDAYSBURG)",
+    "area": "pa",
+    "latitude": 40.369,
+    "longitude": -78.4301,
+    "imageUrl": "/pa/2723--10"
+  },
+  {
+    "name": "I-99 @ EXIT 28 (US 22 EBENSBURG/HOLIDAYSBURG)",
+    "area": "pa",
+    "latitude": 40.44154,
+    "longitude": -78.42663,
+    "imageUrl": "/pa/2500--10"
+  },
+  {
+    "name": "I-99 @ EXIT 31 (US 220 BUSINESS PLANK RD)",
+    "area": "pa",
+    "latitude": 40.46566,
+    "longitude": -78.40815,
+    "imageUrl": "/pa/2675--10"
+  },
+  {
+    "name": "I-99 @ MM 31.2 (LOGAN BLVD)",
+    "area": "pa",
+    "latitude": 40.47093,
+    "longitude": -78.39911,
+    "imageUrl": "/pa/2499--10"
+  },
+  {
+    "name": "I-99 @ EXIT 32 (PA 36 FRANSTOWN RD)",
+    "area": "pa",
+    "latitude": 40.47948,
+    "longitude": -78.39478,
+    "imageUrl": "/pa/2498--10"
+  },
+  {
+    "name": "I-99 @ EXIT 33 (17TH ST)",
+    "area": "pa",
+    "latitude": 40.49386,
+    "longitude": -78.38357,
+    "imageUrl": "/pa/3714--10"
+  },
+  {
+    "name": "I-99 @ EXIT 48 (PA 453 TYRONE)",
+    "area": "pa",
+    "latitude": 40.6715,
+    "longitude": -78.2348,
+    "imageUrl": "/pa/3779--10"
+  },
+  {
+    "name": "US220/I-99 (Bald Eagle)",
+    "area": "pa",
+    "latitude": 40.7107,
+    "longitude": -78.18892,
+    "imageUrl": "/pa/2572--10"
+  },
+  {
+    "name": "I-99 @ MM 53",
+    "area": "pa",
+    "latitude": 40.717428,
+    "longitude": -78.16443,
+    "imageUrl": "/pa/3146--10"
+  },
+  {
+    "name": "I-99 @ EXIT 61 (PORT MATILDA)",
+    "area": "pa",
+    "latitude": 40.80393,
+    "longitude": -78.06375,
+    "imageUrl": "/pa/2955--10"
+  },
+  {
+    "name": "I-99 Crossover Skytop",
+    "area": "pa",
+    "latitude": 40.81578,
+    "longitude": -78.02536,
+    "imageUrl": "/pa/3731--10"
+  },
+  {
+    "name": "I-99 @ EXIT 71 (TOFTREES/WOODYCREST)",
+    "area": "pa",
+    "latitude": 40.8182,
+    "longitude": -77.9002,
+    "imageUrl": "/pa/2567--10"
+  },
+  {
+    "name": "I-99 @ US-322",
+    "area": "pa",
+    "latitude": 40.82867,
+    "longitude": -77.8403,
+    "imageUrl": "/pa/3734--10"
+  },
+  {
+    "name": "I-99 @ MM 82.3 (PA 550 BELLEFONTE/ZION)",
+    "area": "pa",
+    "latitude": 40.89655,
+    "longitude": -77.73637,
+    "imageUrl": "/pa/3735--10"
+  },
+  {
+    "name": "US-30 BUS.  (LINCOLN HWY) @ PA-82/ 1ST AVE",
+    "area": "pa",
+    "latitude": 39.983164,
+    "longitude": -75.823879,
+    "imageUrl": "/pa/2638--10"
+  },
+  {
+    "name": "LINCOLN HWY @ 7TH AVE",
+    "area": "pa",
+    "latitude": 39.985119,
+    "longitude": -75.810851,
+    "imageUrl": "/pa/2639--10"
+  },
+  {
+    "name": "LINCOLN HWY SOUTH OF WOODBOURNE RD",
+    "area": "pa",
+    "latitude": 40.174198,
+    "longitude": -74.88806,
+    "imageUrl": "/pa/3394--10"
+  },
+  {
+    "name": "VINE ST @ MM 0.3 (EAST OF 16TH ST)",
+    "area": "pa",
+    "latitude": 39.9586,
+    "longitude": -75.1648,
+    "imageUrl": "/pa/3685--10"
+  },
+  {
+    "name": "MAIN ST @ SECOND AVE",
+    "area": "pa",
+    "latitude": 40.185034,
+    "longitude": -75.450519,
+    "imageUrl": "/pa/3632--10"
+  },
+  {
+    "name": "MAIN ST @ ORCHARD LANE",
+    "area": "pa",
+    "latitude": 40.132482,
+    "longitude": -75.378344,
+    "imageUrl": "/pa/2644--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ NELSON RUN RD",
+    "area": "pa",
+    "latitude": 40.50525,
+    "longitude": -80.00894,
+    "imageUrl": "/pa/2710--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ PEEBLES RD",
+    "area": "pa",
+    "latitude": 40.55455,
+    "longitude": -80.02103,
+    "imageUrl": "/pa/3484--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ BABCOCK BLVD EXIT",
+    "area": "pa",
+    "latitude": 40.5152,
+    "longitude": -80.00448,
+    "imageUrl": "/pa/3485--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ INTOWN STS",
+    "area": "pa",
+    "latitude": 40.50103,
+    "longitude": -80.0119,
+    "imageUrl": "/pa/3476--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ PATRICK PLACE",
+    "area": "pa",
+    "latitude": 40.53767,
+    "longitude": -80.01116,
+    "imageUrl": "/pa/3302--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ ROSS PARK MALL DR",
+    "area": "pa",
+    "latitude": 40.54227,
+    "longitude": -80.01305,
+    "imageUrl": "/pa/3723--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ SIEBERT RD",
+    "area": "pa",
+    "latitude": 40.53074,
+    "longitude": -80.00971,
+    "imageUrl": "/pa/3792--10"
+  },
+  {
+    "name": "MCKNIGHT RD @ W VIEW AVE",
+    "area": "pa",
+    "latitude": 40.4983,
+    "longitude": -80.0131,
+    "imageUrl": "/pa/3912--10"
+  },
+  {
+    "name": "PA 181 at 83 North Ramp",
+    "area": "pa",
+    "latitude": 39.996692,
+    "longitude": -76.734626,
+    "imageUrl": "/pa/2944--10"
+  },
+  {
+    "name": "OLD 22 AT PA 737",
+    "area": "pa",
+    "latitude": 40.57896,
+    "longitude": -75.79748,
+    "imageUrl": "/pa/2546--10"
+  },
+  {
+    "name": "OLD 22 AT PA 863",
+    "area": "pa",
+    "latitude": 40.57828,
+    "longitude": -75.70789,
+    "imageUrl": "/pa/2547--10"
+  },
+  {
+    "name": "PA-10 @ 1ST AVE",
+    "area": "pa",
+    "latitude": 39.960174,
+    "longitude": -75.913295,
+    "imageUrl": "/pa/3801--10"
+  },
+  {
+    "name": "PA 100 SOUTH OF PHOENIXVILLE PIKE",
+    "area": "pa",
+    "latitude": 39.99608,
+    "longitude": -75.59391,
+    "imageUrl": "/pa/2985--10"
+  },
+  {
+    "name": "PA 100 SOUTH OF KIRKLAND AVE",
+    "area": "pa",
+    "latitude": 40.0029,
+    "longitude": -75.5995,
+    "imageUrl": "/pa/3405--10"
+  },
+  {
+    "name": "PA 100 SOUTH OF BOOT RD",
+    "area": "pa",
+    "latitude": 40.0077,
+    "longitude": -75.61283,
+    "imageUrl": "/pa/3693--10"
+  },
+  {
+    "name": "PA 100 @ POTTSTOWN PIKE EXIT",
+    "area": "pa",
+    "latitude": 40.01256,
+    "longitude": -75.61643,
+    "imageUrl": "/pa/3011--10"
+  },
+  {
+    "name": "PA 100 SOUTH OF N SHIP RD",
+    "area": "pa",
+    "latitude": 40.04651,
+    "longitude": -75.63346,
+    "imageUrl": "/pa/2817--10"
+  },
+  {
+    "name": "PA 100 @ W KING ST",
+    "area": "pa",
+    "latitude": 40.249121,
+    "longitude": -75.6611,
+    "imageUrl": "/pa/2813--10"
+  },
+  {
+    "name": "PA 100 @ WORTHINGTON RD",
+    "area": "pa",
+    "latitude": 40.05498,
+    "longitude": -75.64131,
+    "imageUrl": "/pa/2828--10"
+  },
+  {
+    "name": "PA 100 @ MOUNTAIN VIEW DR EXIT",
+    "area": "pa",
+    "latitude": 40.01718,
+    "longitude": -75.62133,
+    "imageUrl": "/pa/2435--10"
+  },
+  {
+    "name": "PA 100 @ E TOWNSHIP LINE RD",
+    "area": "pa",
+    "latitude": 40.07116,
+    "longitude": -75.68015,
+    "imageUrl": "/pa/2450--10"
+  },
+  {
+    "name": "PA 100 @ PA 113",
+    "area": "pa",
+    "latitude": 40.0565,
+    "longitude": -75.65695,
+    "imageUrl": "/pa/3625--10"
+  },
+  {
+    "name": "PA 100 @ PA 30 EXTON",
+    "area": "pa",
+    "latitude": 40.028,
+    "longitude": -75.62776,
+    "imageUrl": "/pa/3552--10"
+  },
+  {
+    "name": "PA 100 @ SUNRISE BLVD",
+    "area": "pa",
+    "latitude": 40.03851,
+    "longitude": -75.632,
+    "imageUrl": "/pa/3553--10"
+  },
+  {
+    "name": "SR 11 NB/ I-80 APPROACH (BLOOMSBURG)",
+    "area": "pa",
+    "latitude": 41.016252,
+    "longitude": -76.395732,
+    "imageUrl": "/pa/3800--10"
+  },
+  {
+    "name": "PA 113 @ PA 63 MAIN ST",
+    "area": "pa",
+    "latitude": 40.283,
+    "longitude": -75.392,
+    "imageUrl": "/pa/3620--10"
+  },
+  {
+    "name": "PA 12 WB AFTER ELIZABETH AVE",
+    "area": "pa",
+    "latitude": 40.384127,
+    "longitude": -75.893489,
+    "imageUrl": "/pa/2558--10"
+  },
+  {
+    "name": "PA 12 @ 5TH STREET HWY",
+    "area": "pa",
+    "latitude": 40.372,
+    "longitude": -75.9268,
+    "imageUrl": "/pa/2589--10"
+  },
+  {
+    "name": "STREET RD. WEST OF I-276/PA TNPK",
+    "area": "pa",
+    "latitude": 40.133953,
+    "longitude": -74.978713,
+    "imageUrl": "/pa/3137--10"
+  },
+  {
+    "name": "PA-132 WB EAST OF KINGSTON WAY",
+    "area": "pa",
+    "latitude": 40.123283,
+    "longitude": -74.962397,
+    "imageUrl": "/pa/3796--10"
+  },
+  {
+    "name": "PA 147 @ RIDGE ROAD",
+    "area": "pa",
+    "latitude": 40.915112,
+    "longitude": -76.834316,
+    "imageUrl": "/pa/3806--10"
+  },
+  {
+    "name": "PA 150 @ MILL HALL RD",
+    "area": "pa",
+    "latitude": 41.1141,
+    "longitude": -77.4813,
+    "imageUrl": "/pa/3675--10"
+  },
+  {
+    "name": "PA 150 @ PA 26",
+    "area": "pa",
+    "latitude": 40.8295,
+    "longitude": -77.8051,
+    "imageUrl": "/pa/3673--10"
+  },
+  {
+    "name": "PA 152 @ SUNSET AVE",
+    "area": "pa",
+    "latitude": 40.287966,
+    "longitude": -75.2096,
+    "imageUrl": "/pa/3669--10"
+  },
+  {
+    "name": "PA 160 @ GLENCOE RD",
+    "area": "pa",
+    "latitude": 39.762663,
+    "longitude": -78.867616,
+    "imageUrl": "/pa/2889--10"
+  },
+  {
+    "name": "PA 23 @ FAYETTE ST",
+    "area": "pa",
+    "latitude": 40.06895,
+    "longitude": -75.31126,
+    "imageUrl": "/pa/3702--10"
+  },
+  {
+    "name": "PA 26 @ PINE GROVE MOUNTAIN",
+    "area": "pa",
+    "latitude": 40.715488,
+    "longitude": -77.894737,
+    "imageUrl": "/pa/2942--10"
+  },
+  {
+    "name": "PA 28 @ NICHOLSON ROAD",
+    "area": "pa",
+    "latitude": 40.765226,
+    "longitude": -79.618533,
+    "imageUrl": "/pa/3919--10"
+  },
+  {
+    "name": "OHIO ST @ CHESTNUT ST",
+    "area": "pa",
+    "latitude": 40.45437,
+    "longitude": -79.99536,
+    "imageUrl": "/pa/3272--10"
+  },
+  {
+    "name": "PA 28 @ ST. NICHOLAS CHURCH",
+    "area": "pa",
+    "latitude": 40.45763,
+    "longitude": -79.98752,
+    "imageUrl": "/pa/3285--10"
+  },
+  {
+    "name": "PA 28 SOUTH OF 31 ST BRIDGE",
+    "area": "pa",
+    "latitude": 40.46037,
+    "longitude": -79.98354,
+    "imageUrl": "/pa/2913--10"
+  },
+  {
+    "name": "PA 28 @ 31ST ST BRIDGE",
+    "area": "pa",
+    "latitude": 40.46506,
+    "longitude": -79.97974,
+    "imageUrl": "/pa/3284--10"
+  },
+  {
+    "name": "PA 28 NORTH OF 31 ST BRIDGE",
+    "area": "pa",
+    "latitude": 40.47069,
+    "longitude": -79.97469,
+    "imageUrl": "/pa/2912--10"
+  },
+  {
+    "name": "PA 28 @ 40TH ST BRIDGE",
+    "area": "pa",
+    "latitude": 40.47429,
+    "longitude": -79.97143,
+    "imageUrl": "/pa/3845--10"
+  },
+  {
+    "name": "PA 28 @ MILLVALE EXIT 3B",
+    "area": "pa",
+    "latitude": 40.47846,
+    "longitude": -79.967754,
+    "imageUrl": "/pa/3844--10"
+  },
+  {
+    "name": "PA 28 @ PA 8 NORTH ETNA/BUTLER EXIT",
+    "area": "pa",
+    "latitude": 40.49469,
+    "longitude": -79.94153,
+    "imageUrl": "/pa/3281--10"
+  },
+  {
+    "name": "PA 28 @ HIGHLAND PARK BRIDGE EXIT 6",
+    "area": "pa",
+    "latitude": 40.49546,
+    "longitude": -79.91136,
+    "imageUrl": "/pa/2537--10"
+  },
+  {
+    "name": "PA 28 @ FOX CHAPEL RD EXIT 8",
+    "area": "pa",
+    "latitude": 40.49066,
+    "longitude": -79.88372,
+    "imageUrl": "/pa/3298--10"
+  },
+  {
+    "name": "PA 28 @ BLAWNOX EXIT 9",
+    "area": "pa",
+    "latitude": 40.49074,
+    "longitude": -79.87627,
+    "imageUrl": "/pa/3726--10"
+  },
+  {
+    "name": "PA 28 @ RIDC DR EXIT 10",
+    "area": "pa",
+    "latitude": 40.501,
+    "longitude": -79.8623,
+    "imageUrl": "/pa/3727--10"
+  },
+  {
+    "name": "PA 28 NORTH OF POWERS RUN RD",
+    "area": "pa",
+    "latitude": 40.51845,
+    "longitude": -79.85367,
+    "imageUrl": "/pa/3596--10"
+  },
+  {
+    "name": "PA 28 @ PA 910 HARMAR EXIT",
+    "area": "pa",
+    "latitude": 40.54392,
+    "longitude": -79.8373,
+    "imageUrl": "/pa/3299--10"
+  },
+  {
+    "name": "PA 28 @ RUSSELTON RD",
+    "area": "pa",
+    "latitude": 40.54953,
+    "longitude": -79.81956,
+    "imageUrl": "/pa/3850--10"
+  },
+  {
+    "name": "PA 28 @ EXIT 4 (ETNA)",
+    "area": "pa",
+    "latitude": 40.4902765,
+    "longitude": -79.9519862,
+    "imageUrl": "/pa/3795--10"
+  },
+  {
+    "name": "PA 28 @ NOBLE ST",
+    "area": "pa",
+    "latitude": 40.496999,
+    "longitude": -79.918499,
+    "imageUrl": "/pa/3728--10"
+  },
+  {
+    "name": "PA 283 @ PA 743 HERSHEY/ELIZABETHTOWN EXIT",
+    "area": "pa",
+    "latitude": 40.174449,
+    "longitude": -76.595715,
+    "imageUrl": "/pa/3638--10"
+  },
+  {
+    "name": "PA 283 @ CLOVERLEAF RD EXIT",
+    "area": "pa",
+    "latitude": 40.143348,
+    "longitude": -76.555949,
+    "imageUrl": "/pa/3834--10"
+  },
+  {
+    "name": "PA 283 @ LUMBER ST",
+    "area": "pa",
+    "latitude": 40.22377,
+    "longitude": -76.77758,
+    "imageUrl": "/pa/2661--10"
+  },
+  {
+    "name": "PA 283 @ PA 230 MOUNT JOY EXIT",
+    "area": "pa",
+    "latitude": 40.11247081,
+    "longitude": -76.44530253,
+    "imageUrl": "/pa/2668--10"
+  },
+  {
+    "name": "PA 283 @ PA 722 LANDISVILLE EXIT",
+    "area": "pa",
+    "latitude": 40.088909,
+    "longitude": -76.380245,
+    "imageUrl": "/pa/3441--10"
+  },
+  {
+    "name": "PA 283 @ PA 741 EAST PETERSBURG/MILLERSVILLE EXIT",
+    "area": "pa",
+    "latitude": 40.08209,
+    "longitude": -76.35612,
+    "imageUrl": "/pa/3449--10"
+  },
+  {
+    "name": "PA 283 @ PA 72 MANHEIM PIKE",
+    "area": "pa",
+    "latitude": 40.07611,
+    "longitude": -76.33783,
+    "imageUrl": "/pa/3830--10"
+  },
+  {
+    "name": "PA 283 @ PA 772 MANHEIM/MOUNT JOY EXIT",
+    "area": "pa",
+    "latitude": 40.12439,
+    "longitude": -76.4694,
+    "imageUrl": "/pa/3712--10"
+  },
+  {
+    "name": "PA 283 @ SPOOKY NOOK RD EXIT",
+    "area": "pa",
+    "latitude": 40.10591,
+    "longitude": -76.42901,
+    "imageUrl": "/pa/3774--10"
+  },
+  {
+    "name": "PA 291 @ PLATTS BRIDGE",
+    "area": "pa",
+    "latitude": 39.8978,
+    "longitude": -75.21165,
+    "imageUrl": "/pa/3388--10"
+  },
+  {
+    "name": "PA 309 @ TILGHMAN ST",
+    "area": "pa",
+    "latitude": 40.59,
+    "longitude": -75.5543,
+    "imageUrl": "/pa/3524--10"
+  },
+  {
+    "name": "PA-309 NORTH OF EASTON RD",
+    "area": "pa",
+    "latitude": 40.09355,
+    "longitude": -75.17076,
+    "imageUrl": "/pa/3679--10"
+  },
+  {
+    "name": "PA-309 SOUTH OF PAPER MILL RD",
+    "area": "pa",
+    "latitude": 40.10024,
+    "longitude": -75.18587,
+    "imageUrl": "/pa/3528--10"
+  },
+  {
+    "name": "PA-309 @ PAPER MILL RD",
+    "area": "pa",
+    "latitude": 40.102,
+    "longitude": -75.1944,
+    "imageUrl": "/pa/2981--10"
+  },
+  {
+    "name": "PA-309 @ PA-73/ CHURCH RD",
+    "area": "pa",
+    "latitude": 40.11324,
+    "longitude": -75.20134,
+    "imageUrl": "/pa/3816--10"
+  },
+  {
+    "name": "PA-309 SOUTH OF I-276/ PA TPK",
+    "area": "pa",
+    "latitude": 40.12352,
+    "longitude": -75.2058,
+    "imageUrl": "/pa/3881--10"
+  },
+  {
+    "name": "PA-309 @ I-276/ PA TURNPIKE",
+    "area": "pa",
+    "latitude": 40.1334,
+    "longitude": -75.20118,
+    "imageUrl": "/pa/3811--10"
+  },
+  {
+    "name": "PA-309 NORTH OF I-276/ PA TPK",
+    "area": "pa",
+    "latitude": 40.140088,
+    "longitude": -75.201573,
+    "imageUrl": "/pa/3392--10"
+  },
+  {
+    "name": "PA-309 @ HIGHLAND AVE",
+    "area": "pa",
+    "latitude": 40.146238,
+    "longitude": -75.204982,
+    "imageUrl": "/pa/2999--10"
+  },
+  {
+    "name": "PA-309 SOUTH OF SUSQUEHANNA AVE",
+    "area": "pa",
+    "latitude": 40.15565,
+    "longitude": -75.20112,
+    "imageUrl": "/pa/2615--10"
+  },
+  {
+    "name": "PA 309 NB NORTH OF SUSQUEHANNA RD.",
+    "area": "pa",
+    "latitude": 40.165211,
+    "longitude": -75.202755,
+    "imageUrl": "/pa/2788--10"
+  },
+  {
+    "name": "PA-309 @ NORRISTOWN RD",
+    "area": "pa",
+    "latitude": 40.17974,
+    "longitude": -75.21188,
+    "imageUrl": "/pa/3008--10"
+  },
+  {
+    "name": "PA-309 NORTH OF NORRISTOWN RD",
+    "area": "pa",
+    "latitude": 40.18495,
+    "longitude": -75.21044,
+    "imageUrl": "/pa/3009--10"
+  },
+  {
+    "name": "PA-309 @ BETHLEHEM PIKE OVERPASS",
+    "area": "pa",
+    "latitude": 40.1958,
+    "longitude": -75.22398,
+    "imageUrl": "/pa/3529--10"
+  },
+  {
+    "name": "PA 309 MEDIAN SOUTH OF NORTH WALES RD",
+    "area": "pa",
+    "latitude": 40.239694,
+    "longitude": -75.242612,
+    "imageUrl": "/pa/2620--10"
+  },
+  {
+    "name": "PA 309 @ CLEARVIEW RD",
+    "area": "pa",
+    "latitude": 40.31294,
+    "longitude": -75.300395,
+    "imageUrl": "/pa/2859--10"
+  },
+  {
+    "name": "PA 309 @ PA 113",
+    "area": "pa",
+    "latitude": 40.316954,
+    "longitude": -75.30862122,
+    "imageUrl": "/pa/3637--10"
+  },
+  {
+    "name": "PA 309 @ PA 152",
+    "area": "pa",
+    "latitude": 40.343044,
+    "longitude": -75.318104,
+    "imageUrl": "/pa/3435--10"
+  },
+  {
+    "name": "PA 309 @ AUGUSTINE RD",
+    "area": "pa",
+    "latitude": 40.355385,
+    "longitude": -75.330448,
+    "imageUrl": "/pa/3238--10"
+  },
+  {
+    "name": "PA 309 @ ALMONT RD",
+    "area": "pa",
+    "latitude": 40.364071,
+    "longitude": -75.332406,
+    "imageUrl": "/pa/3436--10"
+  },
+  {
+    "name": "PA 309 @ BERNADETTE WAY",
+    "area": "pa",
+    "latitude": 40.373246,
+    "longitude": -75.328514,
+    "imageUrl": "/pa/3574--10"
+  },
+  {
+    "name": "PA 309 @ FORREST RD",
+    "area": "pa",
+    "latitude": 40.38189,
+    "longitude": -75.336038,
+    "imageUrl": "/pa/2660--10"
+  },
+  {
+    "name": "PA 309 @ GREEN TOP RD",
+    "area": "pa",
+    "latitude": 40.396402,
+    "longitude": -75.338619,
+    "imageUrl": "/pa/3239--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) @ BROAD ST",
+    "area": "pa",
+    "latitude": 40.267,
+    "longitude": -75.254,
+    "imageUrl": "/pa/2795--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) @ HILLTOWN PIKE",
+    "area": "pa",
+    "latitude": 40.286,
+    "longitude": -75.263,
+    "imageUrl": "/pa/3692--10"
+  },
+  {
+    "name": "PA 309/BETHLEHEM PIKE MEDIAN NORTH OF UNIONVILLE RD",
+    "area": "pa",
+    "latitude": 40.301439,
+    "longitude": -75.289197,
+    "imageUrl": "/pa/3400--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) @ STUMP RD",
+    "area": "pa",
+    "latitude": 40.22571,
+    "longitude": -75.23414,
+    "imageUrl": "/pa/3691--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) NORTH HARTMAN RD",
+    "area": "pa",
+    "latitude": 40.21835,
+    "longitude": -75.22993,
+    "imageUrl": "/pa/3401--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) @ PA-463/ FIVE POINTS",
+    "area": "pa",
+    "latitude": 40.24767,
+    "longitude": -75.24383,
+    "imageUrl": "/pa/2822--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) NORTH OF PA63/ WELSH RD",
+    "area": "pa",
+    "latitude": 40.20894,
+    "longitude": -75.225,
+    "imageUrl": "/pa/2619--10"
+  },
+  {
+    "name": "PA-309 (BETHLEHEM PIKE) @ BUS. 202/ UPPER STATE RD",
+    "area": "pa",
+    "latitude": 40.23552,
+    "longitude": -75.24003,
+    "imageUrl": "/pa/3884--10"
+  },
+  {
+    "name": "I-81 @ EXIT 175A (STOCKPILE)",
+    "area": "pa",
+    "latitude": 41.31061,
+    "longitude": -75.75934,
+    "imageUrl": "/pa/3870--10"
+  },
+  {
+    "name": "PA 332 WB EAST OF I-295",
+    "area": "pa",
+    "latitude": 40.235276,
+    "longitude": -74.878249,
+    "imageUrl": "/pa/3002--10"
+  },
+  {
+    "name": "PA 332 EB EAST OF CAMPUS DR",
+    "area": "pa",
+    "latitude": 40.232257,
+    "longitude": -74.894477,
+    "imageUrl": "/pa/3688--10"
+  },
+  {
+    "name": "PA 332 @ I-295 SB",
+    "area": "pa",
+    "latitude": 40.234226,
+    "longitude": -74.882732,
+    "imageUrl": "/pa/3623--10"
+  },
+  {
+    "name": "PA 413 SOUTH OF I-295",
+    "area": "pa",
+    "latitude": 40.163514,
+    "longitude": -74.904726,
+    "imageUrl": "/pa/3751--10"
+  },
+  {
+    "name": "STUMP RD @ HORSHAM RD/PA-463",
+    "area": "pa",
+    "latitude": 40.23515,
+    "longitude": -75.22468,
+    "imageUrl": "/pa/3754--10"
+  },
+  {
+    "name": "PA 51 @ WOODRUFF ST",
+    "area": "pa",
+    "latitude": 40.42576,
+    "longitude": -80.0196,
+    "imageUrl": "/pa/3119--10"
+  },
+  {
+    "name": "US 19 @ SHALER ST",
+    "area": "pa",
+    "latitude": 40.4344,
+    "longitude": -80.03019,
+    "imageUrl": "/pa/3105--10"
+  },
+  {
+    "name": "SHORT ST @ S MAIN ST",
+    "area": "pa",
+    "latitude": 40.44353,
+    "longitude": -80.03055,
+    "imageUrl": "/pa/2908--10"
+  },
+  {
+    "name": "US 19 NORTH OF SHALER ST",
+    "area": "pa",
+    "latitude": 40.43904,
+    "longitude": -80.03298,
+    "imageUrl": "/pa/2909--10"
+  },
+  {
+    "name": "US 19 @ SOUTH MAIN ST EXIT",
+    "area": "pa",
+    "latitude": 40.44249,
+    "longitude": -80.03002,
+    "imageUrl": "/pa/3648--10"
+  },
+  {
+    "name": "US 19 @ I-376 EXIT",
+    "area": "pa",
+    "latitude": 40.43126,
+    "longitude": -80.02678,
+    "imageUrl": "/pa/3721--10"
+  },
+  {
+    "name": "PA 51 @ LIBERTY TUNNEL",
+    "area": "pa",
+    "latitude": 40.41418,
+    "longitude": -80.00933,
+    "imageUrl": "/pa/3719--10"
+  },
+  {
+    "name": "PA 51 @ CRANE AVE",
+    "area": "pa",
+    "latitude": 40.41622,
+    "longitude": -80.0144,
+    "imageUrl": "/pa/3842--10"
+  },
+  {
+    "name": "US 19 @ WEST END BRIDGE S",
+    "area": "pa",
+    "latitude": 40.44421,
+    "longitude": -80.02787,
+    "imageUrl": "/pa/3275--10"
+  },
+  {
+    "name": "PA 51 NORTH OF CRANE AVE",
+    "area": "pa",
+    "latitude": 40.42132,
+    "longitude": -80.01535,
+    "imageUrl": "/pa/3910--10"
+  },
+  {
+    "name": "US 19 @ WEST END BRIDGE N",
+    "area": "pa",
+    "latitude": 40.44911,
+    "longitude": -80.02531,
+    "imageUrl": "/pa/3907--10"
+  },
+  {
+    "name": "PA 581 @ EXIT 2 (CREEKVIEW RD)",
+    "area": "pa",
+    "latitude": 40.26419,
+    "longitude": -76.99817,
+    "imageUrl": "/pa/3768--10"
+  },
+  {
+    "name": "PA 581 @ EXIT 3 (US 11 SOUTH CARLISLE PIKE)",
+    "area": "pa",
+    "latitude": 40.24434,
+    "longitude": -76.9824,
+    "imageUrl": "/pa/2666--10"
+  },
+  {
+    "name": "PA 581 WEST OF EXIT 5",
+    "area": "pa",
+    "latitude": 40.23353,
+    "longitude": -76.9588,
+    "imageUrl": "/pa/3582--10"
+  },
+  {
+    "name": "PA 581 @ EXIT 5 (US 15 SOUTH GETTYSBURG)",
+    "area": "pa",
+    "latitude": 40.23207,
+    "longitude": -76.93208,
+    "imageUrl": "/pa/2487--10"
+  },
+  {
+    "name": "PA 581 EAST OF EXIT 5",
+    "area": "pa",
+    "latitude": 40.23491,
+    "longitude": -76.9138,
+    "imageUrl": "/pa/2486--10"
+  },
+  {
+    "name": "S BRD ST @ PATTISON AVE",
+    "area": "pa",
+    "latitude": 39.9053,
+    "longitude": -75.174,
+    "imageUrl": "/pa/2626--10"
+  },
+  {
+    "name": "BROAD ST @ PATTISON AVE (NE CORNER)",
+    "area": "pa",
+    "latitude": 39.9055,
+    "longitude": -75.1734,
+    "imageUrl": "/pa/3554--10"
+  },
+  {
+    "name": "PA 611 NB @ EASTON RD",
+    "area": "pa",
+    "latitude": 40.28611,
+    "longitude": -75.1264,
+    "imageUrl": "/pa/3207--10"
+  },
+  {
+    "name": "PA-63 (WOODHAVEN RD) @ KNIGHTS RD",
+    "area": "pa",
+    "latitude": 40.08754,
+    "longitude": -74.97153,
+    "imageUrl": "/pa/2456--10"
+  },
+  {
+    "name": "PA-63 (WOODHAVEN RD) @ US-1 (ROOSEVELT BLVD)",
+    "area": "pa",
+    "latitude": 40.10753,
+    "longitude": -74.99661,
+    "imageUrl": "/pa/2459--10"
+  },
+  {
+    "name": "PA-63 (WOODHAVEN RD) WEST OF I-95",
+    "area": "pa",
+    "latitude": 40.08091,
+    "longitude": -74.96566,
+    "imageUrl": "/pa/2402--10"
+  },
+  {
+    "name": "PA 65 @ ALLEGHENY AVE EXIT",
+    "area": "pa",
+    "latitude": 40.44893,
+    "longitude": -80.01699,
+    "imageUrl": "/pa/3849--10"
+  },
+  {
+    "name": "PA 65 @ N FRANKLIN ST",
+    "area": "pa",
+    "latitude": 40.45608,
+    "longitude": -80.02921,
+    "imageUrl": "/pa/2927--10"
+  },
+  {
+    "name": "PA 65 @ US 19",
+    "area": "pa",
+    "latitude": 40.46389,
+    "longitude": -80.03232,
+    "imageUrl": "/pa/2926--10"
+  },
+  {
+    "name": "PA 65 @ DICKSON ST",
+    "area": "pa",
+    "latitude": 40.46846,
+    "longitude": -80.03603,
+    "imageUrl": "/pa/2704--10"
+  },
+  {
+    "name": "PA 65 SOUTH OF MCKEES ROCK BRIDGE",
+    "area": "pa",
+    "latitude": 40.47521,
+    "longitude": -80.04036,
+    "imageUrl": "/pa/3724--10"
+  },
+  {
+    "name": "PA 65 @ MCKEES ROCK BRIDGE",
+    "area": "pa",
+    "latitude": 40.47843,
+    "longitude": -80.04287,
+    "imageUrl": "/pa/3479--10"
+  },
+  {
+    "name": "PA-82 (MANOR) RD @ PA-340/KINGS HWY",
+    "area": "pa",
+    "latitude": 40.004127,
+    "longitude": -75.821,
+    "imageUrl": "/pa/3152--10"
+  },
+  {
+    "name": "PA TURNPIKE 66 @ EXIT 0A (US 119 NORTH GREENSBURG)",
+    "area": "pa",
+    "latitude": 40.225397,
+    "longitude": -79.593485,
+    "imageUrl": "/pa/3794--10"
+  },
+  {
+    "name": "PA 124 @ GREENHILL RD",
+    "area": "pa",
+    "latitude": 39.95836,
+    "longitude": -76.6904,
+    "imageUrl": "/pa/2937--10"
+  },
+  {
+    "name": "PA 124 @ HAINES RD",
+    "area": "pa",
+    "latitude": 39.958375,
+    "longitude": -76.682198,
+    "imageUrl": "/pa/3495--10"
+  },
+  {
+    "name": "PA 283 @ NEWBERRY RD",
+    "area": "pa",
+    "latitude": 40.21384,
+    "longitude": -76.70836,
+    "imageUrl": "/pa/3497--10"
+  },
+  {
+    "name": "PA 283 @ Rheems",
+    "area": "pa",
+    "latitude": 40.158872,
+    "longitude": -76.576211,
+    "imageUrl": "/pa/3858--10"
+  },
+  {
+    "name": "PASSYUNK AVE @ 28TH ST",
+    "area": "pa",
+    "latitude": 39.921075,
+    "longitude": -75.193649,
+    "imageUrl": "/pa/3877--10"
+  },
+  {
+    "name": "PASSYUNK AVE BRIDGE",
+    "area": "pa",
+    "latitude": 39.920047,
+    "longitude": -75.210206,
+    "imageUrl": "/pa/3681--10"
+  },
+  {
+    "name": "REEDSDALE ST @ MAZEROSKI RD",
+    "area": "pa",
+    "latitude": 40.44812,
+    "longitude": -80.00761,
+    "imageUrl": "/pa/3106--10"
+  },
+  {
+    "name": "PA 309 @ EXIT 3 (WILKES-BARRE/PLAINS)",
+    "area": "pa",
+    "latitude": 41.26419,
+    "longitude": -75.85934,
+    "imageUrl": "/pa/2966--10"
+  },
+  {
+    "name": "N DELAWARE AVE @ FRANKFORD AVE",
+    "area": "pa",
+    "latitude": 39.96454,
+    "longitude": -75.1346,
+    "imageUrl": "/pa/2819--10"
+  },
+  {
+    "name": "SR 2012 UPPER STATE RD @ LIMEKILN PIKE",
+    "area": "pa",
+    "latitude": 40.27001,
+    "longitude": -75.20116,
+    "imageUrl": "/pa/2783--10"
+  },
+  {
+    "name": "SR 2012 UPPER STATE RD @ PA 463 HORSHAM RD",
+    "area": "pa",
+    "latitude": 40.24014,
+    "longitude": -75.23251,
+    "imageUrl": "/pa/2829--10"
+  },
+  {
+    "name": "SR 2012 UPPER STATE RD @ BISTOL RD",
+    "area": "pa",
+    "latitude": 40.28335,
+    "longitude": -75.18518,
+    "imageUrl": "/pa/3572--10"
+  },
+  {
+    "name": "UPPER STATE RD SR 2012 @ COUNTY LINE RD",
+    "area": "pa",
+    "latitude": 40.25749,
+    "longitude": -75.21387,
+    "imageUrl": "/pa/3233--10"
+  },
+  {
+    "name": "28N @ Hulton Bridge",
+    "area": "pa",
+    "latitude": 40.529293,
+    "longitude": -79.850519,
+    "imageUrl": "/pa/3153--10"
+  },
+  {
+    "name": "28S @ Cheswick",
+    "area": "pa",
+    "latitude": 40.555895,
+    "longitude": -79.812301,
+    "imageUrl": "/pa/3154--10"
+  },
+  {
+    "name": "28S @ Murray Hill Road",
+    "area": "pa",
+    "latitude": 40.579479,
+    "longitude": -79.784872,
+    "imageUrl": "/pa/3512--10"
+  },
+  {
+    "name": "28S @ Creighton",
+    "area": "pa",
+    "latitude": 40.587286,
+    "longitude": -79.777631,
+    "imageUrl": "/pa/3513--10"
+  },
+  {
+    "name": "28S @ Pittsburgh Mills Mall",
+    "area": "pa",
+    "latitude": 40.56907,
+    "longitude": -79.798007,
+    "imageUrl": "/pa/3802--10"
+  },
+  {
+    "name": "28N @ Butler Logan Road",
+    "area": "pa",
+    "latitude": 40.572937,
+    "longitude": -79.788115,
+    "imageUrl": "/pa/3803--10"
+  },
+  {
+    "name": "3091 @ EB TOLL 66",
+    "area": "pa",
+    "latitude": 40.225516,
+    "longitude": -79.593662,
+    "imageUrl": "/pa/3123--10"
+  },
+  {
+    "name": "PA 45/PA 144 INTERSECTION",
+    "area": "pa",
+    "latitude": 40.835046,
+    "longitude": -77.672478,
+    "imageUrl": "/pa/3338--10"
+  },
+  {
+    "name": "STUMP RD @ LIMEKILN PIKE",
+    "area": "pa",
+    "latitude": 40.26108,
+    "longitude": -75.19799,
+    "imageUrl": "/pa/2438--10"
+  },
+  {
+    "name": "STUMP RD @ COUNTY LINE RD",
+    "area": "pa",
+    "latitude": 40.25272,
+    "longitude": -75.20632,
+    "imageUrl": "/pa/2624--10"
+  },
+  {
+    "name": "SUMNEYTOWN PIKE @ KULP RD",
+    "area": "pa",
+    "latitude": 40.276,
+    "longitude": -75.382,
+    "imageUrl": "/pa/2600--10"
+  },
+  {
+    "name": "SUMNEYTOWN PIKE @ US 202",
+    "area": "pa",
+    "latitude": 40.202124,
+    "longitude": -75.255301,
+    "imageUrl": "/pa/3684--10"
+  },
+  {
+    "name": "SUMNEYTOWN PIKE @ RUTH RD",
+    "area": "pa",
+    "latitude": 40.262,
+    "longitude": -75.368,
+    "imageUrl": "/pa/3880--10"
+  },
+  {
+    "name": "SUMNEYTOWN PIKE @ WALNUT ST",
+    "area": "pa",
+    "latitude": 40.211,
+    "longitude": -75.278,
+    "imageUrl": "/pa/3818--10"
+  },
+  {
+    "name": "SUMNEYTOWN PIKE @ N BETHLEHEM PIKE",
+    "area": "pa",
+    "latitude": 40.186,
+    "longitude": -75.228,
+    "imageUrl": "/pa/3194--10"
+  },
+  {
+    "name": "STATE RD @ PRINCETON AVE",
+    "area": "pa",
+    "latitude": 40.02392,
+    "longitude": -75.03526,
+    "imageUrl": "/pa/2651--10"
+  },
+  {
+    "name": "STATE RD @ COTTMAN AVE",
+    "area": "pa",
+    "latitude": 40.02565,
+    "longitude": -75.03149,
+    "imageUrl": "/pa/3893--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ LEVICK ST",
+    "area": "pa",
+    "latitude": 40.02152,
+    "longitude": -75.05162,
+    "imageUrl": "/pa/2998--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ HARBISON AVE",
+    "area": "pa",
+    "latitude": 40.013383,
+    "longitude": -75.068462,
+    "imageUrl": "/pa/2810--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ COTTMAN AVE",
+    "area": "pa",
+    "latitude": 40.03011,
+    "longitude": -75.03499,
+    "imageUrl": "/pa/2812--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ ASHBURNER ST",
+    "area": "pa",
+    "latitude": 40.04031,
+    "longitude": -75.01526,
+    "imageUrl": "/pa/2423--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ ROBBINS ST",
+    "area": "pa",
+    "latitude": 40.0205,
+    "longitude": -75.05357,
+    "imageUrl": "/pa/3197--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ RHAWN ST",
+    "area": "pa",
+    "latitude": 40.03524,
+    "longitude": -75.02505,
+    "imageUrl": "/pa/3543--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ LINDEN AVE",
+    "area": "pa",
+    "latitude": 40.05037,
+    "longitude": -74.99971,
+    "imageUrl": "/pa/3544--10"
+  },
+  {
+    "name": "TORRESDALE AVE @ ADAMS AVE",
+    "area": "pa",
+    "latitude": 40.006796,
+    "longitude": -75.087799,
+    "imageUrl": "/pa/3630--10"
+  },
+  {
+    "name": "US-1 @ COMLY RD",
+    "area": "pa",
+    "latitude": 40.104161,
+    "longitude": -75.001869,
+    "imageUrl": "/pa/3045--10"
+  },
+  {
+    "name": "US-1 @ NB PA-63/WOODHAVEN RD",
+    "area": "pa",
+    "latitude": 40.108032,
+    "longitude": -74.996813,
+    "imageUrl": "/pa/3039--10"
+  },
+  {
+    "name": "US-1 @ SB PA-63/ WOODHAVEN RD",
+    "area": "pa",
+    "latitude": 40.108032,
+    "longitude": -74.996813,
+    "imageUrl": "/pa/3434--10"
+  },
+  {
+    "name": "US-1 @ I-276/ PA TURNPIKE",
+    "area": "pa",
+    "latitude": 40.1311,
+    "longitude": -74.96723,
+    "imageUrl": "/pa/2980--10"
+  },
+  {
+    "name": "US-1 @ BROAD ST EXIT",
+    "area": "pa",
+    "latitude": 40.02035,
+    "longitude": -75.15373,
+    "imageUrl": "/pa/2991--10"
+  },
+  {
+    "name": "US-1 SOUTH OF I-295",
+    "area": "pa",
+    "latitude": 40.19116,
+    "longitude": -74.88762,
+    "imageUrl": "/pa/3026--10"
+  },
+  {
+    "name": "US 1 BETWEEN SOUTHAMPTON AND HORNING RD",
+    "area": "pa",
+    "latitude": 40.113399,
+    "longitude": -74.98905,
+    "imageUrl": "/pa/3021--10"
+  },
+  {
+    "name": "US-1 @ US-13/BRISTOL/TULLYTOWN",
+    "area": "pa",
+    "latitude": 40.19706,
+    "longitude": -74.80171,
+    "imageUrl": "/pa/3028--10"
+  },
+  {
+    "name": "US-1 SOUTH OF PENNSYLVANIA AVE",
+    "area": "pa",
+    "latitude": 40.20216,
+    "longitude": -74.77956,
+    "imageUrl": "/pa/3029--10"
+  },
+  {
+    "name": "US-1 @ HULMVILLE RD",
+    "area": "pa",
+    "latitude": 40.16473,
+    "longitude": -74.92719,
+    "imageUrl": "/pa/2841--10"
+  },
+  {
+    "name": "US-1 @ PA-213/ MAPLE AVE",
+    "area": "pa",
+    "latitude": 40.1781,
+    "longitude": -74.90636,
+    "imageUrl": "/pa/2842--10"
+  },
+  {
+    "name": "US-1 @ BROAD ST UNDERPASS",
+    "area": "pa",
+    "latitude": 40.01979,
+    "longitude": -75.14889,
+    "imageUrl": "/pa/2853--10"
+  },
+  {
+    "name": "US-1 @ PA-413 (BELLEVUE AVE)",
+    "area": "pa",
+    "latitude": 40.17088,
+    "longitude": -74.91508,
+    "imageUrl": "/pa/2636--10"
+  },
+  {
+    "name": "US-1 SOUTH OF US-13",
+    "area": "pa",
+    "latitude": 40.19388,
+    "longitude": -74.82105,
+    "imageUrl": "/pa/2637--10"
+  },
+  {
+    "name": "US-1 NORTH OF PA-213/MAPLE AVE",
+    "area": "pa",
+    "latitude": 40.18693,
+    "longitude": -74.89731,
+    "imageUrl": "/pa/3413--10"
+  },
+  {
+    "name": "US-1 @ WISSAHICKON AVE SOUTH",
+    "area": "pa",
+    "latitude": 40.01391,
+    "longitude": -75.17936,
+    "imageUrl": "/pa/3538--10"
+  },
+  {
+    "name": "US-1 @ ROCKHILL DR/ NESHAMINY",
+    "area": "pa",
+    "latitude": 40.13888,
+    "longitude": -74.96038,
+    "imageUrl": "/pa/3628--10"
+  },
+  {
+    "name": "US 1 @ BUSINESS US-1/ PENNDEL",
+    "area": "pa",
+    "latitude": 40.14972,
+    "longitude": -74.94976,
+    "imageUrl": "/pa/3629--10"
+  },
+  {
+    "name": "US 1 NB SOUTH OF HENRY AVE",
+    "area": "pa",
+    "latitude": 40.010304,
+    "longitude": -75.18476,
+    "imageUrl": "/pa/3615--10"
+  },
+  {
+    "name": "US-1 @ PA-32/MORRISVILLE",
+    "area": "pa",
+    "latitude": 40.19805,
+    "longitude": -74.79102,
+    "imageUrl": "/pa/3564--10"
+  },
+  {
+    "name": "US-1 @ STONEY HILL RD/ TYBURN RD",
+    "area": "pa",
+    "latitude": 40.19563,
+    "longitude": -74.83158,
+    "imageUrl": "/pa/3566--10"
+  },
+  {
+    "name": "US-1 @ OXFORD VALLEY RD",
+    "area": "pa",
+    "latitude": 40.19355,
+    "longitude": -74.86461,
+    "imageUrl": "/pa/3698--10"
+  },
+  {
+    "name": "US-1 NORTH OF BUSINESS US-1",
+    "area": "pa",
+    "latitude": 40.16041,
+    "longitude": -74.93934,
+    "imageUrl": "/pa/3759--10"
+  },
+  {
+    "name": "US-1 NORTH OF OXFORD VALLEY RD",
+    "area": "pa",
+    "latitude": 40.19369,
+    "longitude": -74.84804,
+    "imageUrl": "/pa/3765--10"
+  },
+  {
+    "name": "US-1 @ OLD LINCOLN HWY",
+    "area": "pa",
+    "latitude": 40.121616,
+    "longitude": -74.977122,
+    "imageUrl": "/pa/3888--10"
+  },
+  {
+    "name": "US-1 NORTH OF FOX ST",
+    "area": "pa",
+    "latitude": 40.01761,
+    "longitude": -75.17235,
+    "imageUrl": "/pa/3878--10"
+  },
+  {
+    "name": "US-1 @ WISSAHICKON/ GERMANTOWN AVE",
+    "area": "pa",
+    "latitude": 40.01825,
+    "longitude": -75.16859,
+    "imageUrl": "/pa/3879--10"
+  },
+  {
+    "name": "US 15 BUSINESS @ BALTIMORE PIKE",
+    "area": "pa",
+    "latitude": 39.82428,
+    "longitude": -77.23097,
+    "imageUrl": "/pa/3579--10"
+  },
+  {
+    "name": "US 15 @ US 30 YORK ST EXIT",
+    "area": "pa",
+    "latitude": 39.84633,
+    "longitude": -77.19607,
+    "imageUrl": "/pa/3708--10"
+  },
+  {
+    "name": "US 15 @ I-180/US 220",
+    "area": "pa",
+    "latitude": 41.23905,
+    "longitude": -76.99975,
+    "imageUrl": "/pa/3167--10"
+  },
+  {
+    "name": "US 15 @ LOWER ALLEN DR EXIT",
+    "area": "pa",
+    "latitude": 40.22105,
+    "longitude": -76.93664,
+    "imageUrl": "/pa/3065--10"
+  },
+  {
+    "name": "US-19 @ INTERCHANGE RD",
+    "area": "pa",
+    "latitude": 42.06542,
+    "longitude": -80.09341,
+    "imageUrl": "/pa/3604--10"
+  },
+  {
+    "name": "US 202 @ DANNEHOWER BRIDGE",
+    "area": "pa",
+    "latitude": 40.11484,
+    "longitude": -75.34968,
+    "imageUrl": "/pa/3600--10"
+  },
+  {
+    "name": "US 202 SOUTH OF HANCOCK RD",
+    "area": "pa",
+    "latitude": 40.21033,
+    "longitude": -75.25411,
+    "imageUrl": "/pa/3371--10"
+  },
+  {
+    "name": "US 202 SB @ STATE ST",
+    "area": "pa",
+    "latitude": 40.312179,
+    "longitude": -75.10887,
+    "imageUrl": "/pa/3861--10"
+  },
+  {
+    "name": "US 202 SB AT US 1",
+    "area": "pa",
+    "latitude": 39.88117,
+    "longitude": -75.547146,
+    "imageUrl": "/pa/2837--10"
+  },
+  {
+    "name": "US 202 NB AT THE US 202 / PA 322 MERGE",
+    "area": "pa",
+    "latitude": 39.939983,
+    "longitude": -75.590911,
+    "imageUrl": "/pa/3558--10"
+  },
+  {
+    "name": "US-202 NORTH OF MATLACK ST",
+    "area": "pa",
+    "latitude": 39.95048,
+    "longitude": -75.58186,
+    "imageUrl": "/pa/3020--10"
+  },
+  {
+    "name": "US-202 @ WESTTOWN RD",
+    "area": "pa",
+    "latitude": 39.95948,
+    "longitude": -75.57971,
+    "imageUrl": "/pa/2630--10"
+  },
+  {
+    "name": "US-202 @ PA-3/ WEST CHESTER PIKE",
+    "area": "pa",
+    "latitude": 39.9672,
+    "longitude": -75.5815,
+    "imageUrl": "/pa/3757--10"
+  },
+  {
+    "name": "US-202 @ PAOLI PIKE",
+    "area": "pa",
+    "latitude": 39.97281,
+    "longitude": -75.5835,
+    "imageUrl": "/pa/2444--10"
+  },
+  {
+    "name": "US-202 @ US-322",
+    "area": "pa",
+    "latitude": 39.98113,
+    "longitude": -75.58886,
+    "imageUrl": "/pa/3022--10"
+  },
+  {
+    "name": "US 202 SB @ SR 100 SPUR",
+    "area": "pa",
+    "latitude": 39.99186,
+    "longitude": -75.58903,
+    "imageUrl": "/pa/2836--10"
+  },
+  {
+    "name": "US-202 @ BOOT RD",
+    "area": "pa",
+    "latitude": 40.005245,
+    "longitude": -75.582393,
+    "imageUrl": "/pa/2447--10"
+  },
+  {
+    "name": "US 202 NB @ MORSTEIN RD",
+    "area": "pa",
+    "latitude": 40.011334,
+    "longitude": -75.581075,
+    "imageUrl": "/pa/3559--10"
+  },
+  {
+    "name": "US-202 SOUTH OF US-30",
+    "area": "pa",
+    "latitude": 40.02181,
+    "longitude": -75.58765,
+    "imageUrl": "/pa/3213--10"
+  },
+  {
+    "name": "US-202 @ US-30",
+    "area": "pa",
+    "latitude": 40.02988,
+    "longitude": -75.58786,
+    "imageUrl": "/pa/2834--10"
+  },
+  {
+    "name": "US-202 SOUTH OF PA-401/ CONESTOGA RD",
+    "area": "pa",
+    "latitude": 40.0434,
+    "longitude": -75.57031,
+    "imageUrl": "/pa/3410--10"
+  },
+  {
+    "name": "US-202 @ PA-401/ CONESTOGA RD",
+    "area": "pa",
+    "latitude": 40.05178,
+    "longitude": -75.5616,
+    "imageUrl": "/pa/3756--10"
+  },
+  {
+    "name": "US-202 @ MILL LANE",
+    "area": "pa",
+    "latitude": 40.0508,
+    "longitude": -75.54668,
+    "imageUrl": "/pa/3627--10"
+  },
+  {
+    "name": "US-202 SOUTH OF PA-29",
+    "area": "pa",
+    "latitude": 40.05146,
+    "longitude": -75.53303,
+    "imageUrl": "/pa/3557--10"
+  },
+  {
+    "name": "US-202 @ PA-29/MALVERN/ GREAT VALLEY",
+    "area": "pa",
+    "latitude": 40.051229,
+    "longitude": -75.520239,
+    "imageUrl": "/pa/3624--10"
+  },
+  {
+    "name": "US-202 NORTH OF PA-29",
+    "area": "pa",
+    "latitude": 40.05613,
+    "longitude": -75.50038,
+    "imageUrl": "/pa/3626--10"
+  },
+  {
+    "name": "US-202 @ NORTH VALLEY DR",
+    "area": "pa",
+    "latitude": 40.0579,
+    "longitude": -75.48595,
+    "imageUrl": "/pa/3556--10"
+  },
+  {
+    "name": "US-202 NB EXIT TO PA-252/ PAOLI",
+    "area": "pa",
+    "latitude": 40.06428,
+    "longitude": -75.47261,
+    "imageUrl": "/pa/3017--10"
+  },
+  {
+    "name": "U2-202 @ CHESTERBROOK BLVD",
+    "area": "pa",
+    "latitude": 40.06553,
+    "longitude": -75.46016,
+    "imageUrl": "/pa/2627--10"
+  },
+  {
+    "name": "US-202 SB EXIT TO PA-252/PAOLI",
+    "area": "pa",
+    "latitude": 40.06778,
+    "longitude": -75.45196,
+    "imageUrl": "/pa/3212--10"
+  },
+  {
+    "name": "US-202 @ US-252",
+    "area": "pa",
+    "latitude": 40.0718,
+    "longitude": -75.44136,
+    "imageUrl": "/pa/2632--10"
+  },
+  {
+    "name": "US-202 SOUTH OF PA-422",
+    "area": "pa",
+    "latitude": 40.07325,
+    "longitude": -75.42741,
+    "imageUrl": "/pa/3697--10"
+  },
+  {
+    "name": "US 202 (DEKLAB PIKE) @ GERMANTOWN PIKE",
+    "area": "pa",
+    "latitude": 40.142289,
+    "longitude": -75.313,
+    "imageUrl": "/pa/3616--10"
+  },
+  {
+    "name": "US-202 PARKWAY @ PA-463/HORSHAM RD",
+    "area": "pa",
+    "latitude": 40.23861,
+    "longitude": -75.23019,
+    "imageUrl": "/pa/3562--10"
+  },
+  {
+    "name": "US-202 PARKWAY @ PA-611",
+    "area": "pa",
+    "latitude": 40.29322,
+    "longitude": -75.13826,
+    "imageUrl": "/pa/3699--10"
+  },
+  {
+    "name": "US-202 PARKWAY @ COUNTY LINE RD",
+    "area": "pa",
+    "latitude": 40.25428,
+    "longitude": -75.20841,
+    "imageUrl": "/pa/3761--10"
+  },
+  {
+    "name": "US-202 @ I-76",
+    "area": "pa",
+    "latitude": 40.08325,
+    "longitude": -75.39425,
+    "imageUrl": "/pa/3823--10"
+  },
+  {
+    "name": "US-202 PARKWAY @ PA-152/LIMEKLIN PK",
+    "area": "pa",
+    "latitude": 40.26696,
+    "longitude": -75.19938,
+    "imageUrl": "/pa/3224--10"
+  },
+  {
+    "name": "US-202 NB @ I-76",
+    "area": "pa",
+    "latitude": 40.0814166666667,
+    "longitude": -75.3914833333333,
+    "imageUrl": "/pa/3236--10"
+  },
+  {
+    "name": "US 202 SB @ EASTON RD",
+    "area": "pa",
+    "latitude": 40.29918,
+    "longitude": -75.12821,
+    "imageUrl": "/pa/3230--10"
+  },
+  {
+    "name": "US-202 @ ALLENDALE RD",
+    "area": "pa",
+    "latitude": 40.0877,
+    "longitude": -75.38345,
+    "imageUrl": "/pa/3411--10"
+  },
+  {
+    "name": "US-202 PARKWAY @ PA-309",
+    "area": "pa",
+    "latitude": 40.23219,
+    "longitude": -75.23803,
+    "imageUrl": "/pa/3412--10"
+  },
+  {
+    "name": "US-202 @ PA-926/STREET RD",
+    "area": "pa",
+    "latitude": 39.91955,
+    "longitude": -75.57695,
+    "imageUrl": "/pa/2656--10"
+  },
+  {
+    "name": "US-202/422 NB RAMP TO I-76",
+    "area": "pa",
+    "latitude": 40.0803,
+    "longitude": -75.3983166666667,
+    "imageUrl": "/pa/2471--10"
+  },
+  {
+    "name": "US-202 PARKWAY @ BRISTOL RD",
+    "area": "pa",
+    "latitude": 40.28065,
+    "longitude": -75.18101,
+    "imageUrl": "/pa/3032--10"
+  },
+  {
+    "name": "US-202 BUS. (BUTLER AVE) @ PA-611",
+    "area": "pa",
+    "latitude": 40.2908,
+    "longitude": -75.19837,
+    "imageUrl": "/pa/2992--10"
+  },
+  {
+    "name": "US-202 (SWEDE RD) @ JOHNSON HWY",
+    "area": "pa",
+    "latitude": 40.13439,
+    "longitude": -75.33279,
+    "imageUrl": "/pa/2987--10"
+  },
+  {
+    "name": "US 202 @ SWEDE RD",
+    "area": "pa",
+    "latitude": 40.152,
+    "longitude": -75.30535,
+    "imageUrl": "/pa/2990--10"
+  },
+  {
+    "name": "US-202 SOUTH OF HENDERSON RD",
+    "area": "pa",
+    "latitude": 40.09325,
+    "longitude": -75.36775,
+    "imageUrl": "/pa/2984--10"
+  },
+  {
+    "name": "US-202 @ DEKALB ST/ BRIDGEPORT",
+    "area": "pa",
+    "latitude": 40.09789,
+    "longitude": -75.35507,
+    "imageUrl": "/pa/3874--10"
+  },
+  {
+    "name": "US-202 RAMP TO I-76 EAST",
+    "area": "pa",
+    "latitude": 40.0785166666667,
+    "longitude": -75.4056333333333,
+    "imageUrl": "/pa/3895--10"
+  },
+  {
+    "name": "US-202 BUS. (DOYLESTOWN PK) @ COUNTY LINE RD",
+    "area": "pa",
+    "latitude": 40.21846,
+    "longitude": -75.24537,
+    "imageUrl": "/pa/3636--10"
+  },
+  {
+    "name": "US-202 BUS. (DEKALB PK) @ PA-63 (WELSH RD)",
+    "area": "pa",
+    "latitude": 40.22042,
+    "longitude": -75.24785,
+    "imageUrl": "/pa/3678--10"
+  },
+  {
+    "name": "US 202 BUSINESS @ PA 611",
+    "area": "pa",
+    "latitude": 40.30232,
+    "longitude": -75.14939,
+    "imageUrl": "/pa/2805--10"
+  },
+  {
+    "name": "US-202 BUS. (DEKALB PK) @ KNAPP RD",
+    "area": "pa",
+    "latitude": 40.22891,
+    "longitude": -75.24641,
+    "imageUrl": "/pa/3387--10"
+  },
+  {
+    "name": "US 219 @ DUBOIS STREET",
+    "area": "pa",
+    "latitude": 41.128962,
+    "longitude": -78.7625,
+    "imageUrl": "/pa/2722--10"
+  },
+  {
+    "name": "US 219 @ EAST PARK AVE",
+    "area": "pa",
+    "latitude": 41.11956,
+    "longitude": -78.759774,
+    "imageUrl": "/pa/2549--10"
+  },
+  {
+    "name": "US 219 @ GARRETT SHORTCUT RD",
+    "area": "pa",
+    "latitude": 39.898954,
+    "longitude": -79.04644,
+    "imageUrl": "/pa/2684--10"
+  },
+  {
+    "name": "US 219 @ E MUD PIKE EXIT",
+    "area": "pa",
+    "latitude": 39.935448,
+    "longitude": -79.051782,
+    "imageUrl": "/pa/3778--10"
+  },
+  {
+    "name": "US 219 @ US 30 JENNERSTOWN/STOYSTOWN EXIT",
+    "area": "pa",
+    "latitude": 40.13928,
+    "longitude": -79.013155,
+    "imageUrl": "/pa/3838--10"
+  },
+  {
+    "name": "US 219 @ PA 56 SCALP AVE",
+    "area": "pa",
+    "latitude": 40.27316,
+    "longitude": -78.85916,
+    "imageUrl": "/pa/3455--10"
+  },
+  {
+    "name": "US 219 @ PA 756 GEISTOWN/ELTON EXIT",
+    "area": "pa",
+    "latitude": 40.28028,
+    "longitude": -78.84774,
+    "imageUrl": "/pa/3644--10"
+  },
+  {
+    "name": "US 219 @ PA 56 JOHNSTOWN EXPRESSWAY EXIT",
+    "area": "pa",
+    "latitude": 40.29453,
+    "longitude": -78.84156,
+    "imageUrl": "/pa/3082--10"
+  },
+  {
+    "name": "US 219 @ GALLERIA DR EXIT",
+    "area": "pa",
+    "latitude": 40.30235,
+    "longitude": -78.83305,
+    "imageUrl": "/pa/2681--10"
+  },
+  {
+    "name": "US 219 @ TUNA CROSS RD (NEW YORK LINE)",
+    "area": "pa",
+    "latitude": 41.99627,
+    "longitude": -78.62043,
+    "imageUrl": "/pa/2566--10"
+  },
+  {
+    "name": "US 219 @ PA 46 SOUTH KENDALL AVE EXIT",
+    "area": "pa",
+    "latitude": 41.96843,
+    "longitude": -78.6297,
+    "imageUrl": "/pa/3165--10"
+  },
+  {
+    "name": "US 219 @ PA 255",
+    "area": "pa",
+    "latitude": 41.12688,
+    "longitude": -78.75511,
+    "imageUrl": "/pa/3166--10"
+  },
+  {
+    "name": "US 219 @ FORMAN ST/HILTON ST EXIT",
+    "area": "pa",
+    "latitude": 41.9583,
+    "longitude": -78.64243,
+    "imageUrl": "/pa/3864--10"
+  },
+  {
+    "name": "US 219 @ PA 346 FOSTER BROOK EXIT",
+    "area": "pa",
+    "latitude": 41.97802,
+    "longitude": -78.62585,
+    "imageUrl": "/pa/3865--10"
+  },
+  {
+    "name": "US 22/322 @ RED RABBIT",
+    "area": "pa",
+    "latitude": 40.412562,
+    "longitude": -77.011789,
+    "imageUrl": "/pa/3705--10"
+  },
+  {
+    "name": "US 22 @ PA 309",
+    "area": "pa",
+    "latitude": 40.5997,
+    "longitude": -75.5598,
+    "imageUrl": "/pa/3173--10"
+  },
+  {
+    "name": "US 22 @ CEDAR CREST BLVD EXIT",
+    "area": "pa",
+    "latitude": 40.6099,
+    "longitude": -75.5316,
+    "imageUrl": "/pa/3740--10"
+  },
+  {
+    "name": "US 22 @ 15TH ST",
+    "area": "pa",
+    "latitude": 40.6183,
+    "longitude": -75.5012,
+    "imageUrl": "/pa/3808--10"
+  },
+  {
+    "name": "US 22 @ PA 145 MACARTHUR RD/7TH ST EXIT",
+    "area": "pa",
+    "latitude": 40.6268,
+    "longitude": -75.4832,
+    "imageUrl": "/pa/2969--10"
+  },
+  {
+    "name": "US 22 @ FULLERTON AVE EXIT",
+    "area": "pa",
+    "latitude": 40.6306,
+    "longitude": -75.4699,
+    "imageUrl": "/pa/3610--10"
+  },
+  {
+    "name": "US 22 @ SCHOENERSVILLE RD EXIT",
+    "area": "pa",
+    "latitude": 40.6498,
+    "longitude": -75.4104,
+    "imageUrl": "/pa/3741--10"
+  },
+  {
+    "name": "US 22 @ PA 512 EXIT",
+    "area": "pa",
+    "latitude": 40.6629,
+    "longitude": -75.3842,
+    "imageUrl": "/pa/2978--10"
+  },
+  {
+    "name": "US 22 @ PA 191",
+    "area": "pa",
+    "latitude": 40.6787,
+    "longitude": -75.342,
+    "imageUrl": "/pa/3362--10"
+  },
+  {
+    "name": "US 22 @ PA 33",
+    "area": "pa",
+    "latitude": 40.6827,
+    "longitude": -75.2891,
+    "imageUrl": "/pa/2393--10"
+  },
+  {
+    "name": "US 22 @ 2ND ST (EASTON)",
+    "area": "pa",
+    "latitude": 40.6944,
+    "longitude": -75.2075,
+    "imageUrl": "/pa/3742--10"
+  },
+  {
+    "name": "US 22 @ CRESSON SUMMIT EXIT",
+    "area": "pa",
+    "latitude": 40.457,
+    "longitude": -78.56698,
+    "imageUrl": "/pa/3715--10"
+  },
+  {
+    "name": "US 22/322 @ PA 147",
+    "area": "pa",
+    "latitude": 40.39621,
+    "longitude": -77.0083,
+    "imageUrl": "/pa/3769--10"
+  },
+  {
+    "name": "US 22 @ MINI MALL RD",
+    "area": "pa",
+    "latitude": 40.46762,
+    "longitude": -78.75817,
+    "imageUrl": "/pa/3645--10"
+  },
+  {
+    "name": "US 22 @ US 219 EXIT",
+    "area": "pa",
+    "latitude": 40.46377,
+    "longitude": -78.76392,
+    "imageUrl": "/pa/3458--10"
+  },
+  {
+    "name": "US 22 @ PA 39 LINGLESTOWN RD EXIT",
+    "area": "pa",
+    "latitude": 40.32202,
+    "longitude": -76.88495,
+    "imageUrl": "/pa/3446--10"
+  },
+  {
+    "name": "US 22 @ MACLAY ST",
+    "area": "pa",
+    "latitude": 40.283138,
+    "longitude": -76.881071,
+    "imageUrl": "/pa/2474--10"
+  },
+  {
+    "name": "US 22 @ FARM SHOW",
+    "area": "pa",
+    "latitude": 40.294564,
+    "longitude": -76.881084,
+    "imageUrl": "/pa/2475--10"
+  },
+  {
+    "name": "US 22/322 @ PA 225 EXIT",
+    "area": "pa",
+    "latitude": 40.37093,
+    "longitude": -76.94736,
+    "imageUrl": "/pa/2476--10"
+  },
+  {
+    "name": "US 22 @ WILMORE RD",
+    "area": "pa",
+    "latitude": 40.47758,
+    "longitude": -78.72422,
+    "imageUrl": "/pa/2504--10"
+  },
+  {
+    "name": "US 22/322 @ NARROWS (EAST END)",
+    "area": "pa",
+    "latitude": 40.61156,
+    "longitude": -77.44722,
+    "imageUrl": "/pa/2565--10"
+  },
+  {
+    "name": "US 22 @ PLANK RD",
+    "area": "pa",
+    "latitude": 40.42823,
+    "longitude": -78.41769,
+    "imageUrl": "/pa/2679--10"
+  },
+  {
+    "name": "US 22 @ GALLITZIN EXIT",
+    "area": "pa",
+    "latitude": 40.46703,
+    "longitude": -78.5432,
+    "imageUrl": "/pa/3080--10"
+  },
+  {
+    "name": "US 22 @ DISHONG MOUNTAIN RD EXIT",
+    "area": "pa",
+    "latitude": 40.4347,
+    "longitude": -78.91185,
+    "imageUrl": "/pa/3081--10"
+  },
+  {
+    "name": "US 22 @ ELMERTON AVE",
+    "area": "pa",
+    "latitude": 40.290906,
+    "longitude": -76.8816,
+    "imageUrl": "/pa/2864--10"
+  },
+  {
+    "name": "US 22 @ PA 764 ALTOONA EXIT",
+    "area": "pa",
+    "latitude": 40.44118,
+    "longitude": -78.43496,
+    "imageUrl": "/pa/2888--10"
+  },
+  {
+    "name": "US 22 BUSINESS @ I-376 INTERCHANGE",
+    "area": "pa",
+    "latitude": 40.43846,
+    "longitude": -79.75746,
+    "imageUrl": "/pa/2522--10"
+  },
+  {
+    "name": "US 220 SB @ EXIT 111 (LOCK HAVEN)",
+    "area": "pa",
+    "latitude": 41.12833,
+    "longitude": -77.4363,
+    "imageUrl": "/pa/3147--10"
+  },
+  {
+    "name": "US 220 NB @ EXIT 111 (LOCK HAVEN)",
+    "area": "pa",
+    "latitude": 41.125607,
+    "longitude": -77.441634,
+    "imageUrl": "/pa/3148--10"
+  },
+  {
+    "name": "US 220 @ PA 477 SALONA EXIT",
+    "area": "pa",
+    "latitude": 41.0868,
+    "longitude": -77.47683,
+    "imageUrl": "/pa/2764--10"
+  },
+  {
+    "name": "US 222 @ PA 61",
+    "area": "pa",
+    "latitude": 40.412,
+    "longitude": -75.9382,
+    "imageUrl": "/pa/2973--10"
+  },
+  {
+    "name": "US 222 @ US 422 and PENN AVE WYOMISSING",
+    "area": "pa",
+    "latitude": 40.3293,
+    "longitude": -75.9781,
+    "imageUrl": "/pa/2583--10"
+  },
+  {
+    "name": "US 222 @ Farmersville Rd Overpass",
+    "area": "pa",
+    "latitude": 40.146567,
+    "longitude": -76.18564,
+    "imageUrl": "/pa/3326--10"
+  },
+  {
+    "name": "US 222 @ PA 724",
+    "area": "pa",
+    "latitude": 40.3143,
+    "longitude": -75.9973,
+    "imageUrl": "/pa/3364--10"
+  },
+  {
+    "name": "US 222 @ US 422 and PA 12",
+    "area": "pa",
+    "latitude": 40.3497,
+    "longitude": -75.9619,
+    "imageUrl": "/pa/3368--10"
+  },
+  {
+    "name": "US 222 @ PA 100 TREXLERTOWN",
+    "area": "pa",
+    "latitude": 40.5588,
+    "longitude": -75.6085,
+    "imageUrl": "/pa/3677--10"
+  },
+  {
+    "name": "US 222 @ PA 183",
+    "area": "pa",
+    "latitude": 40.3824,
+    "longitude": -75.9853,
+    "imageUrl": "/pa/3873--10"
+  },
+  {
+    "name": "US 222 @ US 322 EPHRATA EXIT",
+    "area": "pa",
+    "latitude": 40.163795,
+    "longitude": -76.151087,
+    "imageUrl": "/pa/3576--10"
+  },
+  {
+    "name": "US 222 @ PA 272 EXIT",
+    "area": "pa",
+    "latitude": 40.10387,
+    "longitude": -76.25489,
+    "imageUrl": "/pa/2662--10"
+  },
+  {
+    "name": "PA 255 @ SHAFFER RD",
+    "area": "pa",
+    "latitude": 41.12245,
+    "longitude": -78.72905,
+    "imageUrl": "/pa/2957--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ OLD WILMINGTON RD",
+    "area": "pa",
+    "latitude": 39.982008,
+    "longitude": -75.891308,
+    "imageUrl": "/pa/2741--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY ) @ AIRPORT RD",
+    "area": "pa",
+    "latitude": 39.983528,
+    "longitude": -75.867575,
+    "imageUrl": "/pa/2739--10"
+  },
+  {
+    "name": "US-30 BYPASS EAST OF AIRPORT RD",
+    "area": "pa",
+    "latitude": 39.993091,
+    "longitude": -75.856022,
+    "imageUrl": "/pa/2728--10"
+  },
+  {
+    "name": "US-30 BYPASS WEST OF AIRPORT RD",
+    "area": "pa",
+    "latitude": 39.985817,
+    "longitude": -75.892924,
+    "imageUrl": "/pa/2729--10"
+  },
+  {
+    "name": "US-30 BYPASS AT PA-82",
+    "area": "pa",
+    "latitude": 40.001152,
+    "longitude": -75.8214,
+    "imageUrl": "/pa/2559--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ STODE AVE",
+    "area": "pa",
+    "latitude": 39.9812,
+    "longitude": -75.831218,
+    "imageUrl": "/pa/3662--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY)  WEST OF PA-10",
+    "area": "pa",
+    "latitude": 39.984946,
+    "longitude": -75.947136,
+    "imageUrl": "/pa/3664--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ PA-10/ OCTORARA TRAIL",
+    "area": "pa",
+    "latitude": 39.984946,
+    "longitude": -75.947136,
+    "imageUrl": "/pa/3665--10"
+  },
+  {
+    "name": "US-30 BYPASS EAST OF BUSINESS 30 (LINCOLN HWY)",
+    "area": "pa",
+    "latitude": 39.984433,
+    "longitude": -75.910719,
+    "imageUrl": "/pa/3660--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ 11TH AVE",
+    "area": "pa",
+    "latitude": 39.986555,
+    "longitude": -75.80369,
+    "imageUrl": "/pa/3920--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ N CALN RD",
+    "area": "pa",
+    "latitude": 39.98904,
+    "longitude": -75.7872,
+    "imageUrl": "/pa/3767--10"
+  },
+  {
+    "name": "US 30 @ PROSPECT RD EXIT",
+    "area": "pa",
+    "latitude": 40.038672,
+    "longitude": -76.455421,
+    "imageUrl": "/pa/2477--10"
+  },
+  {
+    "name": "US 30 @ MOUNTVILLE EXIT",
+    "area": "pa",
+    "latitude": 40.045942,
+    "longitude": -76.42255,
+    "imageUrl": "/pa/3057--10"
+  },
+  {
+    "name": "US 30 @ PA 23 WALNUT ST EXIT",
+    "area": "pa",
+    "latitude": 40.05437,
+    "longitude": -76.265719,
+    "imageUrl": "/pa/3897--10"
+  },
+  {
+    "name": "US 30 @ GREENFIELD RD EXIT",
+    "area": "pa",
+    "latitude": 40.050436,
+    "longitude": -76.255723,
+    "imageUrl": "/pa/3896--10"
+  },
+  {
+    "name": "US 30 @ HEMPSTEAD RD",
+    "area": "pa",
+    "latitude": 40.045401,
+    "longitude": -76.248234,
+    "imageUrl": "/pa/3070--10"
+  },
+  {
+    "name": "US 30 @ PA 340 OLD PHILADELPHIA PIKE EXIT",
+    "area": "pa",
+    "latitude": 40.040486,
+    "longitude": -76.245519,
+    "imageUrl": "/pa/3069--10"
+  },
+  {
+    "name": "US 30 @ PA 462 LINCOLN HIGHWAY",
+    "area": "pa",
+    "latitude": 40.032136,
+    "longitude": -76.241317,
+    "imageUrl": "/pa/3437--10"
+  },
+  {
+    "name": "US-30 BYPASS EAST OF PA-340 (THORNDALE)",
+    "area": "pa",
+    "latitude": 40.00983,
+    "longitude": -75.73566,
+    "imageUrl": "/pa/3822--10"
+  },
+  {
+    "name": "US-30 BYPASS AT PA-322/MANOR RD)",
+    "area": "pa",
+    "latitude": 40.01346,
+    "longitude": -75.72438,
+    "imageUrl": "/pa/2470--10"
+  },
+  {
+    "name": "US-30 BYPASS WEST OF PA-113 (DOWNINGTOWN)",
+    "area": "pa",
+    "latitude": 40.01926,
+    "longitude": -75.69978,
+    "imageUrl": "/pa/2654--10"
+  },
+  {
+    "name": "US-30 BYPASS AT US-30 BUSINESS (LANCASTER AVE)",
+    "area": "pa",
+    "latitude": 40.01818,
+    "longitude": -75.66953,
+    "imageUrl": "/pa/2469--10"
+  },
+  {
+    "name": "US-30 BYPASS WEST OF RT-100",
+    "area": "pa",
+    "latitude": 40.01298,
+    "longitude": -75.64793,
+    "imageUrl": "/pa/3051--10"
+  },
+  {
+    "name": "US-30 BYPASS AT PA-100 (EXTON)",
+    "area": "pa",
+    "latitude": 40.02051,
+    "longitude": -75.62431,
+    "imageUrl": "/pa/3050--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ N BAILEY RD",
+    "area": "pa",
+    "latitude": 39.993508,
+    "longitude": -75.761072,
+    "imageUrl": "/pa/3010--10"
+  },
+  {
+    "name": "US 30 BUSINESS @ BONDSVILLE RD",
+    "area": "pa",
+    "latitude": 39.9959,
+    "longitude": -75.7459,
+    "imageUrl": "/pa/3549--10"
+  },
+  {
+    "name": "US 30 @ N SHERMAN ST",
+    "area": "pa",
+    "latitude": 39.98227,
+    "longitude": -76.70294,
+    "imageUrl": "/pa/3442--10"
+  },
+  {
+    "name": "US 30 @ WEST ST",
+    "area": "pa",
+    "latitude": 39.83081,
+    "longitude": -77.23654,
+    "imageUrl": "/pa/3443--10"
+  },
+  {
+    "name": "US 30 @ WRIGHTSVILLE EXIT",
+    "area": "pa",
+    "latitude": 40.02856,
+    "longitude": -76.55357,
+    "imageUrl": "/pa/3257--10"
+  },
+  {
+    "name": "US 30 @ BREEZEWOOD RD",
+    "area": "pa",
+    "latitude": 39.99916,
+    "longitude": -78.24069,
+    "imageUrl": "/pa/3263--10"
+  },
+  {
+    "name": "US 30 @ PA 24 MOUNT ZION RD EXIT",
+    "area": "pa",
+    "latitude": 39.98652,
+    "longitude": -76.66626,
+    "imageUrl": "/pa/3836--10"
+  },
+  {
+    "name": "US 30 @ EAST YORK/MEMORY LANE EXIT",
+    "area": "pa",
+    "latitude": 39.98401,
+    "longitude": -76.68371,
+    "imageUrl": "/pa/3832--10"
+  },
+  {
+    "name": "US 30 @ HALLAM EXIT",
+    "area": "pa",
+    "latitude": 40.0062,
+    "longitude": -76.61645,
+    "imageUrl": "/pa/3775--10"
+  },
+  {
+    "name": "US 30 @ NATURAL SPRINGS RD",
+    "area": "pa",
+    "latitude": 39.84012,
+    "longitude": -77.20866,
+    "imageUrl": "/pa/3709--10"
+  },
+  {
+    "name": "US 30 @ PA 616",
+    "area": "pa",
+    "latitude": 39.93238,
+    "longitude": -76.80492,
+    "imageUrl": "/pa/3074--10"
+  },
+  {
+    "name": "US 30 @ SOMERSET COUNTY LINE",
+    "area": "pa",
+    "latitude": 40.179526,
+    "longitude": -79.131323,
+    "imageUrl": "/pa/2890--10"
+  },
+  {
+    "name": "US 30 @ ROOSEVELT AVE",
+    "area": "pa",
+    "latitude": 39.97802,
+    "longitude": -76.76066,
+    "imageUrl": "/pa/2885--10"
+  },
+  {
+    "name": "US 30 @ PA 74 CARSLIE AVE EXIT",
+    "area": "pa",
+    "latitude": 39.96428,
+    "longitude": -76.77214,
+    "imageUrl": "/pa/2882--10"
+  },
+  {
+    "name": "US 30 @ PA 501 LITITZ PIKE/OREGON PIKE",
+    "area": "pa",
+    "latitude": 40.06848,
+    "longitude": -76.30528,
+    "imageUrl": "/pa/2865--10"
+  },
+  {
+    "name": "US 30 @ PA 441 COLUMBIA/MARIETTA EXIT",
+    "area": "pa",
+    "latitude": 40.03799,
+    "longitude": -76.50977,
+    "imageUrl": "/pa/2861--10"
+  },
+  {
+    "name": "US 30 @ HARRISBURG PIKE EXIT",
+    "area": "pa",
+    "latitude": 40.06323,
+    "longitude": -76.33968,
+    "imageUrl": "/pa/2482--10"
+  },
+  {
+    "name": "US 30 @ SIDLING HILL",
+    "area": "pa",
+    "latitude": 40.01616,
+    "longitude": -78.13425,
+    "imageUrl": "/pa/2507--10"
+  },
+  {
+    "name": "US 30 @ PA 283 HARRISBURG/LANCASTER EXIT",
+    "area": "pa",
+    "latitude": 40.07095,
+    "longitude": -76.32724,
+    "imageUrl": "/pa/2489--10"
+  },
+  {
+    "name": "US 30 @ PA 462 LINCOLN HIGHWAY",
+    "area": "pa",
+    "latitude": 39.93655,
+    "longitude": -76.79904,
+    "imageUrl": "/pa/2495--10"
+  },
+  {
+    "name": "US 30 @ CENTERVILLE RD EXIT",
+    "area": "pa",
+    "latitude": 40.05218,
+    "longitude": -76.39639,
+    "imageUrl": "/pa/2663--10"
+  },
+  {
+    "name": "US 30 @ PA 741 MILLERSVILLE/ROHRERSTOWN EXIT",
+    "area": "pa",
+    "latitude": 40.06115,
+    "longitude": -76.35992,
+    "imageUrl": "/pa/2673--10"
+  },
+  {
+    "name": "US 30 @ PA 23 NEW HOLLAND PIKE",
+    "area": "pa",
+    "latitude": 40.06039,
+    "longitude": -76.27693,
+    "imageUrl": "/pa/2674--10"
+  },
+  {
+    "name": "US 30 @ I-70",
+    "area": "pa",
+    "latitude": 39.99922,
+    "longitude": -78.23844,
+    "imageUrl": "/pa/3902--10"
+  },
+  {
+    "name": "US 30 @ I-76 (BREEZEWOOD EXIT)",
+    "area": "pa",
+    "latitude": 39.99905,
+    "longitude": -78.23333,
+    "imageUrl": "/pa/3903--10"
+  },
+  {
+    "name": "US 322 @ PA 53 (Philipsburg)",
+    "area": "pa",
+    "latitude": 40.902702,
+    "longitude": -78.229598,
+    "imageUrl": "/pa/2726--10"
+  },
+  {
+    "name": "322 TOP PORT MTN",
+    "area": "pa",
+    "latitude": 40.841945,
+    "longitude": -78.132366,
+    "imageUrl": "/pa/3602--10"
+  },
+  {
+    "name": "US-322 @ BOALSBURG",
+    "area": "pa",
+    "latitude": 40.778963,
+    "longitude": -77.771515,
+    "imageUrl": "/pa/3142--10"
+  },
+  {
+    "name": "US 322 @ GRAYS WOODS BLVD",
+    "area": "pa",
+    "latitude": 40.81767,
+    "longitude": -77.93973,
+    "imageUrl": "/pa/2564--10"
+  },
+  {
+    "name": "US 322 PENHAR DR EXIT",
+    "area": "pa",
+    "latitude": 40.25307,
+    "longitude": -76.80236,
+    "imageUrl": "/pa/3575--10"
+  },
+  {
+    "name": "US 322 @ US 422/PA 39 HERSHEYPARK DR",
+    "area": "pa",
+    "latitude": 40.265087,
+    "longitude": -76.687993,
+    "imageUrl": "/pa/2488--10"
+  },
+  {
+    "name": "US 322 @ BOTTOM OF SEVEN MOUNTAINS",
+    "area": "pa",
+    "latitude": 40.7344,
+    "longitude": -77.6356,
+    "imageUrl": "/pa/3519--10"
+  },
+  {
+    "name": "US 322/22 @ US 522",
+    "area": "pa",
+    "latitude": 40.6156,
+    "longitude": -77.5762,
+    "imageUrl": "/pa/3164--10"
+  },
+  {
+    "name": "US 322 WEST OF I-99",
+    "area": "pa",
+    "latitude": 40.81152,
+    "longitude": -78.07475,
+    "imageUrl": "/pa/3805--10"
+  },
+  {
+    "name": "US 322 @ FILTER PLANT RD",
+    "area": "pa",
+    "latitude": 40.7314,
+    "longitude": -77.6162,
+    "imageUrl": "/pa/3672--10"
+  },
+  {
+    "name": "US 322 @ PA 970",
+    "area": "pa",
+    "latitude": 41.0001,
+    "longitude": -78.34763,
+    "imageUrl": "/pa/2384--10"
+  },
+  {
+    "name": "US 322 @ MIDDLE OF SEVEN MOUNTAINS",
+    "area": "pa",
+    "latitude": 40.7424,
+    "longitude": -77.6257,
+    "imageUrl": "/pa/2573--10"
+  },
+  {
+    "name": "US 322 EAST OF PA 26 (E COLLEGE AVE)",
+    "area": "pa",
+    "latitude": 40.7962,
+    "longitude": -77.82116,
+    "imageUrl": "/pa/2762--10"
+  },
+  {
+    "name": "US 322/22 @ US 22 BUSINESS/LEWISTOWN EXIT",
+    "area": "pa",
+    "latitude": 40.58018,
+    "longitude": -77.53855,
+    "imageUrl": "/pa/2956--10"
+  },
+  {
+    "name": "US 422 @ PENN AVE WEST READING",
+    "area": "pa",
+    "latitude": 40.3355,
+    "longitude": -75.9392,
+    "imageUrl": "/pa/2582--10"
+  },
+  {
+    "name": "US 422 @ LANCASTER AVE",
+    "area": "pa",
+    "latitude": 40.3243,
+    "longitude": -75.9339,
+    "imageUrl": "/pa/3676--10"
+  },
+  {
+    "name": "US 202 @ US 422",
+    "area": "pa",
+    "latitude": 40.08015,
+    "longitude": -75.40701,
+    "imageUrl": "/pa/3218--10"
+  },
+  {
+    "name": "US 422 @ OLD PHILADELPHIA PIKE",
+    "area": "pa",
+    "latitude": 40.249731,
+    "longitude": -75.716642,
+    "imageUrl": "/pa/3817--10"
+  },
+  {
+    "name": "PA 422 WEST OF GROSSTOWN RD",
+    "area": "pa",
+    "latitude": 40.243252,
+    "longitude": -75.697252,
+    "imageUrl": "/pa/3395--10"
+  },
+  {
+    "name": "US 422 @ GROSSTOWN RD (STOWE)",
+    "area": "pa",
+    "latitude": 40.239175,
+    "longitude": -75.690818,
+    "imageUrl": "/pa/3546--10"
+  },
+  {
+    "name": "US 422 EAST OF GROSSTOWN RD (STOWE)",
+    "area": "pa",
+    "latitude": 40.243366,
+    "longitude": -75.678387,
+    "imageUrl": "/pa/3393--10"
+  },
+  {
+    "name": "US 422 @ PA 100 EXIT (POTTSTOWN)",
+    "area": "pa",
+    "latitude": 40.239563,
+    "longitude": -75.658464,
+    "imageUrl": "/pa/3750--10"
+  },
+  {
+    "name": "US 422 @ HANOVER ST",
+    "area": "pa",
+    "latitude": 40.237668,
+    "longitude": -75.652098,
+    "imageUrl": "/pa/3622--10"
+  },
+  {
+    "name": "US 422 EAST OF PA 29 S COLLEGEVILLE RD",
+    "area": "pa",
+    "latitude": 40.1568,
+    "longitude": -75.47,
+    "imageUrl": "/pa/2781--10"
+  },
+  {
+    "name": "US 422 @ CEDAR MILL RD",
+    "area": "pa",
+    "latitude": 40.15048,
+    "longitude": -75.4599,
+    "imageUrl": "/pa/3369--10"
+  },
+  {
+    "name": "US 422 WEST OF UPPER INDIAN HEAD RD",
+    "area": "pa",
+    "latitude": 40.14778,
+    "longitude": -75.46035,
+    "imageUrl": "/pa/3824--10"
+  },
+  {
+    "name": "US 422 @ EGYPT RD EXIT",
+    "area": "pa",
+    "latitude": 40.13475,
+    "longitude": -75.44676,
+    "imageUrl": "/pa/3563--10"
+  },
+  {
+    "name": "US 422 SOUTH OF EGYPT RD",
+    "area": "pa",
+    "latitude": 40.1243,
+    "longitude": -75.45108,
+    "imageUrl": "/pa/2840--10"
+  },
+  {
+    "name": "US 422 EAST OF PAWLINGS RD",
+    "area": "pa",
+    "latitude": 40.11416,
+    "longitude": -75.45488,
+    "imageUrl": "/pa/2633--10"
+  },
+  {
+    "name": "US 422 WEST OF PA 363",
+    "area": "pa",
+    "latitude": 40.11593,
+    "longitude": -75.4311,
+    "imageUrl": "/pa/3561--10"
+  },
+  {
+    "name": "US 422 @ PA 363 S TROOPER RD EXIT",
+    "area": "pa",
+    "latitude": 40.11305,
+    "longitude": -75.42001,
+    "imageUrl": "/pa/3696--10"
+  },
+  {
+    "name": "US 422 @ PA 168 MORAVIA ST EXIT",
+    "area": "pa",
+    "latitude": 40.967642,
+    "longitude": -80.362807,
+    "imageUrl": "/pa/3303--10"
+  },
+  {
+    "name": "US 422 @ RIVER BRIDGE RD",
+    "area": "pa",
+    "latitude": 40.255486,
+    "longitude": -75.723788,
+    "imageUrl": "/pa/3547--10"
+  },
+  {
+    "name": "US 422 NORTH OF I-276 PA TURNPIKE",
+    "area": "pa",
+    "latitude": 40.09031,
+    "longitude": -75.4152,
+    "imageUrl": "/pa/3703--10"
+  },
+  {
+    "name": "US 422 @ BEN FRANKLIN HIGHWAY",
+    "area": "pa",
+    "latitude": 40.254627,
+    "longitude": -75.720386,
+    "imageUrl": "/pa/3689--10"
+  },
+  {
+    "name": "US 11 @ PA 914 (SWAMP FOX HOLLOW RD)",
+    "area": "pa",
+    "latitude": 39.865225,
+    "longitude": -77.698709,
+    "imageUrl": "/pa/3496--10"
+  },
+  {
+    "name": "I-80 @ MM 120.5",
+    "area": "pa",
+    "latitude": 41.036182,
+    "longitude": -78.381351,
+    "imageUrl": "/pa/3798--10"
+  },
+  {
+    "name": "US 222 SOUTH MM 44.6",
+    "area": "pa",
+    "latitude": 40.197213,
+    "longitude": -76.122174,
+    "imageUrl": "/pa/3323--10"
+  },
+  {
+    "name": "US 222 @ LAUSCH RD (COLONEL HOWARD RD OFF RAMP)",
+    "area": "pa",
+    "latitude": 40.2144,
+    "longitude": -76.095762,
+    "imageUrl": "/pa/2938--10"
+  },
+  {
+    "name": "US 30 BYPASS AT AIRPORT RD",
+    "area": "pa",
+    "latitude": 39.989274,
+    "longitude": -75.872637,
+    "imageUrl": "/pa/2740--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ SHIP RD",
+    "area": "pa",
+    "latitude": 40.029924,
+    "longitude": -75.609612,
+    "imageUrl": "/pa/2732--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ EXTON SQUARE PKWY",
+    "area": "pa",
+    "latitude": 40.028537,
+    "longitude": -75.624287,
+    "imageUrl": "/pa/2733--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ WHITFORD RD",
+    "area": "pa",
+    "latitude": 40.02505,
+    "longitude": -75.645162,
+    "imageUrl": "/pa/2734--10"
+  },
+  {
+    "name": "US-30 BUS. (LANCASTER AVE) @ PA-113/ UWCHLAN AVE",
+    "area": "pa",
+    "latitude": 40.011457,
+    "longitude": -75.69543,
+    "imageUrl": "/pa/2735--10"
+  },
+  {
+    "name": "US-30  BUS. (LANCASTER AVE) EAST OF 30 BYPASS (LOWES DR)",
+    "area": "pa",
+    "latitude": 40.020748,
+    "longitude": -75.668169,
+    "imageUrl": "/pa/2738--10"
+  },
+  {
+    "name": "US-30 BUS. (LANCASTER AVE) EAST OF US-202",
+    "area": "pa",
+    "latitude": 40.033582,
+    "longitude": -75.582947,
+    "imageUrl": "/pa/3661--10"
+  },
+  {
+    "name": "US-30 BUS.  ( LANCASTER AVE) @ GREEN ST (DOWNINGTOWN)",
+    "area": "pa",
+    "latitude": 40.007609,
+    "longitude": -75.699907,
+    "imageUrl": "/pa/3663--10"
+  },
+  {
+    "name": "US-30 BUS. (LINCOLN HWY) @ BARLEY SHEAF RD",
+    "area": "pa",
+    "latitude": 39.991637,
+    "longitude": -75.773022,
+    "imageUrl": "/pa/3927--10"
+  },
+  {
+    "name": "DELAWARE AVE @ ALLEGHENY AVE",
+    "area": "pa",
+    "latitude": 39.978889,
+    "longitude": -75.097682,
+    "imageUrl": "/pa/3943--10"
+  },
+  {
+    "name": "DELAWARE AVE @ TIOGA ST",
+    "area": "pa",
+    "latitude": 39.979917,
+    "longitude": -75.090478,
+    "imageUrl": "/pa/3944--10"
+  },
+  {
+    "name": "DELAWARE AVE @ LEWIS ST",
+    "area": "pa",
+    "latitude": 39.986627,
+    "longitude": -75.075853,
+    "imageUrl": "/pa/3945--10"
+  },
+  {
+    "name": "I-78 @ EXIT 45 (PA 863 NEW SMITHVILLE)",
+    "area": "pa",
+    "latitude": 40.58045,
+    "longitude": -75.70798,
+    "imageUrl": "/pa/3946--10"
+  },
+  {
+    "name": "I-80 MM 79.1 BROOKVILLE",
+    "area": "pa",
+    "latitude": 41.17057,
+    "longitude": 79.08744,
+    "imageUrl": "/pa/3947--10"
+  },
+  {
+    "name": "I-81 N MM 162.9",
+    "area": "pa",
+    "latitude": 41.18519,
+    "longitude": -75.92093,
+    "imageUrl": "/pa/3936--10"
+  },
+  {
+    "name": "I-81 @ MILE 55.2",
+    "area": "pa",
+    "latitude": 40.254436,
+    "longitude": -77.06869,
+    "imageUrl": "/pa/3940--10"
+  },
+  {
+    "name": "I-81 N @ MM 149.4",
+    "area": "pa",
+    "latitude": 41.024278,
+    "longitude": -76.009827,
+    "imageUrl": "/pa/3942--10"
+  },
+  {
+    "name": "I-83 @ MM 44.8",
+    "area": "pa",
+    "latitude": 40.257926,
+    "longitude": -76.835048,
+    "imageUrl": "/pa/3939--10"
+  },
+  {
+    "name": "US-15 NB @ OLD MONT PIKE RD",
+    "area": "pa",
+    "latitude": 41.227768,
+    "longitude": -76.952136,
+    "imageUrl": "/pa/3937--10"
+  },
+  {
+    "name": "US 202 @ WISSAHICKON CREEK",
+    "area": "pa",
+    "latitude": 40.188454,
+    "longitude": -75.267847,
+    "imageUrl": "/pa/3930--10"
+  },
+  {
+    "name": "US 202 N @ SCHOOL HOUSE LN",
+    "area": "pa",
+    "latitude": 40.193692,
+    "longitude": -75.260257,
+    "imageUrl": "/pa/3931--10"
+  },
+  {
+    "name": "US 22 @ PA 743",
+    "area": "pa",
+    "latitude": 40.371635,
+    "longitude": -76.650274,
+    "imageUrl": "/pa/3928--10"
+  },
+  {
+    "name": "US 22/322 @ ALLEGHENY ST",
+    "area": "pa",
+    "latitude": 40.364255,
+    "longitude": -76.928146,
+    "imageUrl": "/pa/3938--10"
+  },
+  {
+    "name": "10TH ST BYPASS @ I-279",
+    "area": "pa",
+    "latitude": 40.4437,
+    "longitude": -80.00562,
+    "imageUrl": "/pa/3112--10"
+  },
+  {
+    "name": "26TH ST TUNNEL TO I-76 WEST",
+    "area": "pa",
+    "latitude": 39.92176,
+    "longitude": -75.190624,
+    "imageUrl": "/pa/3383--10"
+  },
+  {
+    "name": "I-76 EB TUNNEL TO 26TH ST",
+    "area": "pa",
+    "latitude": 39.92158,
+    "longitude": -75.19057,
+    "imageUrl": "/pa/3814--10"
+  },
+  {
+    "name": "26TH ST @ PENROSE AVE",
+    "area": "pa",
+    "latitude": 39.90578,
+    "longitude": -75.194,
+    "imageUrl": "/pa/2993--10"
+  },
+  {
+    "name": "17TH ST @ 6TH AVE",
+    "area": "pa",
+    "latitude": 40.5081,
+    "longitude": -78.39988,
+    "imageUrl": "/pa/3076--10"
+  },
+  {
+    "name": "PLANK RD @ LOGAN BLVD",
+    "area": "pa",
+    "latitude": 40.47819,
+    "longitude": -78.40377,
+    "imageUrl": "/pa/3077--10"
+  },
+  {
+    "name": "CHESTNUT A VENUE @ N 2ND ST",
+    "area": "pa",
+    "latitude": 40.5333,
+    "longitude": -78.38608,
+    "imageUrl": "/pa/2891--10"
+  },
+  {
+    "name": "17TH ST @ VALLEY VIEW BLVD",
+    "area": "pa",
+    "latitude": 40.49915,
+    "longitude": -78.39025,
+    "imageUrl": "/pa/2501--10"
+  },
+  {
+    "name": "PA 453 @ PA 45",
+    "area": "pa",
+    "latitude": 40.58516,
+    "longitude": -78.14583,
+    "imageUrl": "/pa/2505--10"
+  },
+  {
+    "name": "US 22 @ PA 453",
+    "area": "pa",
+    "latitude": 40.57137,
+    "longitude": -78.13869,
+    "imageUrl": "/pa/2506--10"
+  },
+  {
+    "name": "LOGAN BLVD @ CONVENTION CENTER BLVD",
+    "area": "pa",
+    "latitude": 40.45791,
+    "longitude": -78.39508,
+    "imageUrl": "/pa/2678--10"
+  },
+  {
+    "name": "CONVENTION CENTER BLVD @ CONVENTION CENTER DR",
+    "area": "pa",
+    "latitude": 40.45418,
+    "longitude": -78.40343,
+    "imageUrl": "/pa/3837--10"
+  },
+  {
+    "name": "PLANK RD @ JUNIATA ST",
+    "area": "pa",
+    "latitude": 40.437745,
+    "longitude": -78.412458,
+    "imageUrl": "/pa/3776--10"
+  },
+  {
+    "name": "17TH ST @ MARGARET AVE",
+    "area": "pa",
+    "latitude": 40.51162,
+    "longitude": -78.40526,
+    "imageUrl": "/pa/3777--10"
+  },
+  {
+    "name": "7TH AVE @ 7TH ST",
+    "area": "pa",
+    "latitude": 40.51727,
+    "longitude": -78.39319,
+    "imageUrl": "/pa/3585--10"
+  },
+  {
+    "name": "17TH ST @ PLEASANT VALLEY BLVD",
+    "area": "pa",
+    "latitude": 40.50025,
+    "longitude": -78.3913,
+    "imageUrl": "/pa/3642--10"
+  },
+  {
+    "name": "CHESTNUT AVE @ 4TH ST",
+    "area": "pa",
+    "latitude": 40.52227,
+    "longitude": -78.39484,
+    "imageUrl": "/pa/3453--10"
+  },
+  {
+    "name": "6TH AVE @ 8TH ST",
+    "area": "pa",
+    "latitude": 40.51627,
+    "longitude": -78.39277,
+    "imageUrl": "/pa/3454--10"
+  },
+  {
+    "name": "PLANK RD @ CONVENTION CENTER BLVD",
+    "area": "pa",
+    "latitude": 40.45226,
+    "longitude": -78.4093,
+    "imageUrl": "/pa/3260--10"
+  },
+  {
+    "name": "CHESTNUT AVE @ JUNIATA GAP RD",
+    "area": "pa",
+    "latitude": 40.52934,
+    "longitude": -78.38911,
+    "imageUrl": "/pa/3261--10"
+  },
+  {
+    "name": "PA 764 @ LOGAN BLVD",
+    "area": "pa",
+    "latitude": 40.49027,
+    "longitude": -78.41366,
+    "imageUrl": "/pa/3262--10"
+  },
+  {
+    "name": "I-95 ARAMINGO AVE RAMP",
+    "area": "pa",
+    "latitude": 40.00047,
+    "longitude": -75.084056,
+    "imageUrl": "/pa/2560--10"
+  },
+  {
+    "name": "ARAMINGO & SOMERSET ST",
+    "area": "pa",
+    "latitude": 39.9836,
+    "longitude": -75.11577,
+    "imageUrl": "/pa/2468--10"
+  },
+  {
+    "name": "ARAMINGO AVE & I-95 RAMPS (D06-C440)",
+    "area": "pa",
+    "latitude": 40.0004,
+    "longitude": -75.084,
+    "imageUrl": "/pa/3386--10"
+  },
+  {
+    "name": "E GIRADE AVE @ ARAMINGO AVE",
+    "area": "pa",
+    "latitude": 39.97332,
+    "longitude": -75.12287,
+    "imageUrl": "/pa/3399--10"
+  },
+  {
+    "name": "ARMINGO AVE @ CASTOR AVE",
+    "area": "pa",
+    "latitude": 39.99466,
+    "longitude": -75.09427,
+    "imageUrl": "/pa/3418--10"
+  },
+  {
+    "name": "ARMINGO AVE @ E LEHIGH ST",
+    "area": "pa",
+    "latitude": 39.98151,
+    "longitude": -75.11759,
+    "imageUrl": "/pa/3214--10"
+  },
+  {
+    "name": "ARMINGO AVE @ SEPVIVA ST",
+    "area": "pa",
+    "latitude": 40.003,
+    "longitude": -75.079,
+    "imageUrl": "/pa/3215--10"
+  },
+  {
+    "name": "ARAMINGO AVE @ TACONY ST",
+    "area": "pa",
+    "latitude": 40.008053,
+    "longitude": -75.072407,
+    "imageUrl": "/pa/3634--10"
+  },
+  {
+    "name": "HARBINSON AVE @ SANGER ST",
+    "area": "pa",
+    "latitude": 40.01684,
+    "longitude": -75.06683,
+    "imageUrl": "/pa/2818--10"
+  },
+  {
+    "name": "ALLEGHENY AVE @ ARMINGO AVE",
+    "area": "pa",
+    "latitude": 39.98868,
+    "longitude": -75.10634,
+    "imageUrl": "/pa/3034--10"
+  },
+  {
+    "name": "ARMINGO AVE @ ANN ST",
+    "area": "pa",
+    "latitude": 39.9858,
+    "longitude": -75.11143,
+    "imageUrl": "/pa/3027--10"
+  },
+  {
+    "name": "ATHERTON ST @ NORTH HILLS PLAZA",
+    "area": "pa",
+    "latitude": 40.8051,
+    "longitude": -77.8872,
+    "imageUrl": "/pa/2962--10"
+  },
+  {
+    "name": "ATHERTON ST @ COLONNADE BLVD",
+    "area": "pa",
+    "latitude": 40.8094,
+    "longitude": -77.9079,
+    "imageUrl": "/pa/2771--10"
+  },
+  {
+    "name": "ATHERTON ST @ VAIRO BLVD",
+    "area": "pa",
+    "latitude": 40.808,
+    "longitude": -77.8951,
+    "imageUrl": "/pa/2570--10"
+  },
+  {
+    "name": "ATHERTON ST @ WEST BEAVER AVE",
+    "area": "pa",
+    "latitude": 40.7907,
+    "longitude": -77.8638,
+    "imageUrl": "/pa/3347--10"
+  },
+  {
+    "name": "ATHERTON ST @ WEST COLLEGE AVE",
+    "area": "pa",
+    "latitude": 40.7918,
+    "longitude": -77.8652,
+    "imageUrl": "/pa/3518--10"
+  },
+  {
+    "name": "BAYFRONT PARKWAY @ EXIT 183B (PA 5 WEST 12TH ST)",
+    "area": "pa",
+    "latitude": 42.1108,
+    "longitude": -80.12017,
+    "imageUrl": "/pa/3515--10"
+  },
+  {
+    "name": "BAYFRONT PARKWAY @ EXIT 183A (PA 5/PA 290 EAST 12TH ST)",
+    "area": "pa",
+    "latitude": 42.10901,
+    "longitude": -80.12263,
+    "imageUrl": "/pa/2950--10"
+  },
+  {
+    "name": "S COLUMBUS BLVD @ E OREGON AVE",
+    "area": "pa",
+    "latitude": 39.9123,
+    "longitude": -75.138,
+    "imageUrl": "/pa/2858--10"
+  },
+  {
+    "name": "N COLUMBUS BLVD @ RACE ST",
+    "area": "pa",
+    "latitude": 39.9534,
+    "longitude": -75.1397,
+    "imageUrl": "/pa/3534--10"
+  },
+  {
+    "name": "DELAWARE AVE @ SPRING GARDEN ST",
+    "area": "pa",
+    "latitude": 39.9603,
+    "longitude": -75.1374,
+    "imageUrl": "/pa/3389--10"
+  },
+  {
+    "name": "N DELAWARE AVE @ E COLUMBIA AVE",
+    "area": "pa",
+    "latitude": 39.96727,
+    "longitude": -75.1288,
+    "imageUrl": "/pa/3023--10"
+  },
+  {
+    "name": "US-202 BUS. (BUTLER AVE) @ BRISTOL RD",
+    "area": "pa",
+    "latitude": 40.28423,
+    "longitude": -75.20987,
+    "imageUrl": "/pa/2804--10"
+  },
+  {
+    "name": "US-202 BUS. (BUTLER AVE) @ PA-152 (LIMEKILN PK)",
+    "area": "pa",
+    "latitude": 40.26561,
+    "longitude": -75.22836,
+    "imageUrl": "/pa/3539--10"
+  },
+  {
+    "name": "S FRONT ST @ PACKER AVE",
+    "area": "pa",
+    "latitude": 39.9072,
+    "longitude": -75.151,
+    "imageUrl": "/pa/3425--10"
+  },
+  {
+    "name": "S FRONT ST @ OREGON AVE",
+    "area": "pa",
+    "latitude": 39.9139,
+    "longitude": -75.1502,
+    "imageUrl": "/pa/2835--10"
+  },
+  {
+    "name": "E GIRARD AVE @ RICHMOND ST",
+    "area": "pa",
+    "latitude": 39.9727,
+    "longitude": -75.1196,
+    "imageUrl": "/pa/3381--10"
+  },
+  {
+    "name": "GIRARD AVE @ FRANKFORD AVE",
+    "area": "pa",
+    "latitude": 39.968936,
+    "longitude": -75.134539,
+    "imageUrl": "/pa/2453--10"
+  },
+  {
+    "name": "I-176 @ EXIT 11 (US 422)",
+    "area": "pa",
+    "latitude": 40.307,
+    "longitude": -75.8983,
+    "imageUrl": "/pa/3335--10"
+  },
+  {
+    "name": "I-180 @ EXIT 29 (US 15 NORTH MANSFIELD)",
+    "area": "pa",
+    "latitude": 41.23192,
+    "longitude": -77.04155,
+    "imageUrl": "/pa/2960--10"
+  },
+  {
+    "name": "I-279 @ MM 0.2 (I-376 INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.44216,
+    "longitude": -80.00872,
+    "imageUrl": "/pa/3904--10"
+  },
+  {
+    "name": "I-279 @ MM 0.3 (FT DUQUESNE BLVD)",
+    "area": "pa",
+    "latitude": 40.44332,
+    "longitude": -80.00902,
+    "imageUrl": "/pa/3592--10"
+  },
+  {
+    "name": "I-279 @ MM 0.4 (PA 65 INTERCHANGE)",
+    "area": "pa",
+    "latitude": 40.44552,
+    "longitude": -80.0097,
+    "imageUrl": "/pa/3908--10"
+  },
+  {
+    "name": "I-279 @ MM 0.67 EAST LACOCK ST)",
+    "area": "pa",
+    "latitude": 40.44876,
+    "longitude": -80.00686,
+    "imageUrl": "/pa/3278--10"
+  },
+  {
+    "name": "I-279 @ MM 1.2 (PA 28)",
+    "area": "pa",
+    "latitude": 40.45259,
+    "longitude": -79.99669,
+    "imageUrl": "/pa/3718--10"
+  },
+  {
+    "name": "I-279 @ MM 1.2 (NORTH CANAL ST - HOV)",
+    "area": "pa",
+    "latitude": 40.45054,
+    "longitude": -79.99783,
+    "imageUrl": "/pa/3135--10"
+  },
+  {
+    "name": "I-279 @ MM 1.4 (EAST ST - HOV)",
+    "area": "pa",
+    "latitude": 40.45259,
+    "longitude": -79.99685,
+    "imageUrl": "/pa/3310--10"
+  },
+  {
+    "name": "I-279 @ MM 1.7 (TRIPOLI ST)",
+    "area": "pa",
+    "latitude": 40.45641,
+    "longitude": -79.9981,
+    "imageUrl": "/pa/3311--10"
+  },
+  {
+    "name": "I-279 @ EXIT 3 (HAZLETT ST)",
+    "area": "pa",
+    "latitude": 40.47393,
+    "longitude": -80.00556,
+    "imageUrl": "/pa/3656--10"
+  },
+  {
+    "name": "I-279 @ MM 3.6 (EAST ST)",
+    "area": "pa",
+    "latitude": 40.48296,
+    "longitude": -80.0074,
+    "imageUrl": "/pa/3491--10"
+  },
+  {
+    "name": "I-279 NB @ EXIT 4 (MCKNIGHT RD)",
+    "area": "pa",
+    "latitude": 40.49377,
+    "longitude": -80.01123,
+    "imageUrl": "/pa/3657--10"
+  },
+  {
+    "name": "I-279 @ MM 4.5 (MCKNIGHT RD)",
+    "area": "pa",
+    "latitude": 40.49529,
+    "longitude": -80.01333,
+    "imageUrl": "/pa/3314--10"
+  },
+  {
+    "name": "I-279 @ MM 5.5 (SR 6279 SB ON-RAMP - HOV))",
+    "area": "pa",
+    "latitude": 40.50402,
+    "longitude": -80.02852,
+    "imageUrl": "/pa/3315--10"
+  },
+  {
+    "name": "I-279 @ MM 0.5 (HOV - PARK-N-RIDE)",
+    "area": "pa",
+    "latitude": 40.50712,
+    "longitude": -80.03122,
+    "imageUrl": "/pa/3136--10"
+  }
+]

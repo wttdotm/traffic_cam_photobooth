@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "117038--2",
+    "name": "CRISP-0020: SR 30 at I75 SB Ramp (Crisp)",
+    "area": "atl",
+    "latitude": 31.96044,
+    "longitude": -83.7545,
+    "imageUrl": "/atl/117038--2"
+  },
+  {
+    "id": "117043--2",
+    "name": "CRISP-0022: SR 7 at SR 30 (Crisp)",
+    "area": "atl",
+    "latitude": 31.963678,
+    "longitude": -83.782555,
+    "imageUrl": "/atl/117043--2"
+  },
+  {
+    "id": "117056--2",
+    "name": "DECA-0001: SR 1 Bus / Scott St at SR 30 Bus / Shotwell St (Decatur)",
+    "area": "atl",
+    "latitude": 30.903915,
+    "longitude": -84.56787,
+    "imageUrl": "/atl/117056--2"
+  },
+  {
+    "id": "117058--2",
+    "name": "DECA-0002: SR 3 Bus at SR 97/ West St (Decatur)",
+    "area": "atl",
+    "latitude": 30.903997,
+    "longitude": -84.576485,
+    "imageUrl": "/atl/117058--2"
+  },
+  {
+    "id": "117061--2",
+    "name": "DECA-0003: SR 1 Bus at Broughton St (Decatur)",
+    "area": "atl",
+    "latitude": 30.905869,
+    "longitude": -84.575615,
+    "imageUrl": "/atl/117061--2"
+  },
+  {
+    "id": "117063--2",
+    "name": "DECA-0004: SR 1 at E Alice St (Decatur)",
+    "area": "atl",
+    "latitude": 30.8876,
+    "longitude": -84.5658,
+    "imageUrl": "/atl/117063--2"
+  },
+  {
+    "id": "117065--2",
+    "name": "DECA-0005: SR 1 at SR 38 WB Ramp (Decatur)",
+    "area": "atl",
+    "latitude": 30.891,
+    "longitude": -84.5665,
+    "imageUrl": "/atl/117065--2"
+  },
+  {
+    "id": "117067--2",
+    "name": "DECA-0020: SR 1 at SR 38 (Decatur)",
+    "area": "atl",
+    "latitude": 30.903969,
+    "longitude": -84.567986,
+    "imageUrl": "/atl/117067--2"
+  },
+  {
+    "id": "117069--2",
+    "name": "DECA-0021: SR 1 at Douglas Dr (Decatur)",
+    "area": "atl",
+    "latitude": 30.885395,
+    "longitude": -84.565125,
+    "imageUrl": "/atl/117069--2"
+  },
+  {
+    "id": "117072--2",
+    "name": "DEK-0020: SR 8 / Lawrenceville Hwy at Northlake Pkwy/Cooledge Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.83786,
+    "longitude": -84.237724,
+    "imageUrl": "/atl/117072--2"
+  },
+  {
+    "id": "117073--2",
+    "name": "DEK-0022: SR 8 / Lawrenceville Hwy at Fellowship Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.850094,
+    "longitude": -84.21838,
+    "imageUrl": "/atl/117073--2"
+  },
+  {
+    "id": "117081--2",
+    "name": "DEK-0160: SR 141/Peachtree Ind Blvd at Tilly Mill Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.92292,
+    "longitude": -84.28131,
+    "imageUrl": "/atl/117081--2"
+  },
+  {
+    "id": "117083--2",
+    "name": "DEK-0161: SR 141/Peachtree Ind Blvd at Winters Chapel Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.931316,
+    "longitude": -84.26504,
+    "imageUrl": "/atl/117083--2"
+  },
+  {
+    "id": "117085--2",
+    "name": "DEK-0162: SR 10/E College Ave at E Trinity St/S Candler Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.771378,
+    "longitude": -84.292755,
+    "imageUrl": "/atl/117085--2"
+  },
+  {
+    "id": "117087--2",
+    "name": "DEK-0163: SR 10/E College Ave at McDonough St (DeKalb)",
+    "area": "atl",
+    "latitude": 33.77008,
+    "longitude": -84.296616,
+    "imageUrl": "/atl/117087--2"
+  },
+  {
+    "id": "117089--2",
+    "name": "DEK-0164: SR 155/Clairemont Ave at Commerce Dr (DeKalb)",
+    "area": "atl",
+    "latitude": 33.77789,
+    "longitude": -84.29647,
+    "imageUrl": "/atl/117089--2"
+  },
+  {
+    "id": "117091--2",
+    "name": "DEK-0201: SR 8/Lawrenceville Hwy at Walmart (DeKalb)",
+    "area": "atl",
+    "latitude": 33.857826,
+    "longitude": -84.20476,
+    "imageUrl": "/atl/117091--2"
+  },
+  {
+    "id": "117092--2",
+    "name": "DEK-0202: SR 8/Lawrenceville Hwy at Brockett Road (DeKalb)",
+    "area": "atl",
+    "latitude": 33.84951,
+    "longitude": -84.22316,
+    "imageUrl": "/atl/117092--2"
+  },
+  {
+    "id": "117094--2",
+    "name": "DEK-0203: SR 8/Lawrenceville Hwy at Lynburn Drive (DeKalb)",
+    "area": "atl",
+    "latitude": 33.8547,
+    "longitude": -84.20956,
+    "imageUrl": "/atl/117094--2"
+  },
+  {
+    "id": "117096--2",
+    "name": "DEK-0300: SR 155 / Clairmont Rd at Lavista Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.820225,
+    "longitude": -84.3039,
+    "imageUrl": "/atl/117096--2"
+  },
+  {
+    "id": "117098--2",
+    "name": "DEK-0301: SR 155 / Clairmont Rd at Mason Mill Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.807053,
+    "longitude": -84.31038,
+    "imageUrl": "/atl/117098--2"
+  },
+  {
+    "id": "117103--2",
+    "name": "DEK-0304: SR 155 / Clairmont Rd at North Decatur Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.790367,
+    "longitude": -84.306465,
+    "imageUrl": "/atl/117103--2"
+  },
+  {
+    "id": "117119--2",
+    "name": "DEK-0500: Chamblee Tucker Rd at I-285 NB Ramps (DeKalb)",
+    "area": "atl",
+    "latitude": 33.885563,
+    "longitude": -84.251236,
+    "imageUrl": "/atl/117119--2"
+  },
+  {
+    "id": "117120--2",
+    "name": "DEK-0501: Chamblee Tucker Rd at Henderson Mill Rd (DeKalb)",
+    "area": "atl",
+    "latitude": 33.883125,
+    "longitude": -84.24481,
+    "imageUrl": "/atl/117120--2"
+  },
+  {
+    "id": "117154--2",
+    "name": "ALPH-0002: SR 9/North Main St at Academy St / Milton Ave (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.075607,
+    "longitude": -84.29459,
+    "imageUrl": "/atl/117154--2"
+  },
+  {
+    "id": "117159--2",
+    "name": "ALPH-0004: SR 120/Old Milton Pkwy at North Point Pkwy (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.067883,
+    "longitude": -84.261284,
+    "imageUrl": "/atl/117159--2"
+  },
+  {
+    "id": "117161--2",
+    "name": "ALPH-0005: SR 120/Old Milton Pkwy at Westside Pkwy (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.06901,
+    "longitude": -84.283226,
+    "imageUrl": "/atl/117161--2"
+  },
+  {
+    "id": "117168--2",
+    "name": "ALPH-0016: SR 9 at Wills Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.066154,
+    "longitude": -84.311966,
+    "imageUrl": "/atl/117168--2"
+  },
+  {
+    "id": "117170--2",
+    "name": "ALPH-0017: Haynes Bridge Rd at Alpharetta Crossing (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.06917,
+    "longitude": -84.29362,
+    "imageUrl": "/atl/117170--2"
+  },
+  {
+    "id": "117172--2",
+    "name": "ALPH-0018: SR 120/Old Milton Pkwy at State Bridge Way/ChickFilA (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.05801,
+    "longitude": -84.232925,
+    "imageUrl": "/atl/117172--2"
+  },
+  {
+    "id": "117179--2",
+    "name": "ALPH-0021: SR 120/Old Milton Pkwy at Haynes Bridge Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.070965,
+    "longitude": -84.29367,
+    "imageUrl": "/atl/117179--2"
+  },
+  {
+    "id": "117181--2",
+    "name": "ALPH-0022: SR 120/Old Milton Pkwy at SR 400 SB Ramp (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.068756,
+    "longitude": -84.273186,
+    "imageUrl": "/atl/117181--2"
+  },
+  {
+    "id": "117183--2",
+    "name": "ALPH-0023: SR 120/Old Milton Pkwy at SR 400 NB Ramp (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.068733,
+    "longitude": -84.271736,
+    "imageUrl": "/atl/117183--2"
+  },
+  {
+    "id": "117185--2",
+    "name": "ALPH-0024: SR 120/Old Milton Pkwy at Siemens Driveway (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.068615,
+    "longitude": -84.26421,
+    "imageUrl": "/atl/117185--2"
+  },
+  {
+    "id": "117188--2",
+    "name": "ALPH-0025: SR 120/Old Milton Pkwy at Brookside Pkwy/Vista Forest Dr (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.061825,
+    "longitude": -84.24576,
+    "imageUrl": "/atl/117188--2"
+  },
+  {
+    "id": "117189--2",
+    "name": "ALPH-0026: SR 9 at Mayfield Road (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.081184,
+    "longitude": -84.29478,
+    "imageUrl": "/atl/117189--2"
+  },
+  {
+    "id": "117191--2",
+    "name": "ALPH-0027: Mayfield Rd at Canton St (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.081497,
+    "longitude": -84.29735,
+    "imageUrl": "/atl/117191--2"
+  },
+  {
+    "id": "117193--2",
+    "name": "ALPH-0028: Westside Pkwy at Kimball Bridge Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.06728,
+    "longitude": -84.28349,
+    "imageUrl": "/atl/117193--2"
+  },
+  {
+    "id": "117195--2",
+    "name": "ALPH-0029: Academy St at Park Plaza (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.075714,
+    "longitude": -84.29252,
+    "imageUrl": "/atl/117195--2"
+  },
+  {
+    "id": "117197--2",
+    "name": "ALPH-0030: Westside Pkwy at Webb Bridge Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.07478,
+    "longitude": -84.27152,
+    "imageUrl": "/atl/117197--2"
+  },
+  {
+    "id": "117199--2",
+    "name": "ALPH-0031: North Point Pkwy at Webb Bridge Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.07626,
+    "longitude": -84.260254,
+    "imageUrl": "/atl/117199--2"
+  },
+  {
+    "id": "117201--2",
+    "name": "ALPH-0032: Webb Bridge Rd at Alpharetta HS (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.078217,
+    "longitude": -84.2561,
+    "imageUrl": "/atl/117201--2"
+  },
+  {
+    "id": "117203--2",
+    "name": "ALPH-0033: Westside Pkwy at Hawk (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.070988,
+    "longitude": -84.28215,
+    "imageUrl": "/atl/117203--2"
+  },
+  {
+    "id": "117205--2",
+    "name": "ALPH-0034: Westside Pkwy at Avalon Way (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.07241,
+    "longitude": -84.27331,
+    "imageUrl": "/atl/117205--2"
+  },
+  {
+    "id": "117207--2",
+    "name": "ALPH-0035: SR 9/Main St at PHB/N Broad (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.074368,
+    "longitude": -84.29473,
+    "imageUrl": "/atl/117207--2"
+  },
+  {
+    "id": "117209--2",
+    "name": "ALPH-0036: Haynes Bridge Rd at Devore Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.06647,
+    "longitude": -84.293106,
+    "imageUrl": "/atl/117209--2"
+  },
+  {
+    "id": "117211--2",
+    "name": "ALPH-0037: Haynes Bridge Rd at Woodhaven Way (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.06397,
+    "longitude": -84.29194,
+    "imageUrl": "/atl/117211--2"
+  },
+  {
+    "id": "117213--2",
+    "name": "ALPH-0039: SR 9 at Marietta St (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.072765,
+    "longitude": -84.2954,
+    "imageUrl": "/atl/117213--2"
+  },
+  {
+    "id": "117216--2",
+    "name": "ALPH-0040: North Point Parkway at Preston Ridge Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.0714,
+    "longitude": -84.2567,
+    "imageUrl": "/atl/117216--2"
+  },
+  {
+    "id": "117218--2",
+    "name": "ALPH-0041: SR 120 at Kingry Ln (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.0705,
+    "longitude": -84.2901,
+    "imageUrl": "/atl/117218--2"
+  },
+  {
+    "id": "117220--2",
+    "name": "ALPH-0042: SR 120 at Willis Park Pool PHB (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.073,
+    "longitude": -84.3061,
+    "imageUrl": "/atl/117220--2"
+  },
+  {
+    "id": "117222--2",
+    "name": "ALPH-0043: SR 120 at Roswell St (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.0716,
+    "longitude": -84.2986,
+    "imageUrl": "/atl/117222--2"
+  },
+  {
+    "id": "117227--2",
+    "name": "ALPH-0045: SR 9 at Cumming St (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.0786,
+    "longitude": -84.2945,
+    "imageUrl": "/atl/117227--2"
+  },
+  {
+    "id": "117231--2",
+    "name": "ALPH-0047: North Point Pkwy at Morris Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.08017,
+    "longitude": -84.26041,
+    "imageUrl": "/atl/117231--2"
+  },
+  {
+    "id": "117232--2",
+    "name": "ALPH-0048: Academy St at Haynes Bridge Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.0756,
+    "longitude": -84.29099,
+    "imageUrl": "/atl/117232--2"
+  },
+  {
+    "id": "117234--2",
+    "name": "ALPH-0049: Webb Bridge Rd at Morris Rd (Alpharetta)",
+    "area": "atl",
+    "latitude": 34.07471,
+    "longitude": -84.26611,
+    "imageUrl": "/atl/117234--2"
+  },
+  {
+    "id": "117243--2",
+    "name": "APPL-0001: SR 4 at SR 15 (Appling)",
+    "area": "atl",
+    "latitude": 31.767303,
+    "longitude": -82.35382,
+    "imageUrl": "/atl/117243--2"
+  },
+  {
+    "id": "117245--2",
+    "name": "DEK-0696: S Hairston Rd at Fieldgreen Dr (DeKalb)",
+    "area": "atl",
+    "latitude": 33.749485015869,
+    "longitude": -84.197296142578,
+    "imageUrl": "/atl/117245--2"
+  },
+  {
+    "id": "117246--2",
+    "name": "ATKI-0001: SR 31 at SR 520 / South Georgia Pkwy (Atkinson)",
+    "area": "atl",
+    "latitude": 31.297777,
+    "longitude": -82.85264,
+    "imageUrl": "/atl/117246--2"
+  },
+  {
+    "id": "117250--2",
+    "name": "ATL-0002: SR 9 / Roswell Rd at Peachtree Presbyterian Church (Atlanta)",
+    "area": "atl",
+    "latitude": 33.848606,
+    "longitude": -84.3824,
+    "imageUrl": "/atl/117250--2"
+  },
+  {
+    "id": "117252--2",
+    "name": "ATL-0003: SR 141 / Peachtree Rd at Lenox Mall Entrance (Atlanta)",
+    "area": "atl",
+    "latitude": 33.849323,
+    "longitude": -84.36314,
+    "imageUrl": "/atl/117252--2"
+  },
+  {
+    "id": "117254--2",
+    "name": "ATL-0004: SR 9 / Peachtree Rd at Pharr Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.83687,
+    "longitude": -84.38163,
+    "imageUrl": "/atl/117254--2"
+  },
+  {
+    "id": "117259--2",
+    "name": "ATL-0006: SR 9 / Peachtree Rd at Rumson Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.831554,
+    "longitude": -84.38535,
+    "imageUrl": "/atl/117259--2"
+  },
+  {
+    "id": "117262--2",
+    "name": "ATL-0007: SR 9 / Peachtree Rd at Peachtree Way (Atlanta)",
+    "area": "atl",
+    "latitude": 33.82744,
+    "longitude": -84.38741,
+    "imageUrl": "/atl/117262--2"
+  },
+  {
+    "id": "117264--2",
+    "name": "ATL-0008: SR 9 / Peachtree Rd at Lindbergh Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.822685,
+    "longitude": -84.3878,
+    "imageUrl": "/atl/117264--2"
+  },
+  {
+    "id": "117267--2",
+    "name": "ATL-0009: SR 9 / Peachtree Rd at Peachtree Battle Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.82016,
+    "longitude": -84.388306,
+    "imageUrl": "/atl/117267--2"
+  },
+  {
+    "id": "117269--2",
+    "name": "ATL-0010: SR 9 / Peachtree Rd at Peachtree Memorial Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.81583,
+    "longitude": -84.390205,
+    "imageUrl": "/atl/117269--2"
+  },
+  {
+    "id": "117271--2",
+    "name": "ATL-0011: SR 141 / Peachtree Rd at SR 237 / Piedmont Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.84364,
+    "longitude": -84.37128,
+    "imageUrl": "/atl/117271--2"
+  },
+  {
+    "id": "117273--2",
+    "name": "ATL-0012: SR 9 / Peachtree Rd at Colonial Homes Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.81366,
+    "longitude": -84.39211,
+    "imageUrl": "/atl/117273--2"
+  },
+  {
+    "id": "117275--2",
+    "name": "ATL-0013: SR 9 / Peachtree Rd at E/W Paces Ferry Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.839592,
+    "longitude": -84.379654,
+    "imageUrl": "/atl/117275--2"
+  },
+  {
+    "id": "117278--2",
+    "name": "ATL-0014: SR 237 / Piedmont Rd at SR 9 / Roswell Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.85396,
+    "longitude": -84.3825,
+    "imageUrl": "/atl/117278--2"
+  },
+  {
+    "id": "117280--2",
+    "name": "ATL-0015: SR 237 / Piedmont Rd at Lenox Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.848274,
+    "longitude": -84.37368,
+    "imageUrl": "/atl/117280--2"
+  },
+  {
+    "id": "117282--2",
+    "name": "ATL-0016: SR 237 / Piedmont Rd at Pharr Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.83702,
+    "longitude": -84.36815,
+    "imageUrl": "/atl/117282--2"
+  },
+  {
+    "id": "117285--2",
+    "name": "ATL-0018: SR 237 / Piedmont Rd at Tower Pl (Atlanta)",
+    "area": "atl",
+    "latitude": 33.846203,
+    "longitude": -84.3724,
+    "imageUrl": "/atl/117285--2"
+  },
+  {
+    "id": "117287--2",
+    "name": "ATL-0019: SR 237 / Piedmont Rd at Darlington Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.83124,
+    "longitude": -84.36825,
+    "imageUrl": "/atl/117287--2"
+  },
+  {
+    "id": "117289--2",
+    "name": "ATL-0020: SR 237 / Piedmont Rd at Sidney Marcus Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.82588,
+    "longitude": -84.36691,
+    "imageUrl": "/atl/117289--2"
+  },
+  {
+    "id": "117292--2",
+    "name": "ATL-0021: Sidney Marcus Blvd at Adina Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.82571,
+    "longitude": -84.36274,
+    "imageUrl": "/atl/117292--2"
+  },
+  {
+    "id": "117294--2",
+    "name": "ATL-0022: SR 237 / Piedmont Rd at Lindbergh Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.820145,
+    "longitude": -84.367065,
+    "imageUrl": "/atl/117294--2"
+  },
+  {
+    "id": "117296--2",
+    "name": "ATL-0023: SR 237 / Piedmont Rd at Lakeshore Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.81595,
+    "longitude": -84.3665,
+    "imageUrl": "/atl/117296--2"
+  },
+  {
+    "id": "117302--2",
+    "name": "ATL-0025: SR 237 / Piedmont Rd at Cheshire Bridge Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.807327,
+    "longitude": -84.365974,
+    "imageUrl": "/atl/117302--2"
+  },
+  {
+    "id": "117304--2",
+    "name": "ATL-0026: SR 237 / Piedmont Rd at Rock Springs Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.805264,
+    "longitude": -84.36722,
+    "imageUrl": "/atl/117304--2"
+  },
+  {
+    "id": "117306--2",
+    "name": "ATL-0027: SR 237 / Piedmont Rd at Monroe Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.796852,
+    "longitude": -84.36896,
+    "imageUrl": "/atl/117306--2"
+  },
+  {
+    "id": "117308--2",
+    "name": "ATL-0028: Lenox Rd at SR 400 Ramps (Atlanta)",
+    "area": "atl",
+    "latitude": 33.851604,
+    "longitude": -84.370255,
+    "imageUrl": "/atl/117308--2"
+  },
+  {
+    "id": "117310--2",
+    "name": "ATL-0029: SR 141 / Peachtree Rd at SR 141 Conn/Lenox Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.85044,
+    "longitude": -84.36203,
+    "imageUrl": "/atl/117310--2"
+  },
+  {
+    "id": "117312--2",
+    "name": "ATL-0030: SR 9 / Peachtree St at Peachtree Valley Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.81083,
+    "longitude": -84.392296,
+    "imageUrl": "/atl/117312--2"
+  },
+  {
+    "id": "117314--2",
+    "name": "ATL-0031: SR 9 / Peachtree Rd at Collier Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.806686,
+    "longitude": -84.394066,
+    "imageUrl": "/atl/117314--2"
+  },
+  {
+    "id": "117315--2",
+    "name": "FAY-0016: SR 54 at MacDuff Pkwy (Fayette)",
+    "area": "atl",
+    "latitude": 33.39683,
+    "longitude": -84.60413,
+    "imageUrl": "/atl/117315--2"
+  },
+  {
+    "id": "117316--2",
+    "name": "ATL-0032: SR 9 / Peachtree St at 26th St (Atlanta)",
+    "area": "atl",
+    "latitude": 33.802628,
+    "longitude": -84.39307,
+    "imageUrl": "/atl/117316--2"
+  },
+  {
+    "id": "117317--2",
+    "name": "FAY-0017: SR 54 at Huddleston Rd (Fayette)",
+    "area": "atl",
+    "latitude": 33.39662,
+    "longitude": -84.59666,
+    "imageUrl": "/atl/117317--2"
+  },
+  {
+    "id": "117318--2",
+    "name": "ATL-0033: SR 9 / Peachtree St at Deering Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.799763,
+    "longitude": -84.39257,
+    "imageUrl": "/atl/117318--2"
+  },
+  {
+    "id": "117319--2",
+    "name": "FAY-0018: SR 54 at SR 74 (Fayette)",
+    "area": "atl",
+    "latitude": 33.39714,
+    "longitude": -84.59104,
+    "imageUrl": "/atl/117319--2"
+  },
+  {
+    "id": "117320--2",
+    "name": "ATL-0034: SR 141 / Peachtree Rd at Mathieson Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.840466,
+    "longitude": -84.37699,
+    "imageUrl": "/atl/117320--2"
+  },
+  {
+    "id": "117322--2",
+    "name": "ATL-0035: SR 141 / Peachtree Rd at Highland Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.845158,
+    "longitude": -84.36899,
+    "imageUrl": "/atl/117322--2"
+  },
+  {
+    "id": "117323--2",
+    "name": "FAY-0101: SR 85 at SR 279 / Carnegie Pl (Fayette)",
+    "area": "atl",
+    "latitude": 33.509186,
+    "longitude": -84.429565,
+    "imageUrl": "/atl/117323--2"
+  },
+  {
+    "id": "117324--2",
+    "name": "ATL-0036: SR 141 / Peachtree Rd at Stratford Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.848347,
+    "longitude": -84.366264,
+    "imageUrl": "/atl/117324--2"
+  },
+  {
+    "id": "117325--2",
+    "name": "FAY-0107: SR 85 at Pavilion Pkwy / Pine Trail Rd (Fayette)",
+    "area": "atl",
+    "latitude": 33.479675,
+    "longitude": -84.43676,
+    "imageUrl": "/atl/117325--2"
+  },
+  {
+    "id": "117326--2",
+    "name": "ATL-0037: SR 42 /Moreland Ave at SR 154 /Memorial Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.7474,
+    "longitude": -84.34903,
+    "imageUrl": "/atl/117326--2"
+  },
+  {
+    "id": "117327--2",
+    "name": "ATL-0039: SR 9 / Roswell Rd at E Andrews Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.843624,
+    "longitude": -84.37918,
+    "imageUrl": "/atl/117327--2"
+  },
+  {
+    "id": "117328--2",
+    "name": "FAY-0108: SR 85 at Ellis Rd (Fayette)",
+    "area": "atl",
+    "latitude": 33.4755,
+    "longitude": -84.43948,
+    "imageUrl": "/atl/117328--2"
+  },
+  {
+    "id": "117329--2",
+    "name": "ATL-0040: SR 8 /Ponce De Leon Ave at SR 42 /Moreland Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.77373,
+    "longitude": -84.349014,
+    "imageUrl": "/atl/117329--2"
+  },
+  {
+    "id": "117331--2",
+    "name": "ATL-0041: SR 13 / Buford Hwy at Sidney Marcus Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.82413,
+    "longitude": -84.35607,
+    "imageUrl": "/atl/117331--2"
+  },
+  {
+    "id": "117332--2",
+    "name": "ATL-0042: SR 3 / Northside Pkwy at I75 NB Ramp (Atlanta)",
+    "area": "atl",
+    "latitude": 33.84679,
+    "longitude": -84.428474,
+    "imageUrl": "/atl/117332--2"
+  },
+  {
+    "id": "117333--2",
+    "name": "FAY-0110: SR 85 at Banks Rd (Fayette)",
+    "area": "atl",
+    "latitude": 33.46838,
+    "longitude": -84.44608,
+    "imageUrl": "/atl/117333--2"
+  },
+  {
+    "id": "117334--2",
+    "name": "ATL-0043: Lenox Rd at E Paces Ferry Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.84557,
+    "longitude": -84.35849,
+    "imageUrl": "/atl/117334--2"
+  },
+  {
+    "id": "117335--2",
+    "name": "ATL-0044: W Paces Ferry Rd at I75 SB Ramp (Atlanta)",
+    "area": "atl",
+    "latitude": 33.84866,
+    "longitude": -84.43152,
+    "imageUrl": "/atl/117335--2"
+  },
+  {
+    "id": "117336--2",
+    "name": "FAY-0112: SR 85 at SR 314 / W Fayetteville Rd (Fayette)",
+    "area": "atl",
+    "latitude": 33.46387,
+    "longitude": -84.44922,
+    "imageUrl": "/atl/117336--2"
+  },
+  {
+    "id": "117337--2",
+    "name": "ATL-0045: SR 3 / Northside Pkwy at Mt Paran Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.86321,
+    "longitude": -84.439835,
+    "imageUrl": "/atl/117337--2"
+  },
+  {
+    "id": "117338--2",
+    "name": "FAY-0114: SR 85 at SR 92 / Forrest Ave (Fayette)",
+    "area": "atl",
+    "latitude": 33.456635,
+    "longitude": -84.45443,
+    "imageUrl": "/atl/117338--2"
+  },
+  {
+    "id": "117339--2",
+    "name": "ATL-0046: Mt Paran Rd at I75 NB Ramp (Atlanta)",
+    "area": "atl",
+    "latitude": 33.865273,
+    "longitude": -84.43937,
+    "imageUrl": "/atl/117339--2"
+  },
+  {
+    "id": "117340--2",
+    "name": "ATL-0047: SR 3 / Northside Pkwy at N Atlanta High School (Atlanta)",
+    "area": "atl",
+    "latitude": 33.86372,
+    "longitude": -84.44468,
+    "imageUrl": "/atl/117340--2"
+  },
+  {
+    "id": "117341--2",
+    "name": "FAY-0115: SR 85 at SR 54 WB / Lanier Ave (Fayette)",
+    "area": "atl",
+    "latitude": 33.44838,
+    "longitude": -84.455185,
+    "imageUrl": "/atl/117341--2"
+  },
+  {
+    "id": "117342--2",
+    "name": "ATL-0048: SR 3 / Northside Pkwy at River Green Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.86427,
+    "longitude": -84.44958,
+    "imageUrl": "/atl/117342--2"
+  },
+  {
+    "id": "117343--2",
+    "name": "FAY-0117: SR 85 at Grady Ave / Bradley Dr (Fayette)",
+    "area": "atl",
+    "latitude": 33.43996,
+    "longitude": -84.45474,
+    "imageUrl": "/atl/117343--2"
+  },
+  {
+    "id": "117344--2",
+    "name": "ATL-0049: SR 3 / Northside Pkwy at Northgate Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.864887,
+    "longitude": -84.45126,
+    "imageUrl": "/atl/117344--2"
+  },
+  {
+    "id": "117347--2",
+    "name": "ATL-0051: SR 9 / Roswell Rd at Wieuca Rd (Fulton)",
+    "area": "atl",
+    "latitude": 33.87572,
+    "longitude": -84.380775,
+    "imageUrl": "/atl/117347--2"
+  },
+  {
+    "id": "117349--2",
+    "name": "ATL-0055: SR 42 / Moreland Ave at Constitution Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.692154,
+    "longitude": -84.349396,
+    "imageUrl": "/atl/117349--2"
+  },
+  {
+    "id": "117350--2",
+    "name": "ATL-0056: SR 42 / Moreland Ave at SR 42 Spur /McDonough Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.704273,
+    "longitude": -84.34926,
+    "imageUrl": "/atl/117350--2"
+  },
+  {
+    "id": "117353--2",
+    "name": "ATL-0057: SR 42 / Moreland Ave at Caroline St (Atlanta)",
+    "area": "atl",
+    "latitude": 33.758404,
+    "longitude": -84.34905,
+    "imageUrl": "/atl/117353--2"
+  },
+  {
+    "id": "117354--2",
+    "name": "ATL-0058: SR 42 / Moreland Ave at Euclid Ave / McClendon Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.764866,
+    "longitude": -84.34897,
+    "imageUrl": "/atl/117354--2"
+  },
+  {
+    "id": "117356--2",
+    "name": "ATL-0059: SR 42/Moreland Ave at Vickers St (Atlanta)",
+    "area": "atl",
+    "latitude": 33.721664,
+    "longitude": -84.349594,
+    "imageUrl": "/atl/117356--2"
+  },
+  {
+    "id": "117358--2",
+    "name": "ATL-0060: SR 42 / Moreland Ave at United Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.72415,
+    "longitude": -84.34943,
+    "imageUrl": "/atl/117358--2"
+  },
+  {
+    "id": "117360--2",
+    "name": "ATL-0061: SR 42 / Moreland Ave at Dekalb Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.759754,
+    "longitude": -84.3493,
+    "imageUrl": "/atl/117360--2"
+  },
+  {
+    "id": "117363--2",
+    "name": "ATL-0063: SR 42 / Moreland Ave at Faith Ave / McPherson Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.7432,
+    "longitude": -84.3492,
+    "imageUrl": "/atl/117363--2"
+  },
+  {
+    "id": "117365--2",
+    "name": "ATL-0064: SR 42 / Moreland Ave at I-20 WB Ramp (Atlanta)",
+    "area": "atl",
+    "latitude": 33.746414,
+    "longitude": -84.34916,
+    "imageUrl": "/atl/117365--2"
+  },
+  {
+    "id": "117367--2",
+    "name": "ATL-0067: SR 141 Conn / Lenox Rd at Tower Place Dr (Atlanta)",
+    "area": "atl",
+    "latitude": 33.85002,
+    "longitude": -84.37283,
+    "imageUrl": "/atl/117367--2"
+  },
+  {
+    "id": "117369--2",
+    "name": "ATL-0068: SR 141 Conn / Lenox Rd at Phipps Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.852734,
+    "longitude": -84.36513,
+    "imageUrl": "/atl/117369--2"
+  },
+  {
+    "id": "117371--2",
+    "name": "ATL-0069: SR 236 / LaVista Rd at Cheshire Bridge Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.81833,
+    "longitude": -84.351715,
+    "imageUrl": "/atl/117371--2"
+  },
+  {
+    "id": "117373--2",
+    "name": "ATL-0070: SR 10/Freedom Pkwy at Ralph McGill Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.768177,
+    "longitude": -84.358635,
+    "imageUrl": "/atl/117373--2"
+  },
+  {
+    "id": "117389--2",
+    "name": "ATL-0071: SR 10 / Freedom Pkwy at North Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.771072,
+    "longitude": -84.35973,
+    "imageUrl": "/atl/117389--2"
+  },
+  {
+    "id": "117394--2",
+    "name": "ATL-0073: North Ave at N Highland Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.771156,
+    "longitude": -84.35263,
+    "imageUrl": "/atl/117394--2"
+  },
+  {
+    "id": "117396--2",
+    "name": "ATL-0076: SR 3 / Metropolitan Pkwy at Atlanta Metropolitan College (Atlanta)",
+    "area": "atl",
+    "latitude": 33.71187,
+    "longitude": -84.4079,
+    "imageUrl": "/atl/117396--2"
+  },
+  {
+    "id": "117397--2",
+    "name": "ATL-0077: SR 3/Metropolitan Pkwy at Lakewood Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.69727,
+    "longitude": -84.40809,
+    "imageUrl": "/atl/117397--2"
+  },
+  {
+    "id": "117402--2",
+    "name": "ATL-0079: SR 3 / Metropolitan Pkwy at Manford Rd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.71828,
+    "longitude": -84.40781,
+    "imageUrl": "/atl/117402--2"
+  },
+  {
+    "id": "117404--2",
+    "name": "ATL-0080: SR 3 / Metropolitan Pkwy at University Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.72225,
+    "longitude": -84.40799,
+    "imageUrl": "/atl/117404--2"
+  },
+  {
+    "id": "117406--2",
+    "name": "ATL-0081: SR 3 / Metropolitan Pkwy at Ralph David Abernathy Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.738365,
+    "longitude": -84.408264,
+    "imageUrl": "/atl/117406--2"
+  },
+  {
+    "id": "117410--2",
+    "name": "ATL-0083: SR 3/Northside Dr at Mitchell St (Atlanta)",
+    "area": "atl",
+    "latitude": 33.753967,
+    "longitude": -84.40287,
+    "imageUrl": "/atl/117410--2"
+  },
+  {
+    "id": "117412--2",
+    "name": "ATL-0084: SR 3/Northside Dr at Ivan Allen Jr Blvd (Atlanta)",
+    "area": "atl",
+    "latitude": 33.76355,
+    "longitude": -84.402916,
+    "imageUrl": "/atl/117412--2"
+  },
+  {
+    "id": "117414--2",
+    "name": "ATL-0085: SR 3/Northside Dr at North Ave (Atlanta)",
+    "area": "atl",
+    "latitude": 33.770203,
+    "longitude": -84.40448,
+    "imageUrl": "/atl/117414--2"
+  },
+  {
+    "id": "117418--2",
+    "name": "ATL-0087: SR 3/Northside Dr at 14th St (Atlanta)",
+    "area": "atl",
+    "latitude": 33.78613,
+    "longitude": -84.40733,
+    "imageUrl": "/atl/117418--2"
+  },
+  {
+    "id": "117419--2",
+    "name": "ATL-0088: SR 3/Northside Dr at 17th St (Atlanta)",
+    "area": "atl",
+    "latitude": 33.7913,
+    "longitude": -84.40811,
+    "imageUrl": "/atl/117419--2"
+  }
+]

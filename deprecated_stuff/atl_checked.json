@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EFF-CAM-001--1",
+    "name": "SR 119 at SR 21 Springfield Bypass",
+    "latitude": 32.366432,
+    "longitude": -81.31826,
+    "liveCameraUrl": false,
+    "siteURL": "/atl/EFF-CAM-001--1",
+    "liveFeedWorks": false
+  },
+  {
+    "id": "118348--2",
+    "name": false,
+    "latitude": 33.672676,
+    "longitude": -83.981895,
+    "liveCameraUrl": false,
+    "siteURL": "/atl/118348--2",
+    "liveFeedWorks": false
+  }
+]

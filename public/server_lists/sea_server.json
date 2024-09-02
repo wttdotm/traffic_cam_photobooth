@@ -175,6 +175,17 @@
     "liveCameraUrl": "https://61e0c5d388c2e.streamlock.net:443/live/15_W_Emerson_NS.stream/playlist.m3u8",
     "siteUrl": "/sea/CMR-0013"
   },
+  "CMR-0010": {
+    "id": "CMR-0010",
+    "latitude": 47.6685143331236,
+    "longitude": -122.376214714437,
+    "area": "sea",
+    "name": "15th Ave NW & NW Market St EW",
+    "isAvailable": true,
+    "originalUrl": "NA",
+    "liveCameraUrl": "https://61e0c5d388c2e.streamlock.net:443/live/15_NW_Market_EW.stream/playlist.m3u8",
+    "siteUrl": "/sea/CMR-0010"
+  },
   "CMR-0292": {
     "id": "CMR-0292",
     "latitude": 47.6376608647405,
@@ -461,6 +472,17 @@
     "liveCameraUrl": "https://61e0c5d388c2e.streamlock.net:443/live/4_Battery_EW.stream/playlist.m3u8",
     "siteUrl": "/sea/CMR-0040"
   },
+  "CMR-0073": {
+    "id": "CMR-0073",
+    "latitude": 47.7232154241878,
+    "longitude": -122.346797387064,
+    "area": "sea",
+    "name": "Aurora Ave N & N 130th St EW",
+    "isAvailable": true,
+    "originalUrl": "NA",
+    "liveCameraUrl": "https://61e0c5d388c2e.streamlock.net:443/live/Aurora_N_130_EW.stream/playlist.m3u8",
+    "siteUrl": "/sea/CMR-0073"
+  },
   "CMR-0079": {
     "id": "CMR-0079",
     "latitude": 47.6905682904906,
@@ -537,6 +559,17 @@
     "originalUrl": "NA",
     "liveCameraUrl": "https://61e0c5d388c2e.streamlock.net:443/live/2_Lenora_NS.stream/playlist.m3u8",
     "siteUrl": "/sea/CMR-0240"
+  },
+  "CMR-0068": {
+    "id": "CMR-0068",
+    "latitude": 47.6357534454735,
+    "longitude": -122.343482563802,
+    "area": "sea",
+    "name": "Aurora Ave N & Howe St",
+    "isAvailable": true,
+    "originalUrl": "NA",
+    "liveCameraUrl": "https://61e0c5d388c2e.streamlock.net:443/live/Aurora_N_Howe_NS.stream/playlist.m3u8",
+    "siteUrl": "/sea/CMR-0068"
   },
   "CMR-0338": {
     "id": "CMR-0338",
