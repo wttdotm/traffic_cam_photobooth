@@ -1,5 +1,4 @@
 const puppeteer = require('puppeteer');
-const cameras = require('../camera_sources/pa_cams.json');
 const testIfStreamReturnsImage = require('../test_scripts/testIfStreamReturnsImage.js')
 const fs = require('fs');
 const tesseract = require("node-tesseract-ocr")
@@ -12,7 +11,13 @@ const config = {
   psm: 3,
 }
 
-const area = 'pa'
+// 511 SETUP
+let urlTemplate = 'https://www.nvroads.com/tooltip/Cameras/'
+let area = 'nv'
+let cameras = require('../camera_sources/nv_camera_list.json')
+
+
+// const area = 'pa'
 
 async function getCameraInfo() {
 
@@ -32,15 +37,15 @@ async function getCameraInfo() {
     let clientArr = []
     console.log(cameras.length)
     //486
-    for (let i = 737; i < cameras.length; i++) {
+    for (let i = 0; i < cameras.length; i++) {
         let camera = cameras[i];
         // console.log(camera)
-        if (!camera.videoUrl) continue
-        let url = `https://nvroads.com/tooltip/Cameras/${camera.DT_RowId}`;
+        // if (!camera.videoUrl) continue
+        let url = urlTemplate + camera.itemId;
 
         try {
             await page.goto(url, { waitUntil: 'networkidle2', timeout: 10000 });
-            let title = camera.displayName;
+            let title = camera?.displayName || 'NONAME'
             let videoURL = false;
             let isAvailable = false;
             let videoWorks = false
@@ -77,7 +82,7 @@ async function getCameraInfo() {
 
             // If stream is available, prepare data objects
             if (videoWorks) {
-                console.log("STREAM AVAIL @", `https://511ga.org/tooltip/Cameras/${camera.itemId}?lang=en-US`);
+                console.log("STREAM AVAIL @", urlTemplate + camera.itemId + 'lang=en-US');
                 let objForServerArr = {
                     id: camera.itemId,
                     latitude: camera.latitude,
@@ -87,7 +92,7 @@ async function getCameraInfo() {
                     isAvailable,
                     originalUrl: url,
                     liveCameraUrl: videoURL,
-                    siteUrl: `/${area}/${camera.DT_RowId}`
+                    siteUrl: `/${area}/${camera.itemId}`
                 };
 
                 let objForClientArr = {
@@ -96,7 +101,7 @@ async function getCameraInfo() {
                     area,
                     latitude: camera.latitude,
                     longitude: camera.longitude,
-                    imageUrl: `/${area}/${camera.DT_RowId}`
+                    imageUrl: `/${area}/${camera.itemId}`
                 };
 
                 serverObj[camera.itemId] = objForServerArr;

@@ -4,25 +4,23 @@ const app = express();
 const port = 6969;
 const ffmpeg = require('fluent-ffmpeg');
 const fs = require('fs');
-const cors = require('cors');
+
 const atl_cameras = require('./server_lists/atl_server.json');
 const sea_cameras = require('./server_lists/sea_server.json');
-
-app.use(cors());
-
-var corsOptions = {
-    origin: 'https://trafficcamphotobooth.com',
-    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
-};
 
 
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.use((err, req, res, next) => {
+    console.error("error occurred", err.stack)
+    res.status(500).send('Something broke!')
+  })
 
-app.get('/api/:area/:cameraID', cors(corsOptions), (req, res) => {
+app.get('/api/:area/:cameraID', (req, res) => {
     let cameraID = req.params.cameraID;
     let area = req.params.area;
     let cameraUrl;
+    console.log(req.params)
     switch (area) {
         case 'sea':
             cameraUrl = sea_cameras[cameraID].liveCameraUrl;

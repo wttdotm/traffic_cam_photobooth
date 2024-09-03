@@ -6,11 +6,13 @@ const fs = require('fs');
 const testIfStreamReturnsImage = require('./testIfStreamReturnsImage.js')
 console.log(testIfStreamReturnsImage)
 const cors = require('cors');
-const atl_cameras = require('../server_lists/atl_server.json');
+// const atl_cameras = require('../server_lists/atl_server.json');
 const sea_cameras = require('../server_lists/sea_server.json');
 
 const testedClientArr = {}
 const testedServerObj = []
+
+let area = 'atl'
 
 const convertServerObjToClientObj = (cam) => {
     return {
@@ -86,4 +88,4 @@ async function checkCameras (cameraObj) {
     }
 }
 
-checkCameras(atl_cameras)
+checkCameras(sea_cameras)

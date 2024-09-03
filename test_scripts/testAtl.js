@@ -6,12 +6,12 @@ const fs = require('fs');
 const testIfStreamReturnsImage = require('./testIfStreamReturnsImage.js')
 console.log(testIfStreamReturnsImage)
 const cors = require('cors');
-const atl_cameras = require('../server_lists/atl_server.json');
-// const sea_cameras = require('../server_lists/sea_server.json');
+// const atl_cameras = require('../server_lists/atl_server.json');
+const sea_cameras = require('../server_lists/sea_server.json');
 // const pa_cameras = require('../server_lists/pa_server.json');
 
-const testedClientArr = {}
-const testedServerObj = []
+const testedClientArr = []
+const testedServerObj = {}
 
 const convertServerObjToClientObj = (cam) => {
     return {
@@ -32,9 +32,10 @@ async function checkCameras (cameraObj) {
         total++
         let thisCam = cameraObj[camera]
         const works = await testIfStreamReturnsImage(thisCam.liveCameraUrl)
-        if (works) numThatWork++
-        else console.log(camera)
-        console.log(works, total, numThatWork, objLength)
+        console.log(works)
+
+        // else console.log(camera)
+        // console.log(works, total, numThatWork, objLength)
         // // console.log(atl_cameras[camera])
         // let ffmpegCommand
 
@@ -75,8 +76,8 @@ async function checkCameras (cameraObj) {
 
         //           ffmpegCommand.pipe();
         // });
-
-        if (works === 'success') {
+        if (works) {
+            numThatWork++
             testedClientArr.push(convertServerObjToClientObj(thisCam))
             testedServerObj[camera] = thisCam
 
@@ -85,10 +86,11 @@ async function checkCameras (cameraObj) {
             fs.writeFileSync(`./${thisCam.area}_server_tested.json`, stringifiedServerObjData);
 
             let stringifiedClientArrData = JSON.stringify(testedClientArr, null, 2);
-            fs.writeFileSync(`./${thisCam.area}_client_tested.json`, stringifiedClientArrData);
+            stringifiedClientArrData = `let ${thisCam.area}_cameras = ${stringifiedClientArrData}`
+            fs.writeFileSync(`./${thisCam.area}_client_tested.js`, stringifiedClientArrData);
         }
         console.log(`NumWork: ${numThatWork} / NumDone: ${total} / Total: ${objLength} || ${thisCam.id}, ${works}, ${thisCam.originalUrl}`)      
     }
 }
 
-checkCameras(pa_cameras)
+checkCameras(sea_cameras)

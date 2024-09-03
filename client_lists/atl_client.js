@@ -1,4 +1,4 @@
-[
+let atl_cameras = [
   {
     "id": "119172--2",
     "name": "GDOT-0028: I-75 N before WPacesFerryRd MM 254.9 (Fulton)",
@@ -544,22 +544,6 @@
     "imageUrl": "/atl/119329--2"
   },
   {
-    "id": "119331--2",
-    "name": "GDOT-0110: I-85 S at PleasantHillRd MM 104 (Gwinnett)",
-    "area": "atl",
-    "latitude": 33.952722,
-    "longitude": -84.129997,
-    "imageUrl": "/atl/119331--2"
-  },
-  {
-    "id": "119333--2",
-    "name": "GDOT-0112: I-85 S past FloweryBranchRd MM 122.5 (Gwinnett)",
-    "area": "atl",
-    "latitude": 34.083443,
-    "longitude": -83.871189,
-    "imageUrl": "/atl/119333--2"
-  },
-  {
     "id": "119335--2",
     "name": "GDOT-0113: I-75/I-85 N at SR54 MM 244.8 (Fulton)",
     "area": "atl",
@@ -710,22 +694,6 @@
     "latitude": 34.001925,
     "longitude": -84.073386,
     "imageUrl": "/atl/119371--2"
-  },
-  {
-    "id": "119373--2",
-    "name": "GDOT-0134: I-85 S before FloweryBranchRd MM 123.4 (Gwinnett)",
-    "area": "atl",
-    "latitude": 34.085576,
-    "longitude": -83.856515,
-    "imageUrl": "/atl/119373--2"
-  },
-  {
-    "id": "119375--2",
-    "name": "GDOT-0135: I-85 S past SR211 MM 125.8 (Barrow)",
-    "area": "atl",
-    "latitude": 34.09638,
-    "longitude": -83.81586,
-    "imageUrl": "/atl/119375--2"
   },
   {
     "id": "119377--2",
@@ -1104,14 +1072,6 @@
     "imageUrl": "/atl/119488--2"
   },
   {
-    "id": "119490--2",
-    "name": "GDOT-0193: I-85 S at SR279 MM 69.4 (Fulton)",
-    "area": "atl",
-    "latitude": 33.62105,
-    "longitude": -84.47503,
-    "imageUrl": "/atl/119490--2"
-  },
-  {
     "id": "119492--2",
     "name": "GDOT-0194: I-85 S at I-285 MM 69.9 (Fulton)",
     "area": "atl",
@@ -1158,14 +1118,6 @@
     "latitude": 33.63875,
     "longitude": -84.45623,
     "imageUrl": "/atl/119503--2"
-  },
-  {
-    "id": "119504--2",
-    "name": "GDOT-0200: I-285 CCW at ChambleeDunwoodyRd MM 30.6 (DeKalb)",
-    "area": "atl",
-    "latitude": 33.920588,
-    "longitude": -84.315975,
-    "imageUrl": "/atl/119504--2"
   },
   {
     "id": "119508--2",
@@ -1230,22 +1182,6 @@
     "latitude": 33.92054,
     "longitude": -84.311081,
     "imageUrl": "/atl/119546--2"
-  },
-  {
-    "id": "119552--2",
-    "name": "GDOT-0225: I-285 CCW at NShallowfordRd MM 31.4 (DeKalb)",
-    "area": "atl",
-    "latitude": 33.920556,
-    "longitude": -84.301197,
-    "imageUrl": "/atl/119552--2"
-  },
-  {
-    "id": "119554--2",
-    "name": "GDOT-0226: I-285 CCW at NPeachtreeRd MM 31.7 (DeKalb)",
-    "area": "atl",
-    "latitude": 33.920219,
-    "longitude": -84.296431,
-    "imageUrl": "/atl/119554--2"
   },
   {
     "id": "119558--2",
@@ -1432,22 +1368,6 @@
     "imageUrl": "/atl/119617--2"
   },
   {
-    "id": "119619--2",
-    "name": "GDOT-0264: I-285 CCW at ColumbiaDr MM 48.7 (DeKalb)",
-    "area": "atl",
-    "latitude": 33.70145,
-    "longitude": -84.2522,
-    "imageUrl": "/atl/119619--2"
-  },
-  {
-    "id": "119620--2",
-    "name": "GDOT-0265: I-285 CCW at SR155 MM 49.4 (DeKalb)",
-    "area": "atl",
-    "latitude": 33.698679,
-    "longitude": -84.265389,
-    "imageUrl": "/atl/119620--2"
-  },
-  {
     "id": "119621--2",
     "name": "GDOT-0266: I-285 CW past SR155 MM 49.9 (DeKalb)",
     "area": "atl",
@@ -1518,14 +1438,6 @@
     "latitude": 33.667554,
     "longitude": -84.340625,
     "imageUrl": "/atl/119637--2"
-  },
-  {
-    "id": "119639--2",
-    "name": "GDOT-0275: I-285 CCW at ForrestParkRd MM 55.3 (Fulton)",
-    "area": "atl",
-    "latitude": 33.662107,
-    "longitude": -84.353594,
-    "imageUrl": "/atl/119639--2"
   },
   {
     "id": "119641--2",
@@ -1824,14 +1736,6 @@
     "imageUrl": "/atl/119746--2"
   },
   {
-    "id": "119754--2",
-    "name": "GDOT-0844: SR400/US19 S at SR120 MM 19.5 (Fulton)",
-    "area": "atl",
-    "latitude": 34.068447,
-    "longitude": -84.272316,
-    "imageUrl": "/atl/119754--2"
-  },
-  {
     "id": "119756--2",
     "name": "GDOT-0900: I-575 S at MarbleQuarryRd MM 13.2 (Cherokee)",
     "area": "atl",
@@ -1864,14 +1768,6 @@
     "imageUrl": "/atl/119765--2"
   },
   {
-    "id": "119768--2",
-    "name": "GDOT-0905: I-575 N before SR140 MM 16.4 (Cherokee)",
-    "area": "atl",
-    "latitude": 34.211294,
-    "longitude": -84.491636,
-    "imageUrl": "/atl/119768--2"
-  },
-  {
     "id": "119770--2",
     "name": "GDOT-0906: I-575 N before SR140 MM 16.7 (Cherokee)",
     "area": "atl",
@@ -1902,14 +1798,6 @@
     "latitude": 34.225922,
     "longitude": -84.479423,
     "imageUrl": "/atl/119776--2"
-  },
-  {
-    "id": "119778--2",
-    "name": "GDOT-0910: I-575 N before SR20 MM 18.4 (Cherokee)",
-    "area": "atl",
-    "latitude": 34.230359,
-    "longitude": -84.468786,
-    "imageUrl": "/atl/119778--2"
   },
   {
     "id": "119780--2",
@@ -1968,14 +1856,6 @@
     "imageUrl": "/atl/119793--2"
   },
   {
-    "id": "119795--2",
-    "name": "GDOT-0919: I-575 S before AirportDr MM 24.8 (Cherokee)",
-    "area": "atl",
-    "latitude": 34.30385,
-    "longitude": -84.42015,
-    "imageUrl": "/atl/119795--2"
-  },
-  {
     "id": "119797--2",
     "name": "GDOT-0920: I-575 N before HowellBridgeRd MM 26.6 (Cherokee)",
     "area": "atl",
@@ -2008,44 +1888,12 @@
     "imageUrl": "/atl/119803--2"
   },
   {
-    "id": "119805--2",
-    "name": "GDOT-0972: I-985 S past WoodwardMillRd MM 1.3 (Gwinnett)",
-    "area": "atl",
-    "latitude": 34.060133,
-    "longitude": -84.019966,
-    "imageUrl": "/atl/119805--2"
-  },
-  {
-    "id": "119807--2",
-    "name": "GDOT-0973: I-985 S at WoodwardMillRd MM 2.1 (Gwinnett)",
-    "area": "atl",
-    "latitude": 34.066867,
-    "longitude": -84.010555,
-    "imageUrl": "/atl/119807--2"
-  },
-  {
-    "id": "119809--2",
-    "name": "GDOT-0974: I-985 S at US23 MM 3.8 (Gwinnett)",
-    "area": "atl",
-    "latitude": 34.087139,
-    "longitude": -83.994011,
-    "imageUrl": "/atl/119809--2"
-  },
-  {
     "id": "119811--2",
     "name": "GDOT-0975: I-985 S before US23 MM 4.7 (Gwinnett)",
     "area": "atl",
     "latitude": 34.098583,
     "longitude": -83.986957,
     "imageUrl": "/atl/119811--2"
-  },
-  {
-    "id": "119813--2",
-    "name": "GDOT-0976: I-985 N at HamiltonMillRd MM 5.3 (Gwinnett)",
-    "area": "atl",
-    "latitude": 34.106757,
-    "longitude": -83.98125,
-    "imageUrl": "/atl/119813--2"
   },
   {
     "id": "119815--2",
@@ -2064,14 +1912,6 @@
     "imageUrl": "/atl/119816--2"
   },
   {
-    "id": "119818--2",
-    "name": "GDOT-0979: I-985 S at SR347 MM 8.2 (Hall)",
-    "area": "atl",
-    "latitude": 34.140193,
-    "longitude": -83.95092,
-    "imageUrl": "/atl/119818--2"
-  },
-  {
     "id": "119820--2",
     "name": "GDOT-0980: I-985 N before SpoutSpringsRd MM 10.9 (Hall)",
     "area": "atl",
@@ -2080,28 +1920,12 @@
     "imageUrl": "/atl/119820--2"
   },
   {
-    "id": "119824--2",
-    "name": "GDOT-0982: I-985 S at WadeOrrRd MM 10.1 (Hall)",
-    "area": "atl",
-    "latitude": 34.160169,
-    "longitude": -83.927867,
-    "imageUrl": "/atl/119824--2"
-  },
-  {
     "id": "119826--2",
     "name": "GDOT-0983: I-985 N at SpoutSpringsRd MM 11.7 (Hall)",
     "area": "atl",
     "latitude": 34.179306,
     "longitude": -83.91353,
     "imageUrl": "/atl/119826--2"
-  },
-  {
-    "id": "119828--2",
-    "name": "GDOT-0984: I-985 N at ReedIndustrialPkwy MM 13.6 (Hall)",
-    "area": "atl",
-    "latitude": 34.201891,
-    "longitude": -83.892274,
-    "imageUrl": "/atl/119828--2"
   },
   {
     "id": "119830--2",
@@ -2128,14 +1952,6 @@
     "imageUrl": "/atl/119836--2"
   },
   {
-    "id": "119838--2",
-    "name": "GDOT-0990: I-985 N before SR60 MM 19.4 (Hall)",
-    "area": "atl",
-    "latitude": 34.258401,
-    "longitude": -83.821683,
-    "imageUrl": "/atl/119838--2"
-  },
-  {
     "id": "119839--2",
     "name": "GDOT-0991: I-985 N before SR60 MM 19.7 (Hall)",
     "area": "atl",
@@ -2160,36 +1976,12 @@
     "imageUrl": "/atl/119841--2"
   },
   {
-    "id": "119843--2",
-    "name": "GDOT-0995: I-985 N after SR11/US129 MM 22.1 (Hall)",
-    "area": "atl",
-    "latitude": 34.292284,
-    "longitude": -83.799958,
-    "imageUrl": "/atl/119843--2"
-  },
-  {
-    "id": "119844--2",
-    "name": "GDOT-0996: I-985 S before AthensSt MM 22.5 (Hall)",
-    "area": "atl",
-    "latitude": 34.2978,
-    "longitude": -83.798806,
-    "imageUrl": "/atl/119844--2"
-  },
-  {
     "id": "119845--2",
     "name": "GDOT-0997: I-985 S past OldCorneliaHwy MM 23.2 (Hall)",
     "area": "atl",
     "latitude": 34.306109,
     "longitude": -83.791304,
     "imageUrl": "/atl/119845--2"
-  },
-  {
-    "id": "119846--2",
-    "name": "GDOT-0998: I-985 N at US129 MM 24 (Hall)",
-    "area": "atl",
-    "latitude": 34.315942,
-    "longitude": -83.788326,
-    "imageUrl": "/atl/119846--2"
   },
   {
     "id": "119847--2",
@@ -2216,22 +2008,6 @@
     "imageUrl": "/atl/119850--2"
   },
   {
-    "id": "119852--2",
-    "name": "GDOT-1094: SR1/US27 S at TalbottonRd MM 9.1 (Muscogee)",
-    "area": "atl",
-    "latitude": 32.481165,
-    "longitude": -84.987864,
-    "imageUrl": "/atl/119852--2"
-  },
-  {
-    "id": "119853--2",
-    "name": "GDOT-1095: SR1/US27 S at WhitesvilleRd MM 12.5 (Muscogee)",
-    "area": "atl",
-    "latitude": 32.525939,
-    "longitude": -84.961926,
-    "imageUrl": "/atl/119853--2"
-  },
-  {
     "id": "119855--2",
     "name": "GDOT-1099: I-185 N at US27 MM 0 (Muscogee)",
     "area": "atl",
@@ -2246,22 +2022,6 @@
     "latitude": 32.416535,
     "longitude": -84.927216,
     "imageUrl": "/atl/119856--2"
-  },
-  {
-    "id": "119858--2",
-    "name": "GDOT-1103: SR34 E at SR34 MM 14.2 (Coweta)",
-    "area": "atl",
-    "latitude": 33.395265,
-    "longitude": -84.761166,
-    "imageUrl": "/atl/119858--2"
-  },
-  {
-    "id": "119859--2",
-    "name": "GDOT-1104: SR34 E at US29 MM 3.8 (Coweta)",
-    "area": "atl",
-    "latitude": 33.399173,
-    "longitude": -84.796615,
-    "imageUrl": "/atl/119859--2"
   },
   {
     "id": "119861--2",
@@ -2608,14 +2368,6 @@
     "imageUrl": "/atl/119911--2"
   },
   {
-    "id": "119912--2",
-    "name": "GWIN-034_138: PIB at Pleasant Hill Rd",
-    "area": "atl",
-    "latitude": 34.00420498,
-    "longitude": -84.16990063,
-    "imageUrl": "/atl/119912--2"
-  },
-  {
     "id": "119913--2",
     "name": "GWIN-035_153: PIB at SR 120",
     "area": "atl",
@@ -2728,14 +2480,6 @@
     "imageUrl": "/atl/119927--2"
   },
   {
-    "id": "119928--2",
-    "name": "GWIN-050_439: US 29 at Lawrenceville-Suwanee Rd",
-    "area": "atl",
-    "latitude": 33.93813598,
-    "longitude": -84.02754608,
-    "imageUrl": "/atl/119928--2"
-  },
-  {
     "id": "119929--2",
     "name": "GWIN-051_509: SR 124 at Snellville Pavilion",
     "area": "atl",
@@ -2760,14 +2504,6 @@
     "imageUrl": "/atl/119931--2"
   },
   {
-    "id": "119932--2",
-    "name": "GWIN-054_236: SR 124 at Stratford Dr",
-    "area": "atl",
-    "latitude": 33.89286113,
-    "longitude": -84.00801193,
-    "imageUrl": "/atl/119932--2"
-  },
-  {
     "id": "119933--2",
     "name": "GWIN-055_525: SR 124 at Essex Dr",
     "area": "atl",
@@ -2790,14 +2526,6 @@
     "latitude": 33.94031998,
     "longitude": -83.99282374,
     "imageUrl": "/atl/119935--2"
-  },
-  {
-    "id": "119936--2",
-    "name": "GWIN-058_026: SR 124 at SR 20",
-    "area": "atl",
-    "latitude": 33.94725868,
-    "longitude": -83.98580568,
-    "imageUrl": "/atl/119936--2"
   },
   {
     "id": "119937--2",
@@ -3104,14 +2832,6 @@
     "imageUrl": "/atl/119977--2"
   },
   {
-    "id": "119979--2",
-    "name": "GWIN-101_073: US 78 at Stone Dr",
-    "area": "atl",
-    "latitude": 33.82621187,
-    "longitude": -84.09716648,
-    "imageUrl": "/atl/119979--2"
-  },
-  {
     "id": "119980--2",
     "name": "GWIN-102_196: US 78 at Lake Lucerne Dr",
     "area": "atl",
@@ -3352,14 +3072,6 @@
     "imageUrl": "/atl/120009--2"
   },
   {
-    "id": "120010--2",
-    "name": "GWIN-132_431: Sugarloaf Pkwy at Meadow Church Rd",
-    "area": "atl",
-    "latitude": 33.99830086,
-    "longitude": -84.09350463,
-    "imageUrl": "/atl/120010--2"
-  },
-  {
     "id": "120011--2",
     "name": "GWIN-133_569: Sugarloaf Pkwy at Iec Midblock",
     "area": "atl",
@@ -3446,14 +3158,6 @@
     "latitude": 33.91919631,
     "longitude": -83.9725838,
     "imageUrl": "/atl/120021--2"
-  },
-  {
-    "id": "120024--2",
-    "name": "GWIN-146_063: Pleasant Hill Rd at Ronald Reagan Pkwy",
-    "area": "atl",
-    "latitude": 33.91440708,
-    "longitude": -84.11413847,
-    "imageUrl": "/atl/120024--2"
   },
   {
     "id": "120025--2",
@@ -3576,14 +3280,6 @@
     "imageUrl": "/atl/120039--2"
   },
   {
-    "id": "120040--2",
-    "name": "GWIN-162_612: SR 124 at Centerville Es",
-    "area": "atl",
-    "latitude": 33.82126749,
-    "longitude": -84.03370043,
-    "imageUrl": "/atl/120040--2"
-  },
-  {
     "id": "120041--2",
     "name": "GWIN-163_272: SR 124 at Everson Rd",
     "area": "atl",
@@ -3608,28 +3304,12 @@
     "imageUrl": "/atl/120043--2"
   },
   {
-    "id": "120044--2",
-    "name": "GWIN-166_296: SR 20 at Cooper Rd",
-    "area": "atl",
-    "latitude": 33.8807798,
-    "longitude": -83.93797973,
-    "imageUrl": "/atl/120044--2"
-  },
-  {
     "id": "120045--2",
     "name": "GWIN-167_296: SR 20 at Ozora Rd",
     "area": "atl",
     "latitude": 33.88530352,
     "longitude": -83.94403094,
     "imageUrl": "/atl/120045--2"
-  },
-  {
-    "id": "120046--2",
-    "name": "GWIN-168_652: SR 20 at Herring Rd",
-    "area": "atl",
-    "latitude": 33.8909782,
-    "longitude": -83.95006033,
-    "imageUrl": "/atl/120046--2"
   },
   {
     "id": "120047--2",
@@ -4080,28 +3760,12 @@
     "imageUrl": "/atl/120109--2"
   },
   {
-    "id": "120110--2",
-    "name": "GWIN-232_682: US 78 at Logan Dr",
-    "area": "atl",
-    "latitude": 33.84417383,
-    "longitude": -83.90902143,
-    "imageUrl": "/atl/120110--2"
-  },
-  {
     "id": "120112--2",
     "name": "GWIN-234_682: Suwanee Dam Rd at Delay Ln",
     "area": "atl",
     "latitude": 34.06025441,
     "longitude": -84.06940465,
     "imageUrl": "/atl/120112--2"
-  },
-  {
-    "id": "120113--2",
-    "name": "GWIN-235_581: Suwanee Dam Rd at Peachtree Industrial Blvd",
-    "area": "atl",
-    "latitude": 34.06267698,
-    "longitude": -84.07471193,
-    "imageUrl": "/atl/120113--2"
   },
   {
     "id": "120114--2",
@@ -4182,14 +3846,6 @@
     "latitude": 33.8244683,
     "longitude": -84.10496894,
     "imageUrl": "/atl/120125--2"
-  },
-  {
-    "id": "120126--2",
-    "name": "GWIN-248_359: Jimmy Carter Blvd at Goshen Springs Rd",
-    "area": "atl",
-    "latitude": 33.91548372,
-    "longitude": -84.20879496,
-    "imageUrl": "/atl/120126--2"
   },
   {
     "id": "120128--2",
@@ -4422,14 +4078,6 @@
     "latitude": 33.92583839,
     "longitude": -84.06251861,
     "imageUrl": "/atl/120160--2"
-  },
-  {
-    "id": "120161--2",
-    "name": "GWIN-283_231: US 29 at Beaver Ruin Village Sc",
-    "area": "atl",
-    "latitude": 33.90342951,
-    "longitude": -84.1185865,
-    "imageUrl": "/atl/120161--2"
   },
   {
     "id": "120162--2",
@@ -5024,14 +4672,6 @@
     "imageUrl": "/atl/120247--2"
   },
   {
-    "id": "120248--2",
-    "name": "GWIN-378_558: Sugarloaf Pkwy at Campbell Rd",
-    "area": "atl",
-    "latitude": 33.96299132,
-    "longitude": -83.90917128,
-    "imageUrl": "/atl/120248--2"
-  },
-  {
     "id": "120249--2",
     "name": "GWIN-379_684: SR 120 at Hampton Woods Way",
     "area": "atl",
@@ -5112,14 +4752,6 @@
     "imageUrl": "/atl/120258--2"
   },
   {
-    "id": "120260--2",
-    "name": "GWIN-390_760: Rogers Bridge Rd at Main St",
-    "area": "atl",
-    "latitude": 34.01096202,
-    "longitude": -84.13245476,
-    "imageUrl": "/atl/120260--2"
-  },
-  {
     "id": "120261--2",
     "name": "GWIN-391_284: SR 20 at Taylor School Rd",
     "area": "atl",
@@ -5190,14 +4822,6 @@
     "latitude": 33.88505129,
     "longitude": -84.19182097,
     "imageUrl": "/atl/120274--2"
-  },
-  {
-    "id": "120275--2",
-    "name": "GWIN-405_081: SR 317 at Smithtown Rd",
-    "area": "atl",
-    "latitude": 34.04623522,
-    "longitude": -84.05847858,
-    "imageUrl": "/atl/120275--2"
   },
   {
     "id": "120276--2",
@@ -5528,14 +5152,6 @@
     "imageUrl": "/atl/120353--2"
   },
   {
-    "id": "120355--2",
-    "name": "GWIN-540_198: Pleasant Hill Rd at Berkmar HS",
-    "area": "atl",
-    "latitude": 33.90804213,
-    "longitude": -84.11234431,
-    "imageUrl": "/atl/120355--2"
-  },
-  {
     "id": "120361--2",
     "name": "GWIN-546_422: W Pike St at Phoenix Hs",
     "area": "atl",
@@ -5824,14 +5440,6 @@
     "imageUrl": "/atl/120406--2"
   },
   {
-    "id": "120407--2",
-    "name": "COBB-1262: Barrett Pkwy at Macedonia Rd",
-    "area": "atl",
-    "latitude": 33.8711,
-    "longitude": -84.6346,
-    "imageUrl": "/atl/120407--2"
-  },
-  {
     "id": "120408--2",
     "name": "COBB-0776: Barrett Pkwy at Mall Blvd",
     "area": "atl",
@@ -6062,14 +5670,6 @@
     "latitude": 33.896,
     "longitude": -84.47,
     "imageUrl": "/atl/120439--2"
-  },
-  {
-    "id": "120440--2",
-    "name": "COBB-1102: Circle 75 Pkwy at Pedestrian Bridge",
-    "area": "atl",
-    "latitude": 33.8876,
-    "longitude": -84.4693,
-    "imageUrl": "/atl/120440--2"
   },
   {
     "id": "120442--2",
@@ -6792,14 +6392,6 @@
     "imageUrl": "/atl/120556--2"
   },
   {
-    "id": "120557--2",
-    "name": "COBB-1198: McCollum Pkwy at Cirrus Way",
-    "area": "atl",
-    "latitude": 34.0175,
-    "longitude": -84.6007,
-    "imageUrl": "/atl/120557--2"
-  },
-  {
     "id": "120558--2",
     "name": "COBB-0881: McCollum Pkwy at Old 41 Hwy",
     "area": "atl",
@@ -7448,14 +7040,6 @@
     "imageUrl": "/atl/120642--2"
   },
   {
-    "id": "120644--2",
-    "name": "COBB-0985: Villa Rica Rd at West Sandtown Rd",
-    "area": "atl",
-    "latitude": 33.9268,
-    "longitude": -84.638,
-    "imageUrl": "/atl/120644--2"
-  },
-  {
     "id": "120645--2",
     "name": "COBB-1167: Wade Green Rd at I-75 S",
     "area": "atl",
@@ -7494,14 +7078,6 @@
     "latitude": 33.9043,
     "longitude": -84.4679,
     "imageUrl": "/atl/120649--2"
-  },
-  {
-    "id": "120650--2",
-    "name": "COBB-1097: Windy Hill Rd at South Cobb Dr Looking South",
-    "area": "atl",
-    "latitude": 33.8947,
-    "longitude": -84.5389,
-    "imageUrl": "/atl/120650--2"
   },
   {
     "id": "120651--2",
@@ -8912,14 +8488,6 @@
     "imageUrl": "/atl/120863--2"
   },
   {
-    "id": "120864--2",
-    "name": "GDOT-0550: I-85 N at LenoxRd MM 88 (Fulton)",
-    "area": "atl",
-    "latitude": 33.823689,
-    "longitude": -84.35144,
-    "imageUrl": "/atl/120864--2"
-  },
-  {
     "id": "120865--2",
     "name": "GDOT-0551: I-85 S past SR42/NDruidHillsRd MM 88.9 (DeKalb)",
     "area": "atl",
@@ -9158,14 +8726,6 @@
     "latitude": 33.995148,
     "longitude": -84.205601,
     "imageUrl": "/atl/120900--2"
-  },
-  {
-    "id": "120901--2",
-    "name": "GDOT-0587: SR141 N at MedlockBridgeRd MM 4.8 (Gwinnett)",
-    "area": "atl",
-    "latitude": 33.982831,
-    "longitude": -84.213848,
-    "imageUrl": "/atl/120901--2"
   },
   {
     "id": "120902--2",
@@ -9528,14 +9088,6 @@
     "imageUrl": "/atl/120949--2"
   },
   {
-    "id": "120950--2",
-    "name": "GDOT-0651: I-285 CCW at SR139 MM 61.3 (Clayton)",
-    "area": "atl",
-    "latitude": 33.617323,
-    "longitude": -84.435704,
-    "imageUrl": "/atl/120950--2"
-  },
-  {
     "id": "120951--2",
     "name": "GDOT-0652: I-285 CCW at 5thRunwayTunnel MM 61.1 (Clayton)",
     "area": "atl",
@@ -9672,14 +9224,6 @@
     "imageUrl": "/atl/120972--2"
   },
   {
-    "id": "120973--2",
-    "name": "GDOT-1147: I-20 W at SR20 MM 82 (Rockdale)",
-    "area": "atl",
-    "latitude": 33.653707,
-    "longitude": -84.004979,
-    "imageUrl": "/atl/120973--2"
-  },
-  {
     "id": "120974--2",
     "name": "GDOT-1148: I-20 E at SalemRd MM 84 (Rockdale)",
     "area": "atl",
@@ -9728,36 +9272,12 @@
     "imageUrl": "/atl/120979--2"
   },
   {
-    "id": "120980--2",
-    "name": "GDOT-1154: I-20 W before FearsRd MM 108.2 (Morgan)",
-    "area": "atl",
-    "latitude": 33.579536,
-    "longitude": -83.575762,
-    "imageUrl": "/atl/120980--2"
-  },
-  {
     "id": "120981--2",
     "name": "GDOT-1155: I-20 E at US441 MM 114.4 (Morgan)",
     "area": "atl",
     "latitude": 33.554989,
     "longitude": -83.474867,
     "imageUrl": "/atl/120981--2"
-  },
-  {
-    "id": "120982--2",
-    "name": "GDOT-1156: I-20 E before CareyStationRd MM 126.6 (Greene)",
-    "area": "atl",
-    "latitude": 33.534409,
-    "longitude": -83.26773,
-    "imageUrl": "/atl/120982--2"
-  },
-  {
-    "id": "120983--2",
-    "name": "GDOT-1157: I-20 E at SR44 MM 130.3 (Greene)",
-    "area": "atl",
-    "latitude": 33.545823,
-    "longitude": -83.206262,
-    "imageUrl": "/atl/120983--2"
   },
   {
     "id": "120984--2",
@@ -9816,14 +9336,6 @@
     "imageUrl": "/atl/120991--2"
   },
   {
-    "id": "120992--2",
-    "name": "GDOT-1167: I-20 E at SR28 MM 199.3 (Richmond)",
-    "area": "atl",
-    "latitude": 33.512285,
-    "longitude": -82.042298,
-    "imageUrl": "/atl/120992--2"
-  },
-  {
     "id": "120994--2",
     "name": "GDOT-1169: I-75 N past US41 MM 22.4 (Lowndes)",
     "area": "atl",
@@ -9864,14 +9376,6 @@
     "imageUrl": "/atl/120998--2"
   },
   {
-    "id": "120999--2",
-    "name": "GDOT-1174: I-75 N at US341 MM 136.3 (Houston)",
-    "area": "atl",
-    "latitude": 32.47106,
-    "longitude": -83.743804,
-    "imageUrl": "/atl/120999--2"
-  },
-  {
     "id": "121000--2",
     "name": "GDOT-1175: I-75 S at RockyCreekRd MM 159.9 (Bibb)",
     "area": "atl",
@@ -9894,14 +9398,6 @@
     "latitude": 32.988784,
     "longitude": -83.841133,
     "imageUrl": "/atl/121002--2"
-  },
-  {
-    "id": "121003--2",
-    "name": "GDOT-1178: I-75 S before RumbleRd MM 181.6 (Monroe)",
-    "area": "atl",
-    "latitude": 32.999021,
-    "longitude": -83.85837,
-    "imageUrl": "/atl/121003--2"
   },
   {
     "id": "121004--2",
@@ -9934,14 +9430,6 @@
     "latitude": 33.060504,
     "longitude": -83.960167,
     "imageUrl": "/atl/121007--2"
-  },
-  {
-    "id": "121008--2",
-    "name": "GDOT-1183: I-75 N past SR42 MM 188.9 (Monroe)",
-    "area": "atl",
-    "latitude": 33.061102,
-    "longitude": -83.961002,
-    "imageUrl": "/atl/121008--2"
   },
   {
     "id": "121009--2",
@@ -10000,14 +9488,6 @@
     "imageUrl": "/atl/121016--2"
   },
   {
-    "id": "121018--2",
-    "name": "GDOT-1193: I-75 N at SR16 MM 205.2 (Butts)",
-    "area": "atl",
-    "latitude": 33.262021,
-    "longitude": -84.093948,
-    "imageUrl": "/atl/121018--2"
-  },
-  {
     "id": "121019--2",
     "name": "GDOT-1194: I-75 N at SR22 MM 207 (Spalding)",
     "area": "atl",
@@ -10048,36 +9528,12 @@
     "imageUrl": "/atl/121023--2"
   },
   {
-    "id": "121024--2",
-    "name": "GDOT-1199: I-75 N at CherokeeSt MM 278.1 (Bartow)",
-    "area": "atl",
-    "latitude": 34.080976,
-    "longitude": -84.676104,
-    "imageUrl": "/atl/121024--2"
-  },
-  {
     "id": "121025--2",
     "name": "GDOT-1200: I-75 S at OldAllatoonaRd MM 283.2 (Bartow)",
     "area": "atl",
     "latitude": 34.118406,
     "longitude": -84.739617,
     "imageUrl": "/atl/121025--2"
-  },
-  {
-    "id": "121026--2",
-    "name": "GDOT-1202: I-75 N at SR113 MM 287.5 (Bartow)",
-    "area": "atl",
-    "latitude": 34.174946,
-    "longitude": -84.758723,
-    "imageUrl": "/atl/121026--2"
-  },
-  {
-    "id": "121028--2",
-    "name": "GDOT-1204: I-75 S at US411 MM 293.2 (Bartow)",
-    "area": "atl",
-    "latitude": 34.244921,
-    "longitude": -84.773135,
-    "imageUrl": "/atl/121028--2"
   },
   {
     "id": "121030--2",
@@ -10136,28 +9592,12 @@
     "imageUrl": "/atl/121037--2"
   },
   {
-    "id": "121038--2",
-    "name": "GDOT-1218: I-75 S at SR201 MM 337.4 (Whitfield)",
-    "area": "atl",
-    "latitude": 34.815317,
-    "longitude": -85.018011,
-    "imageUrl": "/atl/121038--2"
-  },
-  {
     "id": "121039--2",
     "name": "GDOT-1219: I-75 N at SR201 MM 340.6 (Whitfield)",
     "area": "atl",
     "latitude": 34.85929,
     "longitude": -85.022692,
     "imageUrl": "/atl/121039--2"
-  },
-  {
-    "id": "121040--2",
-    "name": "GDOT-1221: I-75 S at SR52 MM 343.6 (Catoosa)",
-    "area": "atl",
-    "latitude": 34.88666,
-    "longitude": -85.063614,
-    "imageUrl": "/atl/121040--2"
   },
   {
     "id": "121042--2",
@@ -10184,14 +9624,6 @@
     "imageUrl": "/atl/121045--2"
   },
   {
-    "id": "121046--2",
-    "name": "GDOT-1229: I-85 S before HinesRd MM 23.5 (Troup)",
-    "area": "atl",
-    "latitude": 33.099533,
-    "longitude": -84.907734,
-    "imageUrl": "/atl/121046--2"
-  },
-  {
     "id": "121047--2",
     "name": "GDOT-1230: I-85 S at US29 MM 35.1 (Coweta)",
     "area": "atl",
@@ -10208,14 +9640,6 @@
     "imageUrl": "/atl/121048--2"
   },
   {
-    "id": "121049--2",
-    "name": "GDOT-1232: I-85 S at SR34 MM 46.5 (Coweta)",
-    "area": "atl",
-    "latitude": 33.396343,
-    "longitude": -84.749696,
-    "imageUrl": "/atl/121049--2"
-  },
-  {
     "id": "121050--2",
     "name": "GDOT-1235: I-85 N at US129 MM 136.6 (Jackson)",
     "area": "atl",
@@ -10230,14 +9654,6 @@
     "latitude": 34.186252,
     "longitude": -83.594434,
     "imageUrl": "/atl/121051--2"
-  },
-  {
-    "id": "121052--2",
-    "name": "GDOT-1237: I-85 N at US441 MM 149.2 (Banks)",
-    "area": "atl",
-    "latitude": 34.254521,
-    "longitude": -83.46321,
-    "imageUrl": "/atl/121052--2"
   },
   {
     "id": "121053--2",
@@ -10280,14 +9696,6 @@
     "imageUrl": "/atl/121058--2"
   },
   {
-    "id": "121060--2",
-    "name": "GDOT-1246: I-95 N at US25 MM 35.7 (Glynn)",
-    "area": "atl",
-    "latitude": 31.220187,
-    "longitude": -81.522563,
-    "imageUrl": "/atl/121060--2"
-  },
-  {
     "id": "121061--2",
     "name": "GDOT-1247: I-95 N at US17 MM 37.6 (Glynn)",
     "area": "atl",
@@ -10310,14 +9718,6 @@
     "latitude": 31.491743,
     "longitude": -81.447095,
     "imageUrl": "/atl/121063--2"
-  },
-  {
-    "id": "121065--2",
-    "name": "GDOT-1253: I-95 N at SR21 MM 107.7 (Chatham)",
-    "area": "atl",
-    "latitude": 32.19022,
-    "longitude": -81.194921,
-    "imageUrl": "/atl/121065--2"
   },
   {
     "id": "121066--2",
@@ -10360,14 +9760,6 @@
     "imageUrl": "/atl/121070--2"
   },
   {
-    "id": "126515--2",
-    "name": "GDOT-1395: SR30/US280 E at SR56 MM 4.6 (Tattnall)",
-    "area": "atl",
-    "latitude": 32.081053,
-    "longitude": -82.132811,
-    "imageUrl": "/atl/126515--2"
-  },
-  {
     "id": "126516--2",
     "name": "GDOT-1398: I-16 E at AbercornSt MM 165 (Chatham)",
     "area": "atl",
@@ -10400,36 +9792,12 @@
     "imageUrl": "/atl/126519--2"
   },
   {
-    "id": "126521--2",
-    "name": "GDOT-1413: US84 E at SR15 MM 6.8 (Pierce)",
-    "area": "atl",
-    "latitude": 31.305842,
-    "longitude": -82.242177,
-    "imageUrl": "/atl/126521--2"
-  },
-  {
     "id": "126522--2",
     "name": "GDOT-1416: I-95 N before US341 MM 32.7 (Glynn)",
     "area": "atl",
     "latitude": 31.182549,
     "longitude": -81.543899,
     "imageUrl": "/atl/126522--2"
-  },
-  {
-    "id": "126537--2",
-    "name": "GDOT-1396: I-95 N at SR26/US80 MM 102 (Chatham)",
-    "area": "atl",
-    "latitude": 32.112778,
-    "longitude": -81.237397,
-    "imageUrl": "/atl/126537--2"
-  },
-  {
-    "id": "126538--2",
-    "name": "GDOT-1399: I-16 E at WGwinnettSt MM 166.5 (Chatham)",
-    "area": "atl",
-    "latitude": 32.069511,
-    "longitude": -81.107531,
-    "imageUrl": "/atl/126538--2"
   },
   {
     "id": "126539--2",
@@ -10446,30 +9814,6 @@
     "latitude": 31.396342,
     "longitude": -81.448314,
     "imageUrl": "/atl/126540--2"
-  },
-  {
-    "id": "126542--2",
-    "name": "GDOT-1411: SR40 W at SR110 MM .9 (Camden)",
-    "area": "atl",
-    "latitude": 30.835819,
-    "longitude": -81.889386,
-    "imageUrl": "/atl/126542--2"
-  },
-  {
-    "id": "126543--2",
-    "name": "GDOT-1414: I-95 S before HarrietsBluffRd MM 7.6 (Camden)",
-    "area": "atl",
-    "latitude": 30.851605,
-    "longitude": -81.674893,
-    "imageUrl": "/atl/126543--2"
-  },
-  {
-    "id": "126544--2",
-    "name": "GDOT-1417: I-95 N past US84 MM 78.5 (Liberty)",
-    "area": "atl",
-    "latitude": 31.809404,
-    "longitude": -81.365584,
-    "imageUrl": "/atl/126544--2"
   },
   {
     "id": "126546--2",
