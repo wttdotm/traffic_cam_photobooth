@@ -19,8 +19,8 @@
 
         const getRelativeDistance = (userCoords, cameraCoords) => {
             // console.log("IM RUNINNG")
-            userCoords.latitude = 47
-            userCoords.longitude = -122.7488
+            // userCoords.latitude = 47
+            // userCoords.longitude = -122.7488
             return Math.pow((Math.abs(userCoords.latitude) - Math.abs(cameraCoords.latitude)), 2) + Math.pow((Math.abs(userCoords.longitude) - Math.abs(cameraCoords.longitude)), 2)
         }
         let currentCamera = 0
