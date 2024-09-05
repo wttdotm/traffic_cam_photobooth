@@ -7,12 +7,13 @@ const testIfStreamReturnsImage = require('./testIfStreamReturnsImage.js')
 console.log(testIfStreamReturnsImage)
 const cors = require('cors');
 // const atl_cameras = require('../server_lists/atl_server.json');
-const sea_cameras = require('../server_lists/sea_server.json');
+// const sea_cameras = require('../server_lists/sea_server.json');
+const mn_cameras = require('../camera_sources/mn_server_initial.json');
 
 const testedClientArr = {}
 const testedServerObj = []
 
-let area = 'atl'
+let area = 'mn'
 
 const convertServerObjToClientObj = (cam) => {
     return {
@@ -32,11 +33,12 @@ async function checkCameras (cameraObj) {
     for (let camera in cameraObj) {
         total++
         let thisCam = cameraObj[camera]
-        // console.log(atl_cameras[camera])
+        console.log(thisCam)
         let ffmpegCommand
 
         const ffmpegPromise = new Promise((resolve, reject) => {
             let foundImage = false;
+            console.log(thisCam.liveCameraUrl)
             ffmpegCommand = ffmpeg(`${thisCam.liveCameraUrl}`)
                 .frames(1)
                 .outputOptions('-q:v 2')
@@ -45,9 +47,11 @@ async function checkCameras (cameraObj) {
                     let errMessage = `Error: ${err}`
                     if (errMessage.indexOf('SIGKILL') == -1) console.error('Error:', err);
                     foundImage = false;
+                    console.log("rejecting")
                     reject(`err: ${err}`);
                 })
                 .on('data', (chunk) => {
+                    console.log("got data")
                     foundImage = true;
                 })
                 .on('end', () => {
@@ -56,6 +60,7 @@ async function checkCameras (cameraObj) {
                         numThatWork++
                         resolve('success');
                     } else {
+                        console.log("ended with no image")
                         resolve('failed');
                     }
                 })
@@ -65,7 +70,7 @@ async function checkCameras (cameraObj) {
                     // command.on('error', function() {
                     //   console.log('Ffmpeg has been killed');
                     // });
-                    // console.log("Attemptint ot kill")
+                    console.log("Attemptint ot kill bc itmeoiut")
                     ffmpegCommand.kill();
                     // reject('timed out')
                   }, 4000, ffmpegCommand);
@@ -88,4 +93,4 @@ async function checkCameras (cameraObj) {
     }
 }
 
-checkCameras(sea_cameras)
+checkCameras(mn_cameras)

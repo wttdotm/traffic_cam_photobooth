@@ -10,6 +10,8 @@
         const urlParams = new URLSearchParams(queryString);
         let cameraId = urlParams.get('cameraId')
         let cameraUrl = urlParams.get('cameraUrl')
+        //I shuld really just add /api to the actual objects but ugh
+        cameraUrl = cameraUrl.indexOf("nyctmc") > -1 ? cameraUrl : `/api${cameraUrl}`
         let animeCon = false
         animeCon = cameraId === "aacbd8a1-56b6-4757-b0b0-1bea396469c6" ? true : false
         console.log(cameraId, cameraUrl)

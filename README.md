@@ -1,13 +1,33 @@
-
-
-great list - https://www.mygrandrv.com/forum/showthread.php/6842-US-Travel-Maps
-
-Addbale cameras: 
-- VA https://www.511virginia.org/
-
 # YOU ARE ON THE _*SERVER*_ BRANCH
 
 # Repo for TrafficCamPhotobooth.com
+
+# How this site works
+
+This site used to be completely static. In order to add more cities, I have changed it over to an Express server running on a digital ocean droplet. The one and only change this enables - aside from DO serving the still entirely static frontend instead of GH pages - is that it allows me to "host" images from other cities' video-based traffic cameras by providing an endpoint that, when requested, used ffmpeg to grab a screenshot of the livestream and return it as an image to the user's browser.
+
+# How to contribute a city
+
+A city needs two things to be added to the site: a client array of cameras and a server object of cameras. The client array is imported into the `findCameras.html` page on load as a `<script src="[city]_client.js"></script>` tag and contains an array of objects that have each camera's name, area/city, lat/long coordinates, and serverUrl. The server object is a big JSON of key-value pair of camera IDs as keys and the camera objects they refer to as object. More about what these look like can be found by opening any of the lists in `./public/client_lists` for the client arrays or `./server_lists/` for the server jsons.
+
+To contribute a city, you need to do four things:cr
+1 - Find out if your city or area has a large list of m3u8 live video streams (for example, [Arizona](https://www.az511.com/) does)
+2 - Scrape all of the cameras into a big list (there are some example scripts in varying states of working in `./scrape_scripts`)
+3 - Validate which cameras work and which do not (I need to provide a better script here)
+4 - Use the validated server list to create a validated client list
+
+Once you have a valid server object and client list that _*has been tested*_, you should add them to `./public/client_lists` for the client arrays or `./server_lists/` for the server jsons and submit a PR. Please provide the output of the `validate_server_and_create_client.js` output with your PR.
+
+
+The getCameraInfo function is pretty robust at this point. 
+### Next Cities to add
+[ ] NV https://www.nvroads.com/
+[ ] MN https://511mn.org/list/cameras
+[ ] NY (full)
+[ ] MD / DC https://chart.maryland.gov/TrafficCameras/GetTrafficCameras
+[ ] WI https://511wi.gov/cctv?start=0&length=10&order%5Bi%5D=1&order%5Bdir%5D=asc
+[ ] CO https://maps.cotrip.org/list/cameras
+
 
 ## Press coverage for TrafficCamPhotobooth.com
 - [NBC](https://www.nbcnewyork.com/news/local/how-to-take-selfies-with-new-york-citys-traffic-cameras/5698806/)
