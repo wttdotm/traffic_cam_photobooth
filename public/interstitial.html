@@ -12,6 +12,7 @@
         let cameraUrl = urlParams.get('cameraUrl')
         //I shuld really just add /api to the actual objects but ugh
         cameraUrl = cameraUrl.indexOf("nyctmc") > -1 ? cameraUrl : `/api${cameraUrl}`
+        cameraUrl = cameraUrl.replace("apiapi", "api")
         let animeCon = false
         animeCon = cameraId === "aacbd8a1-56b6-4757-b0b0-1bea396469c6" ? true : false
         console.log(cameraId, cameraUrl)
@@ -120,6 +121,7 @@
         }
 
         const refreshImage = () => {
+            cameraUrl = cameraUrl.replace("apiapi", "api")
             document.getElementById('image').setAttribute('src', `${cameraUrl}?cacheAvoidance=${Math.floor(Math.random() * 100000)}`)
         }
         refreshImage()
