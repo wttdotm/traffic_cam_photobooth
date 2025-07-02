@@ -22,6 +22,7 @@ const atl_cameras = require('./server_lists/atl_server.json');
 const mn_cameras = require('./server_lists/mn_server.json');
 const md_cameras = require('./server_lists/md_server.json');
 // const sea_cameras = require('./server_lists/sea_server.json');
+const ott_cameras = require("./server_lists/ott_server.json");
 
 app.use(express.static(path.join(__dirname, 'public')));
 
@@ -63,6 +64,9 @@ function getCameraUrl(area, cameraID) {
             break
         case 'az':
             cameraUrl = az_cameras[cameraID].liveCameraUrl
+            break
+        case 'ott':
+            cameraUrl = ott_cameras[cameraID].liveCameraUrl
             break
     }
 //   const cameras = area === 'sea' ? sea_cameras : atl_cameras;

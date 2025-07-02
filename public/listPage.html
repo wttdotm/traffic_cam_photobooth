@@ -8,8 +8,9 @@
     <script src="./client_lists/md_client.js"></script>
     <script src="./client_lists/mn_client.js"></script>
     <script src="./client_lists/nyc_client.js"></script>
+    <script src="./client_lists/ott_client.js"></script>
     <script>
-        let allCameras = [...nyc_cameras, ...atl_cameras, ...mn_cameras, ...md_cameras]
+        let allCameras = [...nyc_cameras, ...atl_cameras, ...mn_cameras, ...md_cameras, ...ott_cameras]
     </script>
     <style>
         html, body {
@@ -98,6 +99,11 @@
         <div class="panel">
             <ul id="derryCity"></ul>
         </div>
+
+        <button class="accordion">Ottawa</button>
+        <div class="panel">
+            <ul id="ottawa"></ul>
+        </div>
     </div>
     <script>
         allCameras.sort((a, b) => {
@@ -135,6 +141,9 @@
                     break
                 case 'mn':
                     document.getElementById("minnesota").appendChild(el)
+                    break
+                case 'ott':
+                    document.getElementById("ottawa").appendChild(el)
                     break
             }
         })
