@@ -1,24 +1,30 @@
 <html>
-  <head>
+
+<head>
     <title>Tips & Tricks</title>
+    <meta charset="UTF-8">
     <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.js"></script> -->
-    <link rel="stylesheet" href="styles.css"></style>
+    <link rel="stylesheet" href="styles.css">
+    </style>
     <script>
         const queryString = window.location.search;
         console.log(queryString);
         const urlParams = new URLSearchParams(queryString);
         let cameraId = urlParams.get('cameraId')
         let cameraUrl = urlParams.get('cameraUrl')
+        //I shuld really just add /api to the actual objects but ugh
+        cameraUrl = cameraUrl.indexOf("nyctmc") > -1 ? cameraUrl : `/api${cameraUrl}`
+        cameraUrl = cameraUrl.replace("apiapi", "api")
         let animeCon = false
         animeCon = cameraId === "aacbd8a1-56b6-4757-b0b0-1bea396469c6" ? true : false
         console.log(cameraId, cameraUrl)
     </script>
     <style>
-
         img {
             width: 100%;
             max-height: 40vh;
         }
+
         #errorDiv {
             display: none;
             text-align: left;
@@ -39,15 +45,27 @@
             min-width: 70vw;
             height: 5vh;
             background-color: #efefef;
-            padding : 20px;
+            padding: 20px;
             font-size: 3rem;
             padding: 20px;
             border-radius: 20px;
         }
     </style>
-  </head>
-  <body>
+</head>
+
+<body>
     <div class="main">
+        <!-- <h2 style="background-color: lime;" onclick="window.open(`https://vote.webbyawards.com/PublicVoting#/2025/websites-and-mobile-sites/general-desktop-mobile-sites/weird`, '_blank')">Like this site? Support it by voting for me in the <a href="https://vote.webbyawards.com/PublicVoting#/2025/websites-and-mobile-sites/general-desktop-mobile-sites/weird" target="_blank">Webby Awards</a>!</a></h2> -->
+        <!-- <div style="background-color: lime; border-radius: 10px; padding: 10px;">
+            <p><b>Like this site? Support it by <a href="https://vote.webbyawards.com/PublicVoting#/2025/websites-and-mobile-sites/general-desktop-mobile-sites/weird" target="_blank">voting for me in the Webby Awards!</a></b></p>
+<button 
+              onclick="window.open('https://vote.webbyawards.com/PublicVoting#/2025/websites-and-mobile-sites/general-desktop-mobile-sites/weird', '_blank')"
+              ontouchstart="this.style.backgroundColor='#00cc00'"
+              ontouchend="this.style.backgroundColor='lime'"
+              onmouseover="this.style.backgroundColor='#00cc00'; this.style.cursor='pointer'" 
+              onmouseout="this.style.backgroundColor='lime'"
+              style="width: 30vw !important; lime; color: black; border-radius: 10px; border: 3px solid black; padding: 10px; font-weight: bolder; margin-bottom: 20px; -webkit-tap-highlight-color: transparent;">VOTE HERE</button>
+          </div> -->
         <h1 id="mainHeaderText">How to take a good traffic camera picture:</h1>
         <div style="text-align: left;">
             <div style="margin-top: 20px;">
@@ -56,48 +74,79 @@
                 <img id="image" src="">
             </div>
             <div>
-                <br/>
+                <br />
                 <b>2. Don't get run over</b>
-                <p>Stop traffic with your looks, not your body</p><br/>
+                <p>Stop traffic with your looks, not your body</p><br />
             </div>
             <div>
                 <b>3. Bolder is better</b>
                 <p>To stand out, wear bright colors, bring large groups, etc</p>
-                <br/>
+                <br />
             </div>
             <div>
                 <b>4. Know how the cameras work</b>
                 <p>Most cameras only take new photos every two seconds, so hold your pose :)</p>
-                <br/>
+                <br />
+            </div>
+            <div>
+                <b>5. Agree to abide by local traffic laws <span style="color: red">*</span></b></br>
+                <label for="vehicle1">I agree not to use Traffic Cam Photobooth for any unlawful purpose. I will comply
+                    with all local laws while using Traffic Cam Photobooth, and I will not use Traffic Cam Photobooth in
+                    a manner that creates a foreseeable risk of harm or danger to myself or others. I have read and
+                    agree to these terms.</label><br>
+                <input type="checkbox" id="disclaimerBox" name="disclaimerBox" value="Bike"
+                    style="width: 100px; height: 100px;">
+                <br />
+                <br />
+                <br />
             </div>
             <div style="text-align: center; font-size: xx-large;">
-                <a class="finalLink" href="">
+                <a class="finalLink" href="#">
                     <button id="button" onclick="getUserLocation()">📸 > Take My Photo! > 📸</button>
-                  </a>
-                  
+                </a>
+
                 <!-- <b><a class="finalLink" id="finalLink" href="">>>>>>>>>>>>>>>>>>>>>>>>>>></a></b><br/>
                 <b><a class="finalLink" id="finalLink" href="">📸 > Take My Photo > 📸</a></b><br/>
                 <b><a class="finalLink" id="finalLink" href="">>>>>>>>>>>>>>>>>>>>>>>>>>></a></b> -->
             </div>
+            <br />
         </div>
     </div>
     <script>
+        var checkbox = document.querySelector("input[name=disclaimerBox]");
+
+        checkbox.addEventListener('change', function () {
+            if (this.checked) {
+                console.log("Checkbox is checked..");
+                let allLinks = document.getElementsByClassName('finalLink')
+                console.log(allLinks)
+                for (let link of allLinks) {
+                    if (animeCon) {
+                        link.setAttribute('href', `./animephotobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
+                    } else {
+                        link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
+                    }
+                }
+                document.getElementById('button').innerHTML = "📸 > Take My Photo! > 📸"
+            } else {
+                console.log("Checkbox is not checked..");
+            }
+        });
+
+        const getUserLocation = () => {
+            document.getElementById('button').innerHTML = "Check the box!"
+        }
+
         const refreshImage = () => {
+            cameraUrl = cameraUrl.replace("apiapi", "api")
             document.getElementById('image').setAttribute('src', `${cameraUrl}?cacheAvoidance=${Math.floor(Math.random() * 100000)}`)
         }
         refreshImage()
-        let allLinks = document.getElementsByClassName('finalLink')
-        console.log(allLinks)
-        for (let link of allLinks) {
-            if (animeCon) {
-                link.setAttribute('href', `./animephotobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
-            } else {
-                link.setAttribute('href', `./photobooth.html?cameraId=${cameraId}&cameraUrl=${cameraUrl}`)
-            }
-        }
+
 
 
         // .forEach(el => el.setAttribute('href', `./photobooth.html?cameraId=${cameraId}`))
     </script>
-  </body>
+</body>
+
 </html>

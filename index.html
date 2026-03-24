@@ -1,95 +1,147 @@
 <html>
-  <head>
-    <title>Traffic Cam Photobooth</title> <!-- ˜60 chars -->
-    <!-- HTML Meta Tags -->
-    <meta name="description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
 
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://trafficcamphotobooth.com">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Traffic Cam Photobooth">
-    <meta property="og:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
-    <meta property="og:image" content="https://trafficcamphotobooth.com/linkPreview.png">
+<head>
+  <title>Traffic Cam Photobooth</title> <!-- ˜60 chars -->
 
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="trafficcamphotobooth.com">
-    <meta property="twitter:url" content="https://trafficcamphotobooth.com">
-    <meta name="twitter:title" content="Traffic Cam Photobooth">
-    <meta name="twitter:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
-    <meta name="twitter:image" content="https://trafficcamphotobooth.com/linkPreview.png">
-    <link rel="stylesheet" href="styles.css"></style>
-    <script src="https://unpkg.com/htmx.org@2.0.2" integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ" crossorigin="anonymous"></script>
-    <script>
-      //this is diy alternative to a google analytics
-      //it only logs IP (for calcultating unique views) and event type
-      //there are two event types: this home page load and a picture load on the /photobooth page, this pixel doesnt appear anywhere else
-      //pls do not spam I just want to know how many ppl use my site
-      //you can view the source code at https://github.com/we-make-internet/home-page/blob/main/www/diyPixel/trafficCamPixel.php
-      fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=pageView')
-      const forceMobile = () => {
-        let notOnDesktop = document.getElementsByClassName('notOnDesktop')[0]
-        let onDesktop = document.getElementsByClassName('onDesktop')[0]
-        notOnDesktop.style.display = 'block'
-        onDesktop.style.display = 'none'
-        console.log(notOnDesktop, onDesktop)
+  <meta charset="UTF-8">
+  <!-- HTML Meta Tags -->
+  <meta name="description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://trafficcamphotobooth.com">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Traffic Cam Photobooth">
+  <meta property="og:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
+  <meta property="og:image" content="https://trafficcamphotobooth.com/linkPreview.png">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="trafficcamphotobooth.com">
+  <meta property="twitter:url" content="https://trafficcamphotobooth.com">
+  <meta name="twitter:title" content="Traffic Cam Photobooth">
+  <meta name="twitter:description" content="Take selfies with traffic cameras! An anti-surveillance site by WTTDOTM.">
+  <meta name="twitter:image" content="https://trafficcamphotobooth.com/linkPreview.png">
+  <link rel="stylesheet" href="styles.css">
+  </style>
+  <script src="https://unpkg.com/htmx.org@2.0.2"
+    integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ"
+    crossorigin="anonymous"></script>
+  <script>
+    //this is diy alternative to a google analytics
+    //it only logs IP (for calcultating unique views) and event type
+    //there are two event types: this home page load and a picture load on the /photobooth page, this pixel doesnt appear anywhere else
+    //pls do not spam I just want to know how many ppl use my site
+    //you can view the source code at https://github.com/we-make-internet/home-page/blob/main/www/diyPixel/trafficCamPixel.php
+    fetch('https://wemakeinter.net/diyPixel/trafficCamPixel.php?event=pageView')
+    const forceMobile = () => {
+      let notOnDesktop = document.getElementsByClassName('notOnDesktop')[0]
+      let onDesktop = document.getElementsByClassName('onDesktop')[0]
+      notOnDesktop.style.display = 'block'
+      onDesktop.style.display = 'none'
+      console.log(notOnDesktop, onDesktop)
+    }
+
+    async function testFetch() {
+      try {
+        const response = await fetch("https://api.webbyawards.com/api/PV/GetPVBallot", {
+          "headers": {
+            "accept": "application/json, text/plain, */*",
+            "accept-language": "en-US,en;q=0.9",
+            "content-type": "application/json;charset=UTF-8",
+            "sec-ch-ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"macOS\"",
+            "sec-fetch-dest": "empty",
+            "sec-fetch-mode": "cors",
+            "sec-fetch-site": "same-site"
+          },
+          "referrer": "https://vote.webbyawards.com/",
+          "referrerPolicy": "strict-origin-when-cross-origin",
+          "body": "{\"PropertyCategoryID\":49087,\"PropertyID\":1,\"PVUserID\":69}",
+          "method": "POST",
+          "mode": "cors",
+          "credentials": "include"
+        });
+        const data = await response.json();
+        let totalVotes = data.Data.Entries[1].TotalVoteCount
+        document.getElementById('totalVotes').innerHTML = totalVotes
+      } catch (error) {
+        console.error('Error:', error);
       }
-    </script>
-    <meta name="htmx-config" content='{"selfRequestsOnly":false}'> 
-    <style>
+    }
+
+    // Call the test function when page loads
+    window.addEventListener('load', testFetch);
+  </script>
+  <meta name="htmx-config" content='{"selfRequestsOnly":false}'>
+  <style>
+    .onDesktop {
+      color: black;
+      font-weight: bolder;
+      font-size: xx-large;
+      display: none;
+    }
+
+    form {
+      margin: 0 auto;
+      font-size: 1.2em;
+      width: 80%;
+      min-height: 30px;
+      align-self: center;
+      align-items: center;
+      justify-content: center;
+    }
+
+    input {
+      font-size: xx-large;
+    }
+
+    @media only screen and (min-width: 1000px) {
       .onDesktop {
-        color: black;
-        font-weight: bolder;
-        font-size: xx-large;
+        display: block
+      }
+
+      .notOnDesktop {
         display: none;
       }
-      form {
-        margin: 0 auto;
-        font-size: 1.2em;
-        width: 80%; 
-        min-height: 30px; 
-        align-self: center;
-        align-items: center; 
-        justify-content: center;
-      }
+    }
+  </style>
+</head>
 
-      input {font-size: xx-large;}
-
-      @media only screen and (min-width: 1000px) {
-        .onDesktop {
-          display: block
-        }
-
-        .notOnDesktop {
-          display: none;
-        }
-      }
-    </style>
-  </head>
-  <body>
-      <div class="main" id="main">
-        <h1>Welcome to Traffic Cam Photobooth</h1>
-        <p><i>Take selfies with surveillance!<br/><br/>A project by <a href="https://wttdotm.com">WTTDOTM</a></i></p>
-        <p><i><a href="./about.html">About Page</a></i></p>
-        <p><i><a href="./press.html">Press Links</a></i></p>
-        <br/>
-        <p class="notOnDesktop">Get started by finding your <br/><b>📸 <a href="./findCamera.html">nearest camera</a> 📸</b><br/>or browse the <br/>🧭 <b><a href="./map.html">camera map</a></b> 🧭</p>
-        <div class="onDesktop">
-          <b>It looks like you might be on desktop, which I did not design for because I do not want you to bring your laptop into traffic :(
-            <br/>
-            <br/>
-            You can browse the <a href="./map.html?onDesktop=yes">Camera Map</a> in the meantime!</b><br/>
-            Come back when you're outside :)<br/>(<a href="#" onclick="forceMobile()">use the site anyway</a>)
-        </div>
-      <!-- <br/>
-      <p><a href="./animenyc.html">Anime Con NYC Page</a></p> -->
-      <br/>
-        <p>Hear About New Projects:</p>
-        <form hx-post="https://wttdotm-email_capture.web.val.run/">
-          <input type="email" id="email" name="email" placeholder="your@email.com">  <input type="submit" value="Submit">
-        </form>
-        <br/>
-        <p>Know how to code?<br/><a href="https://github.com/wttdotm/traffic_cam_photobooth">Add your city!</a></p>
+<body>
+  <div class="main" id="main">
+    <h1>Welcome to Traffic Cam Photobooth</h1>
+    <p><i>Take selfies with surveillance!<br /><br />A project by <a href="https://wttdotm.com">WTTDOTM</a></i></p>
+    <p><i><a href="./about.html">About Page</a></i> || <i><a href="./press.html">Press Links</a></i></p>
+    <p><i><a href="./assets/CeaseAndDesist.pdf">Cease and Desist lol</a></i></p>
+    <br />
+    <p class="notOnDesktop">Get started by finding your <br /><b>📸 <a href="./findCamera.html">nearest camera</a>
+        📸</b><br />or browse the <br />🧭 <b><a href="./map.html">camera map</a></b> 🧭</p>
+    <br />
+    <div class="onDesktop">
+      <b>It looks like you might be on desktop, which I did not design for because I do not want you to bring your
+        laptop into traffic :(
+        <br />
+        <br />
+        You can browse the <a href="./map.html?onDesktop=yes">Camera Map</a> in the meantime!</b><br />
+      Come back when you're outside :)<br />(<a href="#" onclick="forceMobile()">use the site anyway</a>)
     </div>
-  </body>
+
+    <br />
+    <p>Hear About New Projects:</p>
+    <form hx-post="https://wttdotm-email_capture.web.val.run/">
+      <input type="email" id="email" name="email" placeholder="your@email.com"> <input type="submit" value="Submit">
+    </form>
+    <br />
+    <p>Know how to code?<br /><a href="https://github.com/wttdotm/traffic_cam_photobooth">Add your city!</a></p>
+    <br />
+    <br />
+    <p style="font-size: small;"><i>Use in accordance with local traffic laws. Not affiliated with any government
+        agency.</i></p>
+  </div>
+  <script>
+
+  </script>
+</body>
+
 </html>
